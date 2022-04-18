@@ -1,0 +1,123 @@
+,index,0;1;2;3;4;Answer,Words
+0,0.0,The dimensional formula of \(\vec{E}\) is:;(a)[MLT-2A-1];(b) [MLT-3A-1];(c) [MLT-2A-2];(d) None of these;(b) [MLT-3A-1],year
+1,1.0,The dimensional formula of is:;(a) [MLT-2A-1];(b) [ML0T-2A-1];(c) [ML0T-3A-1];(d) None of these;(b) [ML0T-2A-1],ultra
+2,2.0,Which of the following has the dimensions of current?;(a) ε0 \(\vec{E}\).\(\vec{dt}\);(b) µ0 \(\vec{E}\).\(\vec{dt}\);(c) \(\frac{\vec{B}.\vec{dl}}{µ_0}\);(d) \(\frac{\vec{B}.\vec{dl}}{ε_0}\);(c) \(\frac{\vec{B}.\vec{dl}}{µ_0}\),wrong
+3,3.0,Which of the following has the dimensions of charge?;(a) \(\frac{ε_0\vec{E}}{\vec{ds}}\);(b) µ0 \(\vec{E}\).\(\vec{ds}\);(c) \(\frac{ε_0}{µ_0}\) \(\vec{E}\).\(\vec{ds}\);(d) \(\frac{µ_0}{ε_0}\) \(\vec{E}\).\(\vec{ds}\);(a) \(\frac{ε_0\vec{E}}{\vec{ds}}\),visible
+4,4.0,Maxwell’s equation involving \(\frac{d}{dt}\) \(\vec{B}\) is obtained-from:;(a) Ampere’s law;(b) Gauss’s law;(c) Faraday’s law;(d) Biot-Savart’s law;(c) Faraday’s law,xray
+5,5.0,Which of the following laws was modified by Maxwell by introducing the displacement current?;(a) Gauss’s law;(b) Ampere’s law;(c) Biot-Savart’s law;(d).None of these;(b) Ampere’s law,formula
+6,6.0,Choose the wave relevant to telecommunication :;(a) ultraviolet;(b) infrared;(c) microwave;(d) visible light;(c) microwave,following
+7,7.0,Electromagnetic waves have a speed of;(a) 3 × 105 kms-1;(b)3 × 106 kms-1;(c) 3 × 107 kms-1;(d) 3 × 108 kms-1;(a) 3 × 105 kms-1,radiowave
+8,8.0,Which of the following EMW has highest wavelength?;(a) X-ray;(b) ultraviolet rays;(c) infrared rays;(d) microwaves;(c) infrared rays,accelerating
+9,9.0,Displacement current is due to:;(a) the flow of electrons;(b) the Varying electric field;(c) the ionization of atmosphere;(d) the flow of protons;(b) the Varying electric field,longitudinal
+10,10.0,Displacement current is always :;(a) equal to conduction current;(b) less than conduction current;(c) greater than conduction current;(d) the sum of current due to flow of positive and negative ions;(a) equal to conduction current,light
+11,11.0,EMW are produced by:;(a) charge in uniform motion only;(b) charge at rest only;(c) accelerated or decelerated charge only;(d) all of the above;(c) accelerated or decelerated charge only,modified
+12,12.0,Who first demonstrated the existence of em waves?;(a) Hertz;(b) Maxwell;(c) Ampere;(d) Faraday;(a) Hertz,microwaves
+13,13.0,The dimensions of E/Bare same as that of:;(a) charge;(b) current;(c) velocity;(d) acceleration;(c) velocity,conduction
+14,14.0,Name the law which states that a varying electric field produces a magnetic field:;(a) Biot-Savart’s law;(b) Faraday’s law;(c) Modified Ampere’s law;(d) None of these;(c) Modified Ampere’s law,solar
+15,15.0,The existence of EMW was experimentally established by :;(a) Sir S. C. Bose;(b) Maxwell;(c) Marconi;(d) Hertz;(a) Sir S. C. Bose,electromagnetic
+16,16.0,Frequency of a wave is 6 × 1015. Hz. The wave is :;(a) Radiowave;(b) Microwave;(c) X-ray;(d) Ultra violet;(d) Ultra violet,demonstrated
+17,17.0,Choose the wrong statement?;(a) Electromagnetic waves are transverse;(b) Electromagnetic waves travel with the speed of light in free space;(c) Electromagnetic waves are produced by accelerating charges;(d) Electromagnetic waves travel with the same speed in all media;(d) Electromagnetic waves travel with the same speed in all media,\\frac{ε\vec{e}}{\vec{ds}}\
+18,18.0,Solar radiation is :;(a) transverse EMW;(b) longitudinal EMW;(c) both (a) and (b);(d) None of these;(a) transverse EMW,produced
+19,19.0,Ampere’s circuital law was modified by:;(a) Laplace;(b) Gauss;(c) Maxwell;(d) Hertz;(c) Maxwell,maxwell
+20,20.0,Light Year is the unit of:;(a) distance;(b) time;(c) energy;(d) intensity of light;(a) distance,biotsavart’s
+21,,,statement
+22,,,atmosphere
+23,,,hz
+24,,,lawnone
+25,,,unit
+26,,,d
+27,,,ultraviolet
+28,,,emw
+29,,,protons
+30,,,\\vec{e}\\\vec{ds}\
+31,,,ions
+32,,,gauss’s
+33,,,rest
+34,,,marconi
+35,,,free
+36,,,dimensional
+37,,,displacement
+38,,,produces
+39,,,obtainedfrom
+40,,,due
+41,,,current
+42,,,magnetic
+43,,,flow
+44,,,relevant
+45,,,velocity
+46,,,negative
+47,,,\\vec{b}\
+48,,,equation
+49,,,positive
+50,,,transverse
+51,,,acceleration
+52,,,none
+53,,,radiation
+54,,,ampere’s
+55,,,sir
+56,,,bose
+57,,,charges
+58,,,infrared
+59,,,sum
+60,,,[mlta]
+61,,,frequency
+62,,,rays
+63,,,wavelength
+64,,,decelerated
+65,,,intensity
+66,,,\\frac{ε}{µ}\
+67,,,electric
+68,,,states
+69,,,charge
+70,,,e/bare
+71,,,space
+72,,,maxwell’s
+73,,,energy
+74,,,\\frac{µ}{ε}\
+75,,,travel
+76,,,electrons
+77,,,laws
+78,,,first
+79,,,uniform
+80,,,motion
+81,,,experimentally
+82,,,choose
+83,,,highest
+84,,,speed
+85,,,field
+86,,,involving
+87,,,varying
+88,,,wave
+89,,,equal
+90,,,is[mlta]b
+91,,,violet
+92,,,law
+93,,,laplace
+94,,,introducing
+95,,,time
+96,,,ampere
+97,,,\\frac{d}{dt}\
+98,,,accelerated
+99,,,hertz
+100,,,media
+101,,,greater
+102,,,existence
+103,,,\\frac{\vec{b}\vec{dl}}{µ}\
+104,,,gauss
+105,,,microwave
+106,,,\\vec{e}\\\vec{dt}\
+107,,,name
+108,,,always
+109,,,\\vec{e}\
+110,,,kms
+111,,,telecommunication
+112,,,less
+113,,,established
+114,,,dimensions
+115,,,\\frac{\vec{b}\vec{dl}}{ε}\
+116,,,distance
+117,,,faraday’s
+118,,,circuital
+119,,,faraday
+120,,,waves
+121,,,ionization
