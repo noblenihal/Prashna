@@ -1,0 +1,82 @@
+,index,0;1;2;3;4;Answer,Words
+0,The vapour pressure of water at 300 K in a closed container is 0.4 atm. If the volume of container is doubled," its vapour pressure at 300 K will be;(a) 0.8 atm;(b) 0.2 atm;(c) 0.4 atm;(d) 0.6 atm;""(c) 0.4 atm",wrong
+1,Explanation:,,gaseous
+2,"Vapour pressure depends on T only and it does not depend on container volume.""",,break
+3,Explanation:,,smaller
+4,"The state of matter that shows the uniformity of behavior :;(a) Solid Liquid;(b) Liquid;(c) Gas;(d) None of the Above;""(c) Gas",,uniformity
+5,Explanation:,,compressible
+6,Of the three states of matter, the gaseous state is the simplest and shows greatest uniformity in behaviour. Gases show almost similar behaviour irrespective of their chemical nature. This state is characterized by:,become
+7,"Gases maintain neither the volume nor the shape. They completely fill the container in which they are placed.""",,measure
+8,"A gas deviates from ideal behavior at a high pressure because its molecules:;(a) Attract one another;(b) Show the Tyndall Effect;(c) Have kinetic energy;(d) Are bound by covalent bonds;""(a) Attract one another",,nature
+9,Explanation:,,ratio
+10,Explanation:,,size
+11,The value of the gas constant R depends on the units used for pressure," volume and temperature.""",root
+12,Explanation:,,irrespective
+13,"Vc = 3b = 3 × 4N × (4/3) πr³""",,faster
+14,"Which of the following statement is wrong for gases?;(a) Gases do not have definite shape and volume;(b) Volume of the gas is equal to the volume of the container confining the gas;(c) Confined gas exert uniform pressure on the wall of the container in all directions;(d) Mass of the gas cannot be determined by weighing a container in which it is contained;""(d) Mass of the gas cannot be determined by weighing a container in which it is contained",,collisions
+15,Explanation:,,therefore
+16,Mass of the gas = mass of the cylinder including gas – mass of empty cylinder. So mass of a gas can be determined by weighing the container in which it is enclosed. Thus," the statement (d) is wrong for gases.""",value
+17,In van der Waal equation of state of gas laws," the constant b is a measure of;(a) Intermolecular collisions per unit volume;(b) Intermolecular attraction;(c) Volume occupied by the molecules;(d) Intermolecular repulsions;""(c) Volume occupied by the molecules",molar
+18,Explanation:,,shows
+19,In van der Waals equation of state of the gas law," the constant b is a measure of the volume occupied by the molecules. It gives the effective size of the gas molecules. The greater value of b indicates a larger size of the molecules and smaller compressible volume.""",rutherfords
+20,"The volume of 2.8 g of carbon monoxide at 27°C and 0.0821 atm is;(a) 30 L;(b) 3 L;(c) 0.3 L;(d) 1.5 L;""(a) 30 L",,rapid
+21,Explanation:,,atomic
+22,According to the ideal gas equation, we have,temperature
+23,PV = nRT,,pv
+24,​PV = (\(\frac {w}{M}\)) RT,,kinetic
+25,​V = ​ (\(\frac {w}{M}\)) (\(\frac {RT}{P}\)),,different
+26,Given values are:,,get
+27,w = 2.8 g,,methane
+28,M = Molar mass of CO = 28 g mol-1,,greatest
+29,T = 27°C = (273 + 27) = 300 K,,indicates
+30,P = 0.821 atm,,mass
+31,R = 0.0821 L atm mol-1 K-1,,gas
+32,Putting the values in the formula we get :,,vapour
+33,V = (2.8 g /28 g mol-1) × (0.0821 L atm mol-1 K-1) × (300 K)/(0.821 atm),,inversely
+34,"= 3 L""",,volume
+35,If 20cm³ gas at 1 atm. is expanded to 50 cm³ at constant T," then what is the final pressure;(a) 20 × 150;(b) 50 × 120;(c) 1 × 120 × 50;(d) None of these;""(a) 20 × 150",effective
+36,Explanation:,,density
+37,At constant T, P1V1 = P2V2,atm
+38,1 × 20 = P2 × 50;,,constant
+39,"P2 = (\(\frac {20}{ 50}\)) × 1""",,simplest
+40,How many of the know elements exist as gases at 25°C?;(a) 9;(b) 11;(c) 12;(d) 15;(b) 11,,almost
+41,"The states of matter having no definite shape but definite volume:;(a) Gas;(b) Liquid;(c) Solid;(d) None of the Above;""(b) Liquid",,dense
+42,Explanation:,,option
+43,"The rise or fall of a liquid within a tube of small bore is called:;(a) Surface Tension;(b) Capillary Action;(c) Viscosity;(d) Formation of Curvature;""(b) Capillary Action",,rate
+44,Explanation:,,statement
+45,The theory which explains that gases consist of molecules," which are in rapid option is known as:;(a) Daltons Atomic Theory;(b) Bohrs Theory;(c) Rutherfords Atomic Theory;(d) Kinetic Molecular Theory;""(d) Kinetic Molecular Theory",attraction
+46,Explanation:,,repulsions
+47,"Falling drop of water is spherical due to:;(a) Hydrogen Bonding;(b) Surface Tension;(c) Capillary Action;(d) Vlscosity;""(b) Surface Tension",,bohrs
+48,Explanation:,,particles
+49,"Raindrops take up the spherical shape due to the surface tension of water which is caused due to the tendency of water molecules to stick together. The spherical shape is having the least possible surface area due to which it can resist any of the external force in the atmosphere.""",,final
+50,"The rates of diffusion of gases are inversely proportional to square root of their densities . This statement refers to :;(a) Daltons Law;(b) Grahams Law;(c) Avogadros Law;(d) None of the Above;""(b) Grahams Law",,behaviour
+51,Explanation:,,state
+52,Grahams law states that the rate of diffusion of a gas is inversely proportional to the square root of its molecular weight. In the same conditions of temperature and pressure, the molar mass is proportional to the mass density. Therefore the rate of diffusion of different gases is inversely proportional to the square root of their mass densities.,make
+53,r α (\(\sqrt{\frac {1}{d}}\)),,per
+54,"and r α (\(\sqrt{\frac {1}{M}}\))""",,apart
+55,Explanation:,,characterized
+56,A statement of Boyles law is as follows:,,known
+57,The volume of a given mass of a gas is inversely related to pressure when the temperature is constant.​,,none
+58,V ∝ (\(\frac {1}{P}\)) meaning “Volume is inversely proportional to Pressure”, or,move
+59,P ∝ (\(\frac {1}{V}\)) meaning “Pressure is inversely proportional to Volume”, or,densities
+60,If helium and methane are allowed to diffuse out of the container under the similar conditions of temperature and pressure," then the ratio of rate of diffusion of helium to methane is:;(a) 2 : 1;(b) 1 : 2;(c) 3 : 5;(d) 4 : 1;""(a) 2 : 1",gases
+61,Explanation:,,nan
+62,According to Grahams law,,chemical
+63,(\(\frac {r_1}{r_2}\)) = (\(\sqrt{\frac {M_1}{M_2}}\)),,intermolecular
+64,(rHe/rCH4) = (\(\sqrt{\frac {16}{4}}\)),,molecular
+65,"= (\(\frac {1}{2}\))""",,greater
+66,When you heat a sample of gas," what happens to the particles that make up the gas?;(a) The particles move faster.;(b) The particles break apart;(c) The particles get smaller;(d) The particles become more dense;""(a) The particles move faster.",helium
+67,Explanation:,,unit
+68,,,gives
+69,,,pressure
+70,,,proportional
+71,,,happens
+72,,,similar
+73,,,daltons
+74,,,larger
+75,,,theory
+76,,,occupied
+77,,,square
+78,,,molecules
+79,,,diffusion
+80,,,show

@@ -1,0 +1,138 @@
+,index,0;1;2;3;4;Answer,Words
+0,0.0,De-Broglie equation states the:;(a) dual nature;(b) particle nature;(c) wave nature;(d) none of these;(a) dual nature,number
+1,1.0,Protons and alpha particles have the same de-Broglie wavelength. What is same for both of them ?;(a) Energy;(b) Time period;(c) Frequency;(d) Momentum;(d) Momentum,threshold
+2,2.0,Kinetic energy of emitted electrons depends upon :;(a) frequency;(b) intensity;(c) nature of atmosphere surrounding the electrons;(d) none of these;(a) frequency,interatomic
+3,3.0,De-Broglie wavelength of a body of mass m and kinetic energy E is given by (symbols have their usual meanings):;(a) \(\frac{h}{\sqrt{2mE}}\);(b) \(\frac{h}{2mE}\);(c) \(\frac{\sqrt{2mE}}{h}\);(d) \(\frac{h}{mE}\);(a) \(\frac{h}{\sqrt{2mE}}\),usual
+4,4.0,The ratio of specific charge of an alpha particle to the proton is:;(a) 1 : 2;(b) 2 : 1;(c) 4 : 1;(d) 1 : 4;(a) 1 : 2,specific
+5,5.0,In Thomson’s experiment number of parabola gives :;(a) the no. of electrons present in element;(b) the no. of proton present in element;(c) the no. of neutrons present in element;(d) the no. of isotopes of the element present;(d) the no. of isotopes of the element present,ratio
+6,6.0,The work function of photoelectric material is 3.3 eV. The threshold frequency will be equal to:;(a) 8 × 1014 Hz;(b) 8 × 1010 Hz;(c) 5 × 1010 Hz;(d) 4 × 1014 Hz;(a) 8 × 1014 Hz,visible
+7,7.0,The strength of photoelectric current depends upon :;(a) angle of incident radiation;(b) frequency of incident radiation;(c) intensity of incident radiation;(d) distance between anode and cathode;(b) frequency of incident radiation,following
+8,8.0,The momentum of an electron that emits a wavelength of 2 Å. will be:;(a) 6.4 × 10-36 kgms-1;(b) 3.3 × 10-24 kgms-1;(c) 3.3 × 10-34 kgms-1;(d) none of these;(b) 3.3 × 10-24 kgms-1,\\frac{\sqrt{me}}{h}\
+9,9.0,Name the scientists who first studied the passage of electricity through fluids to establish the electrical nature of matter:;(a)Millikan;(b) Planck;(c) Faraday;(d) Boyle;(c) Faraday,emits
+10,10.0,Millikan’s oil drop experiment makes use of:;(a) Stokes’ law;(b) Boyle’s law;(c) Gas equation;(d) Bernoulli’s theorem;(a) Stokes’ law,nature
+11,11.0,X-rays are:;(a) deflected by an electric field;(b) deflected by a magnetic field;(c) deflected by both electric and magnetic fields;(d) not deflected by electric and magnetic fields;(d) not deflected by electric and magnetic fields,cathode
+12,12.0,Which of the following radiations cannot eject photo electrons?;(a) ultraviolet;(b) infrared;(c) visible;(d) X-rays;(b) infrared,light
+13,13.0,What is the de-Broglie wavelength of an electron accelerated from rest through a potential difference of V volts?;(a) \(\frac{12.3}{V^2}\) Å;(b) \(\frac{12.3}{V}\) Å;(c) \(\frac{12.2}{V^2}\) Å;(d) None of these;(a) \(\frac{12.3}{V^2}\) Å,particle
+14,14.0,What is the de-Broglie wavelength of an electron accelerated from rest through a potential difference of 100 volts?;(a) 12.3 Å;(b) 1.23 Å;(c) 0.123 Å;(d) None of these;(b) 1.23 Å,kgms
+15,15.0,What is the de-Broglie wavelength of a proton accelerated from rest through a potential difference of V volts?;(a) \(\frac{12.3}{√V}\) Å;(b) \(\frac{12.3}{V}\) Å;(c) \(\frac{12.2}{V^2}\) Å;(d) None of these;(d) None of these,millikan’s
+16,16.0,Evidence of the wave nature of light cannot be obtained from:;(a) diffraction;(b) interference;(c) doppler effect;(d) reflection;(d) reflection,obtained
+17,17.0,which Characteristic of a target does the Mosley’s law relate the frequency of X-rays?;(a) density;(b) atomic number;(c) atomic weight;(d) interatomic space;(b) atomic number,photoelectric
+18,18.0,The charge of a photo electron is :;(a) 9.1 × 10-31 C;(b) 9.1 × 10-27 C;(c) 9.1 × 10-24 C;(d) none of these;(d) none of these,experiment
+19,19.0,The different stages of discharge in a discharge tube can be explained on the basis of:;(a) the wave nature of light;(b) the dual nature of light;(c) wave nature of electrons;(d) the collision between the charged particles emitted from the cathode the atoms of the gas in the tube;(d) the collision between the charged particles emitted from the cathode the atoms of the gas in the tube,basis
+20,,,explained
+21,,,period
+22,,,cannot
+23,,,deflected
+24,,,discharge
+25,,,evidence
+26,,,doppler
+27,,,stages
+28,,,atmosphere
+29,,,hz
+30,,,volts
+31,,,element
+32,,,boyle
+33,,,gas
+34,,,relate
+35,,,ultraviolet
+36,,,eject
+37,,,meanings
+38,,,charged
+39,,,protons
+40,,,material
+41,,,fields
+42,,,function
+43,,,density
+44,,,rest
+45,,,particles
+46,,,strength
+47,,,theorem
+48,,,dual
+49,,,characteristic
+50,,,current
+51,,,magnetic
+52,,,electrical
+53,,,oil
+54,,,electron
+55,,,xrays
+56,,,ev
+57,,,use
+58,,,equation
+59,,,effect
+60,,,parabola
+61,,,diffraction
+62,,,weight
+63,,,none
+64,,,angle
+65,,,radiation
+66,,,depends
+67,,,body
+68,,,difference
+69,,,establish
+70,,,collision
+71,,,interference
+72,,,infrared
+73,,,mass
+74,,,planck
+75,,,different
+76,,,photo
+77,,,\\frac{h}{me}\
+78,,,frequency
+79,,,wavelength
+80,,,intensity
+81,,,scientists
+82,,,electric
+83,,,states
+84,,,alpha
+85,,,work
+86,,,charge
+87,,,boyle’s
+88,,,mosley’s
+89,,,space
+90,,,energy
+91,,,emitted
+92,,,electrons
+93,,,gives
+94,,,incident
+95,,,first
+96,,,tube
+97,,,atomic
+98,,,stokes’
+99,,,field
+100,,,\\frac{}{√v}\
+101,,,symbols
+102,,,potential
+103,,,wave
+104,,,kinetic
+105,,,equal
+106,,,radiations
+107,,,law
+108,,,thomson’s
+109,,,time
+110,,,electricity
+111,,,proton
+112,,,neutrons
+113,,,accelerated
+114,,,present
+115,,,fluids
+116,,,target
+117,,,debroglie
+118,,,passage
+119,,,isotopes
+120,,,name
+121,,,surrounding
+122,,,bernoulli’s
+123,,,anode
+124,,,reflection
+125,,,upon
+126,,,studied
+127,,,drop
+128,,,momentum
+129,,,atoms
+130,,,given
+131,,,distance
+132,,,mattermillikanb
+133,,,faraday
+134,,,\\frac{h}{\sqrt{me}}\
+135,,,\\frac{}{v}\
+136,,,makes
