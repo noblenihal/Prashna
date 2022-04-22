@@ -15,10 +15,14 @@ import io
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import re
+import string
+
+
+
 stop_words = set(stopwords.words('english')) 
 
-path = 'D:\\SIH\\Vidhu\\Cleaned_Phy\\'
-filelist = glob.glob(path + "/*.csv")
+path = 'D:\\SIH\\Prashna\\Cleaned_Data\\Data_Chem'
+filelist = glob.glob(path + "\\*.csv")
 for file in filelist:
     df = pd.read_csv(file, error_bad_lines=False)
     
@@ -31,50 +35,61 @@ for file in filelist:
 
     
     final=pd.DataFrame(data=dff, index=None, columns=['A'])
-    final=final[(final.A.astype(str).str.len()>2)]
-    final
-
-    final['A'] = final['A'].str.replace(',','')
-    final['A'] = final['A'].str.replace("'",'')
-    final['A'] = final['A'].str.replace('"','')
-    final['A'] = final['A'].str.replace('.','')
-    final['A'] = final['A'].str.replace('\d+'," ")
-    final['A'] = final['A'].str.replace(';','')
-    final['A'] = final['A'].str.replace(':','')
-    final['A'] = final['A'].str.replace('+','')
-    final['A'] = final['A'].str.replace('-','')
-    final['A'] = final['A'].str.replace('?','')
-    final['A'] = final['A'].str.replace('%','')
-    final['A'] = final['A'].str.replace('^','')
+    df.head()
 
 
-    filteredtext1 = []
-    for word in final['A']:
+    # filteredtext1 = []
+    # for word in final['A']:
       
-      if word.lower() not in stop_words:
-        filteredtext1.append(word)
-    filteredtext1
+    #   if word.lower() not in stop_words:
+    #     filteredtext1.append(word)
+    # filteredtext1
 
-    cleanfiltered=[]
-    for txt in filteredtext1:
-      txt = txt.replace(' ','')
+    # cleanfiltered=[]
+    # for txt in filteredtext1:
+    #   txt = txt.replace(' ','')
           
-      x = re.search("\([a-zA-Z]\)", txt)
+    #   x = re.search("\([a-zA-Z]\)", txt)
+    #   if(x!=None):
+    #     txt=txt[:x.start()]+txt[x.end():]
+    #   if txt.lower() not in stop_words:
+    #     if(len(txt)>1):
+    #       txt = txt.replace('(','')
+    #       txt = txt.replace(')','')
+    #       txt = txt.replace('-','')
+    #       txt = txt.replace('_','')
+          
+    #       cleanfiltered.append(txt.lower().strip())
+    
+    #CLEANING DATA
+    stop_words = set(stopwords.words('english')) 
+    cleanfiltered=[]
+    for txt in final['A']:
+  
+      x = re.search("\([\w]\)", txt)
       if(x!=None):
         txt=txt[:x.start()]+txt[x.end():]
+      x = re.search("\([\w]\)", txt)
+      if(x!=None):
+        txt=txt[:x.start()]+txt[x.end():]
+
+
+      if(txt.startswith('\\')or(txt.startswith('[')or(txt.startswith(string.punctuation)))):
+         txt=""   
+  
+      txt=re.sub(r"[^a-zA-Z]","",txt)
       if txt.lower() not in stop_words:
-        if(len(txt)>1):
-          txt = txt.replace('(','')
-          txt = txt.replace(')','')
-          txt = txt.replace('-','')
-          txt = txt.replace('_','')
-          
+        if(txt!=""):
           cleanfiltered.append(txt.lower().strip())
-    
 
+       
+#REMOVING DUPLICATES
     cleanfiltered[:]=list(set(cleanfiltered))
-
+    print(cleanfiltered)
+    
+#SAVING DATA TO CSV
     tr=pd.DataFrame(data=cleanfiltered, index=None, columns=['Words'])
+    tr=tr[(tr.Words.astype(str).str.len()>2)]
 
     df = pd.concat([df.reset_index(), tr], axis=1)
 

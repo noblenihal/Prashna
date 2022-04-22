@@ -1,153 +1,142 @@
 ,index,0;1;2;3;4;Answer,Words
 0,0.0,"The chemistry of lithium is very similar to that of magnesium even though they are placed in different groups. Its reason is:;(a) Both are found together in nature;(b) Both have nearly the same size;(c) Both have similar electronic configuration;(d) The ratio of their charge and size (i.e. charge density) is nearly the same;""(d) The ratio of their charge and size (i.e. charge density) is nearly the same",series
-1,1.0,Explanation:,earth
-2,2.0,"The chemistry of lithium is very similar to that of magnesium even though they are placed in different groups because of diagonal relationship.""",placed
-3,3.0,"The element with atomic number 35 belongs to;(a) d – Block;(b) f – Block;(c) p – Block;(d) s – Block;""(c) p – Block",shielding
-4,4.0,Explanation:,gaseous
-5,5.0,Explanation:,te
-6,6.0,"The energy required to remove the most loosely bound electron from an isolated gaseous atom is called the ionisation energy. The ionisation potential decreases as the size of the atom decreases. Atoms with fully or partly filled orbitals have high ionisation potential.""",np
-7,7.0,"Representative elements are those which belong to;(a) p and d – Block;(b) s and d – Block;(c) s and p – Block;(d) s and f – Block;""(c) s and p – Block",belongs
-8,8.0,Explanation:,electro
-9,9.0,Elements in which all the inner shells are complete but outer shell is incomplete is known as representative elements i.e. Those elements which have less than 8 electrons in outermost shell are representative.,nature
-10,10.0,"s and p block elements except inert gas is known as representative elements.""",ratio
-11,11.0,"Which of the following properties generally decreases along a period?;(a) Ionization Energy;(b) Metallic Character;(c) Electron Affinity;(d) Valency.;""(b) Metallic Character",size
-12,12.0,Explanation:,together
-13,13.0,"On the Paulings electronegativity scale the element next to F is;(a) N;(b) Cl;(c) O;(d) Ne.;""(c) O",energy
-14,14.0,Explanation:,electrons
-15,15.0,Explanation:,increase
-16,16.0,Atomic number (Z) =15 =P → [Ne] 3s² 3p³,acidic
-17,17.0,Phosphorus belongs to 15th group,explanation
-18,18.0,"Number of valence electrons 3s²3p³ = 5 and valency = 3 in ground state.""",period
-19,19.0,"Which of the following oxides is amphoteric in character?;(a) SnO2;(b) CO2;(c) SiO2;(d) CaO;""(a) SnO2",loosely
-20,20.0,Explanation:,belong
-21,21.0,"CaO is basic; CO2 is acidic; SiO2 is weakly acidic. SnO2 is amphoteric.""",rn
-22,22.0,Explanation:,atom
-23,23.0,"The value of the principal quantum number (n) for the outermost shell or the valence shell indicates a period in the Modern periodic table.""",complete
-24,24.0,Explanation:,value
-25,25.0,"Tellurium (Te) has 5s²5p4 valence shell configuration. It belongs to group 16 and present in period 5 of the periodic table.""",electron
+1,1.0,Explanation:,amphoteric
+2,2.0,"The chemistry of lithium is very similar to that of magnesium even though they are placed in different groups because of diagonal relationship.""",relationship
+3,3.0,"The element with atomic number 35 belongs to;(a) d – Block;(b) f – Block;(c) p – Block;(d) s – Block;""(c) p – Block",required
+4,4.0,Explanation:,state
+5,5.0,Explanation:,except
+6,6.0,"The energy required to remove the most loosely bound electron from an isolated gaseous atom is called the ionisation energy. The ionisation potential decreases as the size of the atom decreases. Atoms with fully or partly filled orbitals have high ionisation potential.""",indicates
+7,7.0,"Representative elements are those which belong to;(a) p and d – Block;(b) s and d – Block;(c) s and p – Block;(d) s and f – Block;""(c) s and p – Block",
+8,8.0,Explanation:,metallic
+9,9.0,Elements in which all the inner shells are complete but outer shell is incomplete is known as representative elements i.e. Those elements which have less than 8 electrons in outermost shell are representative.,
+10,10.0,"s and p block elements except inert gas is known as representative elements.""",magnesium
+11,11.0,"Which of the following properties generally decreases along a period?;(a) Ionization Energy;(b) Metallic Character;(c) Electron Affinity;(d) Valency.;""(b) Metallic Character",present
+12,12.0,Explanation:,increase
+13,13.0,"On the Paulings electronegativity scale the element next to F is;(a) N;(b) Cl;(c) O;(d) Ne.;""(c) O",nsnp
+14,14.0,Explanation:,less
+15,15.0,Explanation:,alkaline
+16,16.0,Atomic number (Z) =15 =P → [Ne] 3s² 3p³,lithium
+17,17.0,Phosphorus belongs to 15th group,isolated
+18,18.0,"Number of valence electrons 3s²3p³ = 5 and valency = 3 in ground state.""",sno
+19,19.0,"Which of the following oxides is amphoteric in character?;(a) SnO2;(b) CO2;(c) SiO2;(d) CaO;""(a) SnO2",fully
+20,20.0,Explanation:,principal
+21,21.0,"CaO is basic; CO2 is acidic; SiO2 is weakly acidic. SnO2 is amphoteric.""",sio
+22,22.0,Explanation:,
+23,23.0,"The value of the principal quantum number (n) for the outermost shell or the valence shell indicates a period in the Modern periodic table.""",due
+24,24.0,Explanation:,increasing
+25,25.0,"Tellurium (Te) has 5s²5p4 valence shell configuration. It belongs to group 16 and present in period 5 of the periodic table.""",outer
 26,26.0,Explanation:,quantum
-27,27.0,"Correct order of electron affinity is Se < S < O. In a group electron affinity decreases with increase in atomic number.""",th
-28,28.0,Explanation:,ground
-29,29.0,"The value of the principal quantum number (n) for the outermost shell or the valence shell indicates a period in the Modern periodic table.""",atoms
-30,30.0,Explanation:,−s²s²ps²pds²p³
-31,31.0,"33−1s²2s²2p63s²3p63d104s²4p³""",f−block
-32,32.0,"The reduction in atomic size with increase in atomic number is a characteristic of elements of-;(a) d−block;(b) f−block;(c) Radioactive series;(d) High atomic masses;""(b) f−block",ns²np
-33,33.0,Explanation:,sio
-34,34.0,"The reduction in atomic size with increase in atomic number is a characteristic of elements of f- block. It is known as lanthanoid contraction and actinoid contraction. This is due to poor shielding of electrons present in f subshell.""",element
-35,35.0,"The number of elements in the 5th period of the periodic table is;(a) 3;(b) 9;(c) 8;(d) 18;""(d) 18",valency
-36,36.0,Explanation:,bound
-37,37.0,"The electronic configuration of halogen is;(a) ns² np6;(b) ns² np3;(c) ns² np5;(d) ns²;""(c) ns² np5",incomplete
-38,38.0,Explanation:,halogen
-39,39.0,"Halogens has 7 electrons in his valance shell (ns²np5).""",tellurium
-40,40.0,"Which of the following forms the most stable gaseous negative ion?;(a) F;(b) Cl;(c) Br;(d) I;""(b) Cl",masses
-41,41.0,Explanation:,basic
-42,42.0,"The element which forms the most stable gaseous negative ion is fluorine.""",atomic
-43,43.0,"On the Paulings electro negativity scale the element next to F is;(a) N;(b) Cl;(c) O;(d) Ne.;""(c) O",alkali
-44,44.0,Explanation:,though
-45,45.0,"The element californium belongs to a family of :;(a) Alkali metal family;(b) Actinide series;(c) Alkaline earth family;(d) Lanthanide series;""(b) Actinide series",lanthanoid
-46,46.0,Explanation:,metallic
-47,47.0,Atomic number of californium is 98 and its electronic configuration is,outer
-48,48.0,Rn86 7s² 5f10,metal
-49,49.0,"Increasing order of electro negativity is;(a) Bi < P < S < Cl;(b) P < Bi < S < Cl;(c) S < Bi < P < Cl;(d) Cl < S < Bi < P;""(a) Bi < P < S < Cl",remove
-50,50.0,Explanation:,br
-51,51.0,"Increasing order of electro negativity is Bi < P < S < Cl.""",representative
-52,,,different
-53,,,phosphorus
-54,,,indicates
-55,,,character
-56,,,gas
-57,,,alkaline
-58,,,following
-59,,,required
-60,,,modern
-61,,,called
-62,,,less
-63,,,poor
-64,,,configuration
-65,,,co
-66,,,outermost
-67,,,orbitals
-68,,,nearly
-69,,,forms
-70,,,density
-71,,,groups
-72,,,valence
-73,,,characteristic
-74,,,electronegativity
-75,,,actinide
-76,,,family
-77,,,found
-78,,,electronic
-79,,,diagonal
-80,,,valance
-81,,,elements
-82,,,periodic
-83,,,shell
-84,,,[ne]
-85,,,s²
-86,,,inner
-87,,,inert
-88,,,actinoid
-89,,,stable
-90,,,even
-91,,,scale
-92,,,shells
-93,,,fully
-94,,,radioactive
-95,,,sno
-96,,,subshell
-97,,,affinity
-98,,,present
-99,,,state
-100,,,contraction
-101,,,oxides
-102,,,ns²
-103,,,ie
-104,,,potential
-105,,,s²p³
-106,,,cao
-107,,,next
-108,,,ion
-109,,,along
-110,,,known
-111,,,weakly
-112,,,table
-113,,,d−block
-114,,,decreases
-115,,,reduction
-116,,,p³
-117,,,ionisation
-118,,,relationship
-119,,,fluorine
-120,,,paulings
-121,,,ionization
-122,,,partly
-123,,,lanthanide
-124,,,amphoteric
-125,,,negativity
-126,,,block
-127,,,ne
-128,,,charge
-129,,,isolated
-130,,,halogens
-131,,,negative
-132,,,lithium
-133,,,californium
-134,,,properties
-135,,,correct
-136,,,except
-137,,,cl
-138,,,s²p
-139,,,reason
-140,,,magnesium
-141,,,due
-142,,,similar
-143,,,generally
+27,27.0,"Correct order of electron affinity is Se < S < O. In a group electron affinity decreases with increase in atomic number.""",atom
+28,28.0,Explanation:,electro
+29,29.0,"The value of the principal quantum number (n) for the outermost shell or the valence shell indicates a period in the Modern periodic table.""",even
+30,30.0,Explanation:,ionisation
+31,31.0,"33−1s²2s²2p63s²3p63d104s²4p³""",gas
+32,32.0,"The reduction in atomic size with increase in atomic number is a characteristic of elements of-;(a) d−block;(b) f−block;(c) Radioactive series;(d) High atomic masses;""(b) f−block",electron
+33,33.0,Explanation:,density
+34,34.0,"The reduction in atomic size with increase in atomic number is a characteristic of elements of f- block. It is known as lanthanoid contraction and actinoid contraction. This is due to poor shielding of electrons present in f subshell.""",belong
+35,35.0,"The number of elements in the 5th period of the periodic table is;(a) 3;(b) 9;(c) 8;(d) 18;""(d) 18",though
+36,36.0,Explanation:,reason
+37,37.0,"The electronic configuration of halogen is;(a) ns² np6;(b) ns² np3;(c) ns² np5;(d) ns²;""(c) ns² np5",affinity
+38,38.0,Explanation:,energy
+39,39.0,"Halogens has 7 electrons in his valance shell (ns²np5).""",generally
+40,40.0,"Which of the following forms the most stable gaseous negative ion?;(a) F;(b) Cl;(c) Br;(d) I;""(b) Cl",paulings
+41,41.0,Explanation:,
+42,42.0,"The element which forms the most stable gaseous negative ion is fluorine.""",cao
+43,43.0,"On the Paulings electro negativity scale the element next to F is;(a) N;(b) Cl;(c) O;(d) Ne.;""(c) O",masses
+44,44.0,Explanation:,fblock
+45,45.0,"The element californium belongs to a family of :;(a) Alkali metal family;(b) Actinide series;(c) Alkaline earth family;(d) Lanthanide series;""(b) Actinide series",sspspdsp
+46,46.0,Explanation:,decreases
+47,47.0,Atomic number of californium is 98 and its electronic configuration is,called
+48,48.0,Rn86 7s² 5f10,diagonal
+49,49.0,"Increasing order of electro negativity is;(a) Bi < P < S < Cl;(b) P < Bi < S < Cl;(c) S < Bi < P < Cl;(d) Cl < S < Bi < P;""(a) Bi < P < S < Cl",order
+50,50.0,Explanation:,groups
+51,51.0,"Increasing order of electro negativity is Bi < P < S < Cl.""",atoms
+52,,,reduction
+53,,,forms
+55,,,phosphorus
+57,,,properties
+58,,,actinide
+59,,,electronegativity
+60,,,explanation
+61,,,ionization
+62,,,alkali
+63,,,high
+64,,,size
+65,,,character
+66,,,acidic
+67,,,elements
+68,,,next
+69,,,radioactive
+70,,,lanthanide
+71,,,fluorine
+72,,,element
+73,,,period
+75,,,incomplete
+76,,,bound
+77,,,configuration
+78,,,placed
+79,,,number
+80,,,different
+81,,,block
+82,,,oxides
+83,,,ion
+84,,,ratio
+85,,,valency
+86,,,remove
+87,,,tellurium
+88,,,partly
+89,,,orbitals
+90,,,subshell
+91,,,value
+92,,,metal
+93,,,similar
+94,,,contraction
+95,,,known
+97,,,actinoid
+98,,,stable
+99,,,inert
+101,,,representative
+102,,,halogen
+103,,,electronic
+104,,,weakly
+105,,,correct
+106,,,lanthanoid
+107,,,outermost
+108,,,nearly
+109,,,scale
+110,,,loosely
+111,,,shielding
+112,,,inner
+115,,,potential
+117,,,shells
+118,,,along
+119,,,basic
+121,,,periodic
+122,,,nature
+123,,,charge
+124,,,valence
+125,,,californium
+126,,,earth
+127,,,shell
+129,,,halogens
+130,,,chemistry
+131,,,negativity
+132,,,found
+133,,,gaseous
+134,,,filled
+135,,,ground
+136,,,belongs
+137,,,dblock
+138,,,electrons
+140,,,following
+141,,,complete
+142,,,table
+143,,,characteristic
 144,,,group
-145,,,order
-146,,,increasing
-147,,,number
-148,,,high
-149,,,principal
-150,,,filled
-151,,,chemistry
+146,,,together
+147,,,modern
+148,,,valance
+149,,,family
+150,,,atomic
+151,,,negative
+152,,,poor

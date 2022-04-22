@@ -1,114 +1,100 @@
 ,index,0;1;2;3;4;Answer,Words
-0,0.0,The coupling co-efficient of the perfectly coupled coils is:;(a) Zero;(b) 1;(c) slightly more than 1;(d) infinite;(b) 1,turns
-1,1.0,1 henry is equal to :;(a) \(\frac{weber}{ampere}\);(b) \(\frac{weber}{Volt}\);(c) weber ampere;(d) None of these;(a) \(\frac{weber}{ampere}\),close
-2,2.0,An e– and a p– are moving parallel to each other in a magnetic field. The magnetic force acting on the p+ is:;(a) 1840 times that on e–;(b) less than that of e–;(c) same as that of e–;(d) slightly more than that of e–;(c) same as that of e–,battery
-3,3.0,Which of the following is not equal to a henry?;(a) \(\frac{Volt second}{ampere}\);(b) \(\frac{Volt second^2}{Coulomb}\);(c) \(\frac{Volt^2 second}{Coulomb}\);(d) \(\frac{Jole second}{Coulomb^2}\);(c) \(\frac{Volt^2 second}{Coulomb}\),number
-4,4.0,A transformer is used to light 100 W and 110 V lamp from a 220 V mains. If the main current is 0.5 A. Then the efficiency of the transformer is:;(a) 11%;(b) 50%;(c) 80%;(d) 90%;(d) 90%,minimised
-5,5.0,The magnetic flux (∅) linked with a coil is related to the number of turns (N) ofthe coil as:;(a) f ∝ N;(b) f ∝ N-1;(c) f ∝ N2;(d) f ∝ N-2;(a) f ∝ N,mh
-6,6.0,The magnetic flux (∅) lined with a coil is related to its area (s) as:;(a) ∅ ∝ s;(b) ∅ ∝ s²;(c) ∅ ∝ s1/2;(d) ∅ ∝ s-1/2;(a) ∅ ∝ s,moving
-7,7.0,The role of inductance is equivalent to:;(a) inertia;(b) force;(c) energy;(d) momentum;(a) inertia,\\frac{volt
-8,8.0,coil of L = 8.4 mH and R = 6 Ω is connected to a 12 V battery. The current in the coil is 1.0 A at approx’time of:;(a) 500 s;(b) 20 s;(c) 35 ms;(d) 1 ms;(d) 1 ms,infinite
-9,9.0,The phase difference between the flux linkage and the emf in a rotating coil in a uniform magnetic field is:;(a) zero;(b) \(\frac{π}{2}\);(c) \(\frac{π}{4}\);(d) π;(c) \(\frac{π}{4}\),ratio
-10,10.0,A choke is used as a resistance in :;(a) dc circuits;(b) ac circuits;(c) both ac and dc circuits;(d) neither (a) nor (b);(b) ac circuits,following
-11,11.0,The SI unit of magnetic flux is:;(a) T;(b) Tn-2;(c) Wb;(d) Wb m-2;(c) Wb,related
-12,12.0,The magnetic flux linked with a coil is inversely proportional to the?;(a) magnetic field;(b) area of cross section;(c) number of turns;(d) none of these;(a) magnetic field,emf
+0,0.0,The coupling co-efficient of the perfectly coupled coils is:;(a) Zero;(b) 1;(c) slightly more than 1;(d) infinite;(b) 1,close
+1,1.0,1 henry is equal to :;(a) \(\frac{weber}{ampere}\);(b) \(\frac{weber}{Volt}\);(c) weber ampere;(d) None of these;(a) \(\frac{weber}{ampere}\),
+2,2.0,An e– and a p– are moving parallel to each other in a magnetic field. The magnetic force acting on the p+ is:;(a) 1840 times that on e–;(b) less than that of e–;(c) same as that of e–;(d) slightly more than that of e–;(c) same as that of e–,equivalent
+3,3.0,Which of the following is not equal to a henry?;(a) \(\frac{Volt second}{ampere}\);(b) \(\frac{Volt second^2}{Coulomb}\);(c) \(\frac{Volt^2 second}{Coulomb}\);(d) \(\frac{Jole second}{Coulomb^2}\);(c) \(\frac{Volt^2 second}{Coulomb}\),stored
+4,4.0,A transformer is used to light 100 W and 110 V lamp from a 220 V mains. If the main current is 0.5 A. Then the efficiency of the transformer is:;(a) 11%;(b) 50%;(c) 80%;(d) 90%;(d) 90%,less
+5,5.0,The magnetic flux (∅) linked with a coil is related to the number of turns (N) ofthe coil as:;(a) f ∝ N;(b) f ∝ N-1;(c) f ∝ N2;(d) f ∝ N-2;(a) f ∝ N,momentum
+6,6.0,The magnetic flux (∅) lined with a coil is related to its area (s) as:;(a) ∅ ∝ s;(b) ∅ ∝ s²;(c) ∅ ∝ s1/2;(d) ∅ ∝ s-1/2;(a) ∅ ∝ s,inductance
+7,7.0,The role of inductance is equivalent to:;(a) inertia;(b) force;(c) energy;(d) momentum;(a) inertia,proportional
+8,8.0,coil of L = 8.4 mH and R = 6 Ω is connected to a 12 V battery. The current in the coil is 1.0 A at approx’time of:;(a) 500 s;(b) 20 s;(c) 35 ms;(d) 1 ms;(d) 1 ms,core
+9,9.0,The phase difference between the flux linkage and the emf in a rotating coil in a uniform magnetic field is:;(a) zero;(b) \(\frac{π}{2}\);(c) \(\frac{π}{4}\);(d) π;(c) \(\frac{π}{4}\),related
+10,10.0,A choke is used as a resistance in :;(a) dc circuits;(b) ac circuits;(c) both ac and dc circuits;(d) neither (a) nor (b);(b) ac circuits,henry
+11,11.0,The SI unit of magnetic flux is:;(a) T;(b) Tn-2;(c) Wb;(d) Wb m-2;(c) Wb,uniform
+12,12.0,The magnetic flux linked with a coil is inversely proportional to the?;(a) magnetic field;(b) area of cross section;(c) number of turns;(d) none of these;(a) magnetic field,weber
 13,13.0,The energy stored in a 50 mH inductor carrying a current of 4 A is:;(a) 0.1 J;(b) 0.4 J;(c) 0.04 J;(d) 0.01 J;(b) 0.4 J,resistance
-14,14.0,The flux linked with a coif at any instant t is given by ∅ = 10t² – 50t + 250. The induced emf at t = 35 is:;(a) 10 V;(b) 190 V;(c) -190 V;(d) -10 V;(d) -10 V,mutual
-15,15.0,Two coils of self inductance 2 mil and 8 mil are placed so close together that the effective flux in one coil is completely linked with other. The mutual inductance between these coils is :;(a) 4 mH;(b) 16 mH;(c) 10 mH;(d) 6 mH;(c) 10 mH,one
-16,16.0,The core of a transformer is laminated because:;(a) rusting of core may be prevented;(b) ratio of voltage in primary and secondary may be increased.;(c) energy losses due to eddy current may be minimised;(d) The weight of transformer may be reduced;(c) energy losses due to eddy current may be minimised,force
-17,,,light
-18,,,area
-19,,,perfectly
-20,,,secondary
-21,,,second}{ampere}\
-22,,,phase
-23,,,approx’time
-24,,,linkage
-25,,,laminated
-26,,,main
-27,,,weber
-28,,,stored
-29,,,coupling
-30,,,unit
-31,,,inductor
-32,,,wb
-33,,,used
-34,,,acting
-35,,,inversely
-36,,,coif
-37,,,coils
-38,,,\\frac{weber}{volt}\
-39,,,b
-40,,,times
-41,,,mil
-42,,,may
-43,,,\\frac{π}{}\
-44,,,inertia
-45,,,\\frac{weber}{ampere}\
-46,,,due
-47,,,current
-48,,,magnetic
-49,,,lined
-50,,,neither
-51,,,t²
-52,,,flux
-53,,,increased
-54,,,reduced
-55,,,tn
-56,,,coupled
-57,,,voltage
-58,,,weight
-59,,,none
-60,,,placed
-61,,,difference
-62,,,transformer
-63,,,two
-64,,,zero
-65,,,induced
-66,,,section
-67,,,circuits
-68,,,mains
-69,,,s²
-70,,,energy
-71,,,together
-72,,,s/
-73,,,coil
-74,,,efficiency
-75,,,slightly
-76,,,uniform
-77,,,field
-78,,,self
-79,,,second}{coulomb}\
-80,,,losses
-81,,,equal
-82,,,ms
-83,,,role
-84,,,\\frac{jole
-85,,,henry
-86,,,choke
-87,,,ampere
-88,,,prevented
-89,,,coefficient
-90,,,equivalent
-91,,,connected
-92,,,e–
-93,,,proportional
-94,,,eddy
-95,,,parallel
-96,,,effective
-97,,,linked
-98,,,lamp
-99,,,rotating
-100,,,primary
-101,,,momentum
-102,,,less
-103,,,inductance
-104,,,given
-105,,,instant
-106,,,core
-107,,,ofthe
-108,,,rusting
-109,,,∅
-110,,,completely
-111,,,carrying
-112,,,cross
+14,14.0,The flux linked with a coif at any instant t is given by ∅ = 10t² – 50t + 250. The induced emf at t = 35 is:;(a) 10 V;(b) 190 V;(c) -190 V;(d) -10 V;(d) -10 V,number
+15,15.0,Two coils of self inductance 2 mil and 8 mil are placed so close together that the effective flux in one coil is completely linked with other. The mutual inductance between these coils is :;(a) 4 mH;(b) 16 mH;(c) 10 mH;(d) 6 mH;(c) 10 mH,battery
+16,16.0,The core of a transformer is laminated because:;(a) rusting of core may be prevented;(b) ratio of voltage in primary and secondary may be increased.;(c) energy losses due to eddy current may be minimised;(d) The weight of transformer may be reduced;(c) energy losses due to eddy current may be minimised,due
+17,,,secondary
+18,,,minimised
+19,,,ofthe
+20,,,emf
+21,,,ampere
+22,,,inductor
+23,,,weight
+25,,,perfectly
+26,,,prevented
+28,,,approxtime
+29,,,infinite
+30,,,none
+31,,,light
+32,,,lamp
+33,,,slightly
+34,,,laminated
+35,,,secondcoulomb
+36,,,increased
+38,,,coif
+39,,,acting
+40,,,magnetic
+41,,,zero
+42,,,energy
+43,,,induced
+44,,,primary
+45,,,losses
+46,,,mil
+49,,,phase
+50,,,moving
+51,,,carrying
+52,,,coils
+53,,,force
+56,,,secondampere
+57,,,rotating
+58,,,mains
+61,,,choke
+63,,,main
+64,,,coupled
+65,,,role
+66,,,coefficient
+67,,,times
+69,,,two
+70,,,cross
+71,,,turns
+72,,,field
+73,,,voltage
+75,,,reduced
+76,,,inversely
+77,,,eddy
+78,,,neither
+79,,,one
+81,,,completely
+82,,,coil
+83,,,coupling
+84,,,transformer
+85,,,placed
+86,,,linkage
+87,,,effective
+88,,,linked
+89,,,efficiency
+90,,,self
+91,,,flux
+92,,,parallel
+93,,,inertia
+94,,,circuits
+95,,,equal
+97,,,following
+98,,,difference
+99,,,unit
+101,,,together
+102,,,instant
+103,,,area
+104,,,may
+105,,,ratio
+106,,,current
+107,,,mutual
+108,,,used
+109,,,lined
+110,,,given
+111,,,section
+112,,,connected
+113,,,rusting

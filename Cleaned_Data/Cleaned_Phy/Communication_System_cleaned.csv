@@ -1,21 +1,21 @@
 ,index,0;1;2;3;4;Answer,Words
-0,Who undertook the first space walk and in which year?;(a) Leonov 1965;(b) Neil Armstrong, 1969;(c) Rakesh Sharma. 1998;(d) None of these;(a) Leonov 1965,one
-1,The term used “to collect the information about an object and a place without physical contact” is called :;(a) modulation;(b) communication;(c) amplification;(d) remote sensing;(d) remote sensing,,wires
-2,The velocity of electromagnetic wave is:;(a) 3 × 105 ms-1;(b) 3 × 106 ms-1;(c) 3 × 108 ms-1;(d) 3 × 1010 ms-1;(c) 3 × 108 ms-1,,leonov
-3,The audio frequencies range from:;(a) 20 Hz to 20.000 kHz;(b) 20 Hz to 20 kHz;(c) 20 kHz to 20.000 kHz;(d) None of these;(b) 20 Hz to 20 kHz,,sharma
-4,The wavelength of a wave of frequency 10 kHz is:;(a) 30 m;(b) 300 m;(c) 30 km;(d) 300 km;(c) 30 km,,nan
-5,The area served by an antenna of height 100 m is:;(a) 109m²;(b) 4 × 109 m²;(c) 6 × 109m²;(d) 8 × 1010m²;(b) 4 × 109 m²,,superimposing
-6,Which of the following is not transducer?;(a) Loudspeaker;(b) Amplifier;(c) Microphone;(d) All;(b) Amplifier,,undamped
-7,The space waves which are affected seriously by atmospheric conditions are:;(a) MF;(b) HUF;(c) VHF;(d) UHF;(d) UHF,,another
+0,Who undertook the first space walk and in which year?;(a) Leonov 1965;(b) Neil Armstrong, 1969;(c) Rakesh Sharma. 1998;(d) None of these;(a) Leonov 1965,leonov
+1,The term used “to collect the information about an object and a place without physical contact” is called :;(a) modulation;(b) communication;(c) amplification;(d) remote sensing;(d) remote sensing,,sharma
+2,The velocity of electromagnetic wave is:;(a) 3 × 105 ms-1;(b) 3 × 106 ms-1;(c) 3 × 108 ms-1;(d) 3 × 1010 ms-1;(c) 3 × 108 ms-1,,another
+3,The audio frequencies range from:;(a) 20 Hz to 20.000 kHz;(b) 20 Hz to 20 kHz;(c) 20 kHz to 20.000 kHz;(d) None of these;(b) 20 Hz to 20 kHz,,electromagnetic
+4,The wavelength of a wave of frequency 10 kHz is:;(a) 30 m;(b) 300 m;(c) 30 km;(d) 300 km;(c) 30 km,,sent
+5,The area served by an antenna of height 100 m is:;(a) 109m²;(b) 4 × 109 m²;(c) 6 × 109m²;(d) 8 × 1010m²;(b) 4 × 109 m²,,wires
+6,Which of the following is not transducer?;(a) Loudspeaker;(b) Amplifier;(c) Microphone;(d) All;(b) Amplifier,,superimposing
+7,The space waves which are affected seriously by atmospheric conditions are:;(a) MF;(b) HUF;(c) VHF;(d) UHF;(d) UHF,,space
 8,An antenna is:;(a) Inductive;(b) Capacitive;(c) Resistive;(d) A transformer;(a) Inductive,,waves
-9,Broadcasting antenna are generally:;(a) Ommi directional type;(b) Vertical type;(c) Horizontal type;(d) None;(b) Vertical type,,space
-10,The modulation index in amplitude modulation is:;(a) Always zero;(b) Between 0 and 1;(c) Between 1 and ∞;(d) None of these;(c) Between 1 and ∞,,sent
-11,The output of a digital computer is an example of:;(a) digital signal;(b) analog signal;(c) both (a) and (b);(d) neither (a) nor (b);(a) digital signal,,rakesh
-12,A microphone converts:;(a) sound signals into electrical signals;(b) electrical signals into sound signals;(c) both (a) and (b);(d) Neither (a) nor (b);(a) sound signals into electrical signals,,sound
-13,A loudspeaker converts:;(a) electrical signals into sound signals;(b) sound signals into electrical signals;(c) both (a) and (b);(d) neither (a) nor (b);(a) electrical signals into sound signals,,electromagnetic
-14,The sound produced by a tuning fork is a sort of:;(a) analog signal;(b) digital signal;(c) both (a) and (b);(d) neither (a) nor (b);(a) analog signal,,damped
-15,The length of a half wave dipole at 30 mega-hertz is:;(a) 5 m;(b) 10 m;(c) 25 m;(d) 80 m;(a) 5 m,,place
-16,In space communication, the sound waves can be sent from one place to another:;(a) through space;(b) through wires;(c) by superimposing it on undamped electro-magnetic waves;(d) by superimposing it on damped electro-magnetic waves;(c) by superimposing it on undamped electro-magnetic waves,none
+9,Broadcasting antenna are generally:;(a) Ommi directional type;(b) Vertical type;(c) Horizontal type;(d) None;(b) Vertical type,,one
+10,The modulation index in amplitude modulation is:;(a) Always zero;(b) Between 0 and 1;(c) Between 1 and ∞;(d) None of these;(c) Between 1 and ∞,,place
+11,The output of a digital computer is an example of:;(a) digital signal;(b) analog signal;(c) both (a) and (b);(d) neither (a) nor (b);(a) digital signal,,damped
+12,A microphone converts:;(a) sound signals into electrical signals;(b) electrical signals into sound signals;(c) both (a) and (b);(d) Neither (a) nor (b);(a) sound signals into electrical signals,,rakesh
+13,A loudspeaker converts:;(a) electrical signals into sound signals;(b) sound signals into electrical signals;(c) both (a) and (b);(d) neither (a) nor (b);(a) electrical signals into sound signals,,sound
+14,The sound produced by a tuning fork is a sort of:;(a) analog signal;(b) digital signal;(c) both (a) and (b);(d) neither (a) nor (b);(a) analog signal,,undamped
+15,The length of a half wave dipole at 30 mega-hertz is:;(a) 5 m;(b) 10 m;(c) 25 m;(d) 80 m;(a) 5 m,,none
+16,In space communication, the sound waves can be sent from one place to another:;(a) through space;(b) through wires;(c) by superimposing it on undamped electro-magnetic waves;(d) by superimposing it on damped electro-magnetic waves;(c) by superimposing it on undamped electro-magnetic waves,nan
 17,The output of a digital computer is an example of:;(a) digital signal;(b) analog signal;(c) both (a) and (b) above;(d) neither (a) nor (b);(a) digital signal,,
 18,Which is more advantageous?;(a) analog data communication;(b) digital data communication;(c) both (a) and (b) are equally good;(d) depends on the situation;(b) digital data communication,,
 19,Communication channel consists of:;(a) transmission line only;(b) optical fibre only;(c) free space only;(d) All of the above;(d) All of the above,,

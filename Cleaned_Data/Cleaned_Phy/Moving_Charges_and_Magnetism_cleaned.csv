@@ -1,181 +1,169 @@
 ,index,0;1;2;3;4;Answer,Words
-0,0.0,The current sensitibility of a moving coil galanometer increases with decrease in:;(a) magnetic field;(b) area of a coil;(c) number of turns;(d) None of these;(d) None of these,turns
-1,1.0,The sensitivity of a tangent galvanometer can be increased by increasing:;(a) the radius of the coil;(b) the external magnetic field;(c) the number of turns of the coil;(d) all the above;(b) the external magnetic field,number
-2,2.0,The permeability of a paramagnetic substance is:;(a) very large;(b) small but more than unity;(c) less than unity;(d) negative;(b) small but more than unity,moving
-3,3.0,Which of the following shows that the earth behaves as a magnet?;(a) Repulsion between like poles .;(b) Attraction between unlike poles;(c) Null points in the magnetic field of a bar magnet;(d) No existence of isolated magnetic poles;(c) Null points in the magnetic field of a bar magnet,magnet
-4,4.0,What is the angle of dip at the magnetic poles ?;(a) 30°;(b) 0°;(c) 45°;(d) None of these;(d) None of these,usual
-5,5.0,Circular loop of radius 0.0157 m carries a current 2 A. The magnetic field at the centre of the loop is :;(a) 1.57 × 10-3Wb/m²;(b) 8.0 × 10-5 Wb/m²;(c) 2.0 × 10-3 Wb/m²;(d) 3.l4 × 10-1 Wb/m²;(b) 8.0 × 10-5 Wb/m²,infinite
-6,6.0,What happens to the magnetic field at the centre of a circular current carrying coil if we double the radius of the coil keeping the current unchanged?;(a) halved;(b) doubled;(c) quadrupled;(d) remains unchanged;(a) halved,following
-7,7.0,The strength of the magnetic field around an infinite current carrying conductor is :;(a) same everywhere;(b) inversely proportional to the distance;(c) directly proportional to the distance;(d) None of these;(b) inversely proportional to the distance,b/
-8,8.0,A current carrying power line carries current from west to east. Then the direction of the magnetic field 2 m above it is :;(a) west to east;(b) south to north;(c) north to south;(d) None of these;(c) north to south,iron
-9,9.0,How much force will be experienced by a moving charge in a magnetic field? The symbols have their usual meanings.;(a) \(\vec{F}\) = q(\(\vec{v}\).\(\vec{B}\));(b) \(\vec{F}\) = \(\frac{q}{(\vec{v}.\vec{B})}\);(c) \(\vec{F}\) = \(\frac{q}{2}\)\((\vec{v}×\vec{B}\));(d) \(\vec{F}\) = q(\(\vec{v}\)×\(\vec{B}\));(d) \(\vec{F}\) = q(\(\vec{v}\)×\(\vec{B}\)),resistance
-10,10.0,Which of the following is not a unit of magnetic induction?;(a) gauss;(b) tesla;(c) oersted;(d) weber/metre²;(c) oersted,one
-11,11.0,The magnetic field produced by an / meter long straight (x cry thin) current (I) carry ing conductor at any point on itself is :;(a) zero;(b) infinite;(c) \(\frac{µ_0l}{4πl}\);(d) \(\frac{µ_0l}{2πl}\);(a) zero,sensitibility
-12,12.0,A charge + q is sent through a magnetic field. The force acting on it is maximum w hen the angle between the direction of motion of the charged particle and the magnetic field :;(a) 0°;(b) 45°;(c) 90°;(d) 180°;(c) 90°,force
-13,13.0,The magnetic field of a given length of a ware for single turn coil at its centre is B. Then.its value for two turns of coil will be :;(a) B/4;(b) B/2;(c) 4B;(d) 2B;(c) 4B,straight
-14,14.0,To convert galvanometer into voltmeter one should connect :;(a) high resistance in series with galvanometer;(b) low resistance in series with galvanometer;(c) high resistance in parallel with galvanometer;(d) low resistance in parallel with galvanometer;(a) high resistance in series with galvanometer,\\frac{pm}{b}\
-15,15.0,Isoclinic lines are the lines joining places with :;(a) equal dip;(b) equal declination;(cj equal dip and declination;(d) None of these;(a) equal dip,particle
-16,16.0,The most suitable metal for making permanent magnets is :;(a) iron;(b) steel;(c) copper;(d) aluminium;(a) √2 p,small
-17,17.0,The SI unit of magnetic dipole moment is’;(a) Ampere;(b) Ampere metre²;(c) Tesla;(d) None of these;(b) Ampere metre²,area
-18,18.0,Earth’s magnetism was discovered by:;(a) Gauss;(b) Oersted;(c) Ampere;(d) Gilbert;(d) Gilbert,torque
-19,19.0,Tesla is a unit of:;(a) electric flux;(b) magnetic flux;(c) magnetic field;(d) electric field;(c) magnetic field,plane
-20,20.0,10 eV electron is circulating in a plane at right angle to a uniform field of magnetic induction 10-1 Wb/m² (1G). The orbital radius of electron is:;(a) 12 cm;(b) 16 cm;(c) 11 cm;(d) 18 cm;(c) 11 cm,produced
-21,21.0,A cyclotron can be used to produce high energy:;(a) neutrons;(b) deutrons;(c) β particles;(d) α partifcles;(d) α partifcles,making
-22,22.0,The radius of the trajectory of a charged particle in a uniform magnetic field is proportional to the:;(a) charge on the particle;(b) energy of the particle;(c) momentum of the particle;(d) all the above;(c) momentum of the particle,pmb
-23,23.0,The torque acting on a magnetic dipole of moment \(\vec{p_m}\) when placed in a magnetic field \(\vec{B}\) is:;(a) pmB;(b) \(\vec{p_m}\) × \(\vec{B}\);(c) \(\vec{p_m}\)\(\vec{B}\);(d) \(\frac{p_m}{B}\);(b) \(\vec{p_m}\) × \(\vec{B}\),circulating
-24,,,like
-25,,,earth’s
-26,,,moment
-27,,,declination
-28,,,isolated
-29,,,\\frac{µl}{πl}\
-30,,,unit
-31,,,used
-32,,,q\\vec{v}\\\vec{b}\
-33,,,acting
-34,,,inversely
-35,,,meanings
-36,,,charged
-37,,,poles
-38,,,sent
-39,,,q\\vec{v}\×\\vec{b}\
-40,,,null
-41,,,double
-42,,,sensitivity
-43,,,length
-44,,,value
-45,,,quadrupled
-46,,,shows
-47,,,voltmeter
-48,,,particles
-49,,,suitable
-50,,,strength
-51,,,places
-52,,,galvanometer
-53,,,attraction
-54,,,\\vec{pm}\
-55,,,doubled
-56,,,around
-57,,,line
-58,,,earth
-59,,,tangent
-60,,,current
-61,,,magnetic
-62,,,is’
-63,,,cm
-64,,,electron
-65,,,negative
-66,,,weber/metre²
-67,,,increased
-68,,,flux
-69,,,dip
-70,,,\\vec{b}\
-71,,,unity
-72,,,decrease
-73,,,everywhere
-74,,,low
-75,,,south
-76,,,\\frac{q}{}\\\vec{v}×\vec{b}\
-77,,,west
-78,,,partifcles
-79,,,east
-80,,,thin
-81,,,none
-82,,,angle
-83,,,placed
-84,,,unchanged
-85,,,permeability
-86,,,aluminium
+0,0.0,The current sensitibility of a moving coil galanometer increases with decrease in:;(a) magnetic field;(b) area of a coil;(c) number of turns;(d) None of these;(d) None of these,neutrons
+1,1.0,The sensitivity of a tangent galvanometer can be increased by increasing:;(a) the radius of the coil;(b) the external magnetic field;(c) the number of turns of the coil;(d) all the above;(b) the external magnetic field,existence
+2,2.0,The permeability of a paramagnetic substance is:;(a) very large;(b) small but more than unity;(c) less than unity;(d) negative;(b) small but more than unity,doubled
+3,3.0,Which of the following shows that the earth behaves as a magnet?;(a) Repulsion between like poles .;(b) Attraction between unlike poles;(c) Null points in the magnetic field of a bar magnet;(d) No existence of isolated magnetic poles;(c) Null points in the magnetic field of a bar magnet,dipole
+4,4.0,What is the angle of dip at the magnetic poles ?;(a) 30°;(b) 0°;(c) 45°;(d) None of these;(d) None of these,like
+5,5.0,Circular loop of radius 0.0157 m carries a current 2 A. The magnetic field at the centre of the loop is :;(a) 1.57 × 10-3Wb/m²;(b) 8.0 × 10-5 Wb/m²;(c) 2.0 × 10-3 Wb/m²;(d) 3.l4 × 10-1 Wb/m²;(b) 8.0 × 10-5 Wb/m²,earth
+6,6.0,What happens to the magnetic field at the centre of a circular current carrying coil if we double the radius of the coil keeping the current unchanged?;(a) halved;(b) doubled;(c) quadrupled;(d) remains unchanged;(a) halved,west
+7,7.0,The strength of the magnetic field around an infinite current carrying conductor is :;(a) same everywhere;(b) inversely proportional to the distance;(c) directly proportional to the distance;(d) None of these;(b) inversely proportional to the distance,cry
+8,8.0,A current carrying power line carries current from west to east. Then the direction of the magnetic field 2 m above it is :;(a) west to east;(b) south to north;(c) north to south;(d) None of these;(c) north to south,tangent
+9,9.0,How much force will be experienced by a moving charge in a magnetic field? The symbols have their usual meanings.;(a) \(\vec{F}\) = q(\(\vec{v}\).\(\vec{B}\));(b) \(\vec{F}\) = \(\frac{q}{(\vec{v}.\vec{B})}\);(c) \(\vec{F}\) = \(\frac{q}{2}\)\((\vec{v}×\vec{B}\));(d) \(\vec{F}\) = q(\(\vec{v}\)×\(\vec{B}\));(d) \(\vec{F}\) = q(\(\vec{v}\)×\(\vec{B}\)),less
+10,10.0,Which of the following is not a unit of magnetic induction?;(a) gauss;(b) tesla;(c) oersted;(d) weber/metre²;(c) oersted,turn
+11,11.0,The magnetic field produced by an / meter long straight (x cry thin) current (I) carry ing conductor at any point on itself is :;(a) zero;(b) infinite;(c) \(\frac{µ_0l}{4πl}\);(d) \(\frac{µ_0l}{2πl}\);(a) zero,momentum
+12,12.0,A charge + q is sent through a magnetic field. The force acting on it is maximum w hen the angle between the direction of motion of the charged particle and the magnetic field :;(a) 0°;(b) 45°;(c) 90°;(d) 180°;(c) 90°,conductor
+13,13.0,The magnetic field of a given length of a ware for single turn coil at its centre is B. Then.its value for two turns of coil will be :;(a) B/4;(b) B/2;(c) 4B;(d) 2B;(c) 4B,points
+14,14.0,To convert galvanometer into voltmeter one should connect :;(a) high resistance in series with galvanometer;(b) low resistance in series with galvanometer;(c) high resistance in parallel with galvanometer;(d) low resistance in parallel with galvanometer;(a) high resistance in series with galvanometer,carries
+15,15.0,Isoclinic lines are the lines joining places with :;(a) equal dip;(b) equal declination;(cj equal dip and declination;(d) None of these;(a) equal dip,proportional
+16,16.0,The most suitable metal for making permanent magnets is :;(a) iron;(b) steel;(c) copper;(d) aluminium;(a) √2 p,copper
+17,17.0,The SI unit of magnetic dipole moment is’;(a) Ampere;(b) Ampere metre²;(c) Tesla;(d) None of these;(b) Ampere metre²,uniform
+18,18.0,Earth’s magnetism was discovered by:;(a) Gauss;(b) Oersted;(c) Ampere;(d) Gilbert;(d) Gilbert,trajectory
+19,19.0,Tesla is a unit of:;(a) electric flux;(b) magnetic flux;(c) magnetic field;(d) electric field;(c) magnetic field,qvecvvecb
+20,20.0,10 eV electron is circulating in a plane at right angle to a uniform field of magnetic induction 10-1 Wb/m² (1G). The orbital radius of electron is:;(a) 12 cm;(b) 16 cm;(c) 11 cm;(d) 18 cm;(c) 11 cm,galvanometer
+21,21.0,A cyclotron can be used to produce high energy:;(a) neutrons;(b) deutrons;(c) β particles;(d) α partifcles;(d) α partifcles,unity
+22,22.0,The radius of the trajectory of a charged particle in a uniform magnetic field is proportional to the:;(a) charge on the particle;(b) energy of the particle;(c) momentum of the particle;(d) all the above;(c) momentum of the particle,circulating
+23,23.0,The torque acting on a magnetic dipole of moment \(\vec{p_m}\) when placed in a magnetic field \(\vec{B}\) is:;(a) pmB;(b) \(\vec{p_m}\) × \(\vec{B}\);(c) \(\vec{p_m}\)\(\vec{B}\);(d) \(\frac{p_m}{B}\);(b) \(\vec{p_m}\) × \(\vec{B}\),resistance
+24,,,south
+25,,,meter
+26,,,number
+27,,,permeability
+28,,,halved
+30,,,hen
+31,,,motion
+32,,,ampere
+33,,,usual
+34,,,suitable
+35,,,magnet
+36,,,bar
+37,,,high
+38,,,iron
+39,,,places
+41,,,single
+42,,,maximum
+43,,,negative
+44,,,produced
+45,,,infinite
+46,,,sent
+47,,,none
+48,,,radius
+49,,,torque
+50,,,increased
+51,,,straight
+52,,,substance
+53,,,magnets
+54,,,discovered
+55,,,acting
+56,,,declination
+57,,,magnetic
+58,,,gilbert
+59,,,east
+60,,,zero
+61,,,energy
+62,,,attraction
+63,,,connect
+64,,,null
+65,,,particle
+66,,,moving
+67,,,induction
+68,,,sensitivity
+69,,,shows
+70,,,carrying
+71,,,galanometer
+72,,,thin
+73,,,value
+74,,,quadrupled
+75,,,force
+77,,,increasing
+78,,,orbital
+79,,,electron
+80,,,distance
+81,,,thenits
+82,,,direction
+83,,,earths
+84,,,around
+85,,,joining
 87,,,oersted
-88,,,radius
-89,,,single
-90,,,directly
-91,,,centre
-92,,,keeping
-93,,,two
-94,,,zero
-95,,,trajectory
-96,,,meter
-97,,,bar
-98,,,copper
-99,,,electric
-100,,,unlike
-101,,,tesla
-102,,,convert
-103,,,charge
-104,,,behaves
-105,,,permanent
-106,,,\\vec{f}\
-107,,,energy
-108,,,carry
-109,,,ware
-110,,,magnetism
-111,,,steel
-112,,,ing
-113,,,coil
-114,,,halved
-115,,,right
-116,,,motion
-117,,,uniform
-118,,,points
-119,,,field
-120,,,loop
-121,,,\\frac{q}{\vec{v}\vec{b}}\
-122,,,dipole
-123,,,substance
-124,,,wb/m²
-125,,,induction
-126,,,experienced
-127,,,symbols
-128,,,gilbert
-129,,,north
-130,,,external
-131,,,declinationcj
-132,,,produce
-133,,,increasing
-134,,,remains
-135,,,equal
-136,,,much
-137,,,repulsion
-138,,,increases
-139,,,metal
-140,,,ampere
-141,,,point
-142,,,neutrons
-143,,,\\vec{pm}\\\vec{b}\
-144,,,galanometer
-145,,,existence
-146,,,high
-147,,,proportional
-148,,,series
-149,,,gauss
-150,,,orbital
-151,,,parallel
-152,,,turn
-153,,,maximum
-154,,,circular
-155,,,happens
-156,,,discovered
-157,,,magnets
-158,,,large
-159,,,power
-160,,,cry
-161,,,momentum
-162,,,less
-163,,,carries
-164,,,deutrons
-165,,,conductor
-166,,,isoclinic
-167,,,given
-168,,,thenits
-169,,,distance
-170,,,paramagnetic
-171,,,hen
-172,,,cyclotron
-173,,,carrying
-174,,,long
-175,,,direction
-176,,,connect
-177,,,joining
-178,,,lines
-179,,,metre²
+88,,,carry
+89,,,deutrons
+90,,,permanent
+91,,,increases
+92,,,cyclotron
+93,,,much
+95,,,length
+97,,,produce
+98,,,two
+99,,,unchanged
+100,,,metre
+101,,,turns
+102,,,field
+103,,,webermetre
+104,,,partifcles
+105,,,remains
+106,,,gauss
+107,,,long
+108,,,isoclinic
+109,,,small
+110,,,north
+111,,,magnetism
+112,,,inversely
+113,,,declinationcj
+114,,,external
+115,,,happens
+116,,,behaves
+117,,,plane
+118,,,one
+119,,,series
+120,,,aluminium
+122,,,convert
+123,,,large
+124,,,coil
+125,,,sensitibility
+126,,,steel
+128,,,charged
+129,,,wbm
+130,,,loop
+131,,,double
+132,,,placed
+133,,,unlike
+134,,,keeping
+135,,,right
+136,,,strength
+137,,,lines
+138,,,power
+139,,,centre
+140,,,particles
+141,,,moment
+142,,,pmb
+143,,,repulsion
+144,,,poles
+145,,,circular
+146,,,symbols
+147,,,tesla
+148,,,experienced
+149,,,flux
+150,,,parallel
+151,,,metal
+152,,,electric
+153,,,equal
+154,,,following
+156,,,line
+157,,,decrease
+158,,,isolated
+159,,,ing
+160,,,making
+161,,,unit
+162,,,low
+164,,,charge
+165,,,area
+166,,,meanings
+167,,,dip
+168,,,current
+169,,,directly
+170,,,everywhere
+171,,,angle
+172,,,paramagnetic
+173,,,voltmeter
+174,,,used
+175,,,given
+176,,,point
+177,,,ware

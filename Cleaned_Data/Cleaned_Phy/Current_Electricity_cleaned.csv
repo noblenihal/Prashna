@@ -1,210 +1,202 @@
 ,index,0;1;2;3;4;Answer,Words
-0,0.0,The speed at which tjie current travels in a conductor is nearly:;(a) 3 × 104 ms-1;(b) 3 × 106 ms-1;(c) 3 × 108 ms-1;(d) 3 × 1010 ms-1;(a) 3 × 104 ms-1,rod
-1,1.0,The resistance of a human body is about:;(a) 12 Ω;(b) 120 Ω;(c) 12 KΩ;(d) 120 MΩ;(c) 12 KΩ,battery
-2,2.0,The number of electrons that constitute 1 A of current is:;(a) 6.25 × 1016;(b) 6.25 × 1017;(c) 6.25 × 1018;(d) 6.25 × 1019;(c) 6.25 × 1018,number
-3,3.0,How many different resistances are possible with two equal resistors?;(a) 2;(b) 3;(c) 4;(d) 5;(b) 3,stretched
-4,4.0,Specific resistance of ali metals is mostly affected by:;(a) temperature;(b) pressure;(c) magnetic field;(d) volume;(a) temperature,days
-5,5.0,The example of a non-ohmic resistance is:;(a) copper wire;(b) fi lament lamp;(c) carbon resistor;(d) diode;(d) diode,specific
-6,6.0,The specific resistance of a rod of copper as compared to that of thin wire of copper is :;(a) less;(b) more;(c) same;(d) depends upon the length and area of cross-section of the wire;(c) same,metals
-7,7.0,The length of a conductor is halved. Its resistance will be :;(a) halved;(b) doubled;(c) unchanged;(d) quadrupled;(a) halved,ratio
-8,8.0,Siemen is the unit of:;(a) resistance;(b) conductance;(c) specific conductance;(d) None of these;(b) conductance,thomson
-9,9.0,How much electric energy is consumed by a 100 W lamp used for 6 hours everyday for 30 days?;(a) 18 kJ;(b) 18 kWh;(c) 1.8 J;(d) None of these;(b) 18 kWh,wire
-10,10.0,Kirchhoffs first and second laws for electrical circuits are consequences of:;(a) conservation of energy;(b) conservation of electrical charge and energy respectively;(c) conservation of electric charge;(d) neither conservation of energy nor electric charge;(b) conservation of electrical charge and energy respectively,following
+0,0.0,The speed at which tjie current travels in a conductor is nearly:;(a) 3 × 104 ms-1;(b) 3 × 106 ms-1;(c) 3 × 108 ms-1;(d) 3 × 1010 ms-1;(a) 3 × 104 ms-1,doubled
+1,1.0,The resistance of a human body is about:;(a) 12 Ω;(b) 120 Ω;(c) 12 KΩ;(d) 120 MΩ;(c) 12 KΩ,less
+2,2.0,The number of electrons that constitute 1 A of current is:;(a) 6.25 × 1016;(b) 6.25 × 1017;(c) 6.25 × 1018;(d) 6.25 × 1019;(c) 6.25 × 1018,days
+3,3.0,How many different resistances are possible with two equal resistors?;(a) 2;(b) 3;(c) 4;(d) 5;(b) 3,isi
+4,4.0,Specific resistance of ali metals is mostly affected by:;(a) temperature;(b) pressure;(c) magnetic field;(d) volume;(a) temperature,conductor
+5,5.0,The example of a non-ohmic resistance is:;(a) copper wire;(b) fi lament lamp;(c) carbon resistor;(d) diode;(d) diode,thermocouple
+6,6.0,The specific resistance of a rod of copper as compared to that of thin wire of copper is :;(a) less;(b) more;(c) same;(d) depends upon the length and area of cross-section of the wire;(c) same,body
+7,7.0,The length of a conductor is halved. Its resistance will be :;(a) halved;(b) doubled;(c) unchanged;(d) quadrupled;(a) halved,peitier
+8,8.0,Siemen is the unit of:;(a) resistance;(b) conductance;(c) specific conductance;(d) None of these;(b) conductance,copper
+9,9.0,How much electric energy is consumed by a 100 W lamp used for 6 hours everyday for 30 days?;(a) 18 kJ;(b) 18 kWh;(c) 1.8 J;(d) None of these;(b) 18 kWh,
+10,10.0,Kirchhoffs first and second laws for electrical circuits are consequences of:;(a) conservation of energy;(b) conservation of electrical charge and energy respectively;(c) conservation of electric charge;(d) neither conservation of energy nor electric charge;(b) conservation of electrical charge and energy respectively,galvanometer
 11,11.0,A 5 A fuse wire can with stand a maximum power of 1 W in circuit. The resistance of the fuse wire is:;(a) 0.2 Ω;(b) 5 Ω;(c) 0.4 Ω;(d) 0.04 Ω;(d) 0.04 Ω,resistance
-12,12.0,A galvanometer acting as a volt meter will have with its coil.;(a) a high resistance in parallel;(b) a high resistance in series;(c) a low resistance in parallel;(d) a low resistance in series;(b) a high resistance in series,emf
-13,13.0,Why is the Wheatstone bridge more accurate than other methods of measuring resistances: ‘;(a) It is a null method;(b) It is based on Kirchhoffs laws;(c) It has four resistances;(d) It does not involve ohm’s law;(a) It is a null method,stand
-14,14.0,A potential difference of 10 V is applied across a conductance of 2 S. The current in the conductor will be :;(a) 20 A;(b) 5 A;(c) 0.2 A;(d) None of these;(a) 20 A,area
-15,15.0,Ohm’s law is valid when the temperature of conductor is :;(a) very low;(b) very high;(c) varying;(d) constant;(d) constant,n²r
-16,16.0,The emf of a car battery is about:;(a) 2.5 V;(b) 4.5 V;(c) 8.6 V;(d) 12 V;(d) 12 V,obtained
-17,17.0,Emf is measured in :;(a) joule;(b) joule/coulomb;(c) joule-coulombs;(d) joule/coulomb/metre;(b) joule/coulomb,temperature
-18,18.0,1 kilowatt hour is commonly known as :;(a) unit;(b) 1 faraday;(c) 1 curie;(d) None of these;(a) unit,based
-19,19.0,How many joules are equal to I kWh ?;(a) 3.6 × 104;(b) 3.6 × 105;(c) 3.6 × 106;(d) None of these;(c) 3.6 × 106,curie
-20,20.0,The temperature coefficient of resistance is expressed in :;(a) °C;(b) °C-1;(c) m°C-1;(d) None of these;(b) °C-1,commonly
-21,21.0,Copper wire is used as connecting wire because :;(a) copper has high electrical resistivity;(b) copper has low electrical resistivity;(c) copper has low electrical conductivity;(d) copper has high value of elasticity;(b) copper has low electrical resistivity,resistors
-22,22.0,The heat sensitive device whose resistivity changes very rapidly with change of temperature is called a :;(a) resistor;(b) super-conductor;(c) thermocouple;(d) thermistor;(d) thermistor,mω
-23,23.0,The phenomenon of super-conductivity was discovered by :;(a) Ohm;(b) Onnes;(c) Edison;(d) None of these;(b) Onnes,unit
-24,24.0,The specific resistance of a conductor increases with :;(a) increase in temperature;(b) increase in cross-sectional area;(c) decrease in length;(d) decrease in cross-sectional area;(a) increase in temperature,applied
-25,25.0,Two conductors of equal length and radii the ratio of 2 : 3 are; connected in parallel the source of electricity. The ratio of the velocity of electrons in the conductor be :;(a) 2 : 3;(b) 4 : 9;(c) 1 : 1;(d) 3 : 2;(c) 1 : 1,used
-26,26.0,The smallest resistance that can be obtained by the combination of n resistors each resistance r is :;(a) \(\frac{r}{n}\);(b) nr;(c) \(\frac{n}{r}\);(d) n²r;(a) 0.3 A,sensitive
-27,27.0,Which of the following has a negative temperature coefficient of resistance ?;(a) Tungsten;(b) Carbon;(c) Nichrome;(d) Platinum;(b) Carbon,onnes
-28,28.0,In India electricity is supplied fordomestic use at 220 V. It is supplied at 110 V in U.S.A. If the resistance of a 60 W bulb use in India is R. the resistance of a 60 W bulb for use in USA will be:;(a) 2 R;(b) R;(c) R/2;(d) R/4;(d) R/4,acting
-29,29.0,Potentiometer measures the potential difference more accurately than a voltmeter because:;(a) It has a wire of high resistance;(b) It has a wire of low resistance;(c) It does not draw current from external circuit;(d) It draws heavy current from external circuit;(c) It does not draw current from external circuit,increase
-30,30.0,The resistance of an aluminium wire is/i. It is stretched to /i times its original length. Its new resistance will be :;(a) nr;(b) n²r;(c) \(\frac{n^2}{r}\);(d) \(\frac{r}{n^2}\);(b) n²r,source
-31,31.0,A wire P is half the diameter and half the length of a wire Q of similar material. The ratio of resistances of P to that 0 is:;(a) 4 : 1;(b) 8 : 1;(c) 2 : 1;(d) 1 : 2;(c) 2 : 1,joule
-32,32.0,What is the resistance across A and B in the network in Fig.?;(a) R;(b) 2 R;(c) \(\frac{R}{2}\);(d) 6 R;(a) R,\\frac{n}{r}\
-33,33.0,Thermo electricity was discovered by:;(a) Joule;(b) Peitier;(c) Thomson;(d) Seebeck;(d) Seebeck,material
-34,34.0,Thermo emf is the order of:;(a) 10 V;(b) 10-3 V;(c) 10-6 V;(d) 10-12 V;(c) 10-6 V,changes
-35,,,lament
-36,,,ali
-37,,,length
-38,,,null
-39,,,thermocouple
-40,,,bridge
-41,,,value
-42,,,order
-43,,,heavy
+12,12.0,A galvanometer acting as a volt meter will have with its coil.;(a) a high resistance in parallel;(b) a high resistance in series;(c) a low resistance in parallel;(d) a low resistance in series;(b) a high resistance in series,many
+13,13.0,Why is the Wheatstone bridge more accurate than other methods of measuring resistances: ‘;(a) It is a null method;(b) It is based on Kirchhoffs laws;(c) It has four resistances;(d) It does not involve ohm’s law;(a) It is a null method,meter
+14,14.0,A potential difference of 10 V is applied across a conductance of 2 S. The current in the conductor will be :;(a) 20 A;(b) 5 A;(c) 0.2 A;(d) None of these;(a) 20 A,measuring
+15,15.0,Ohm’s law is valid when the temperature of conductor is :;(a) very low;(b) very high;(c) varying;(d) constant;(d) constant,
+16,16.0,The emf of a car battery is about:;(a) 2.5 V;(b) 4.5 V;(c) 8.6 V;(d) 12 V;(d) 12 V,number
+17,17.0,Emf is measured in :;(a) joule;(b) joule/coulomb;(c) joule-coulombs;(d) joule/coulomb/metre;(b) joule/coulomb,halved
+18,18.0,1 kilowatt hour is commonly known as :;(a) unit;(b) 1 faraday;(c) 1 curie;(d) None of these;(a) unit,battery
+19,19.0,How many joules are equal to I kWh ?;(a) 3.6 × 104;(b) 3.6 × 105;(c) 3.6 × 106;(d) None of these;(c) 3.6 × 106,superconductivity
+20,20.0,The temperature coefficient of resistance is expressed in :;(a) °C;(b) °C-1;(c) m°C-1;(d) None of these;(b) °C-1,
+21,21.0,Copper wire is used as connecting wire because :;(a) copper has high electrical resistivity;(b) copper has low electrical resistivity;(c) copper has low electrical conductivity;(d) copper has high value of elasticity;(b) copper has low electrical resistivity,pressure
+22,22.0,The heat sensitive device whose resistivity changes very rapidly with change of temperature is called a :;(a) resistor;(b) super-conductor;(c) thermocouple;(d) thermistor;(d) thermistor,emf
+23,23.0,The phenomenon of super-conductivity was discovered by :;(a) Ohm;(b) Onnes;(c) Edison;(d) None of these;(b) Onnes,joulecoulomb
+24,24.0,The specific resistance of a conductor increases with :;(a) increase in temperature;(b) increase in cross-sectional area;(c) decrease in length;(d) decrease in cross-sectional area;(a) increase in temperature,joule
+25,25.0,Two conductors of equal length and radii the ratio of 2 : 3 are; connected in parallel the source of electricity. The ratio of the velocity of electrons in the conductor be :;(a) 2 : 3;(b) 4 : 9;(c) 1 : 1;(d) 3 : 2;(c) 1 : 1,metals
+26,26.0,The smallest resistance that can be obtained by the combination of n resistors each resistance r is :;(a) \(\frac{r}{n}\);(b) nr;(c) \(\frac{n}{r}\);(d) n²r;(a) 0.3 A,across
+27,27.0,Which of the following has a negative temperature coefficient of resistance ?;(a) Tungsten;(b) Carbon;(c) Nichrome;(d) Platinum;(b) Carbon,
+28,28.0,In India electricity is supplied fordomestic use at 220 V. It is supplied at 110 V in U.S.A. If the resistance of a 60 W bulb use in India is R. the resistance of a 60 W bulb for use in USA will be:;(a) 2 R;(b) R;(c) R/2;(d) R/4;(d) R/4,network
+29,29.0,Potentiometer measures the potential difference more accurately than a voltmeter because:;(a) It has a wire of high resistance;(b) It has a wire of low resistance;(c) It does not draw current from external circuit;(d) It draws heavy current from external circuit;(c) It does not draw current from external circuit,travels
+30,30.0,The resistance of an aluminium wire is/i. It is stretched to /i times its original length. Its new resistance will be :;(a) nr;(b) n²r;(c) \(\frac{n^2}{r}\);(d) \(\frac{r}{n^2}\);(b) n²r,high
+31,31.0,A wire P is half the diameter and half the length of a wire Q of similar material. The ratio of resistances of P to that 0 is:;(a) 4 : 1;(b) 8 : 1;(c) 2 : 1;(d) 1 : 2;(c) 2 : 1,possible
+32,32.0,What is the resistance across A and B in the network in Fig.?;(a) R;(b) 2 R;(c) \(\frac{R}{2}\);(d) 6 R;(a) R,thermo
+33,33.0,Thermo electricity was discovered by:;(a) Joule;(b) Peitier;(c) Thomson;(d) Seebeck;(d) Seebeck,involve
+34,34.0,Thermo emf is the order of:;(a) 10 V;(b) 10-3 V;(c) 10-6 V;(d) 10-12 V;(c) 10-6 V,volume
+35,,,maximum
+36,,,negative
+37,,,known
+38,,,measured
+39,,,potential
+40,,,none
+41,,,faraday
+42,,,radii
+43,,,lamp
 44,,,method
-45,,,constitute
-46,,,quadrupled
-47,,,resistor
-48,,,accurate
-49,,,car
-50,,,voltmeter
-51,,,seebeck
-52,,,times
-53,,,new
-54,,,galvanometer
-55,,,bulb
-56,,,doubled
-57,,,possible
-58,,,edison
-59,,,current
-60,,,magnetic
-61,,,electrical
-62,,,neither
-63,,,volt
-64,,,draws
-65,,,heat
-66,,,nonohmic
-67,,,velocity
-68,,,negative
-69,,,diameter
-70,,,nearly
-71,,,fig
-72,,,use
-73,,,measuring
-74,,,low
-75,,,decrease
-76,,,travels
-77,,,known
-78,,,thin
-79,,,none
-80,,,crosssectional
-81,,,rapidly
-82,,,phenomenon
-83,,,mostly
-84,,,unchanged
-85,,,methods
-86,,,superconductor
-87,,,body
-88,,,depends
-89,,,measures
-90,,,aluminium
-91,,,difference
-92,,,two
-93,,,different
-94,,,network
-95,,,tungsten
-96,,,thermo
-97,,,nichrome
-98,,,meter
-99,,,copper
-100,,,diode
-101,,,electric
-102,,,conductivity
-103,,,circuits
-104,,,resistivity
-105,,,charge
-106,,,kirchhoffs
-107,,,pressure
-108,,,india
-109,,,expressed
-110,,,superconductivity
-111,,,joulecoulombs
-112,,,constant
-113,,,energy
-114,,,consequences
-115,,,hour
-116,,,second
-117,,,electrons
-118,,,thermistor
-119,,,laws
-120,,,conductance
-121,,,circuit
-122,,,involve
-123,,,\\frac{r}{}\
-124,,,fuse
-125,,,first
-126,,,coil
-127,,,halved
-128,,,whose
-129,,,usa
-130,,,field
-131,,,kj
-132,,,speed
-133,,,crosssection
-134,,,joule/coulomb/metre
-135,,,tjie
-136,,,ohm
-137,,,similar
-138,,,valid
-139,,,joules
-140,,,varying
-141,,,human
-142,,,affected
-143,,,potential
-144,,,r/
-145,,,resistances
-146,,,nr
-147,,,external
-148,,,peitier
-149,,,example
-150,,,equal
-151,,,much
-152,,,ms
-153,,,kω
-154,,,fordomestic
-155,,,law
-156,,,increases
-157,,,hours
-158,,,electricity
-159,,,coefficient
-160,,,connected
-161,,,accurately
-162,,,four
-163,,,m°c
-164,,,potentiometer
-165,,,high
-166,,,conductors
-167,,,kilowatt
-168,,,combination
-169,,,many
-170,,,called
-171,,,measured
-172,,,series
-173,,,°c
-174,,,parallel
-175,,,supplied
-176,,,siemen
-177,,,maximum
-178,,,connecting
-179,,,change
-180,,,\\frac{r}{n}\
-181,,,compared
-182,,,device
-183,,,discovered
-184,,,is/i
-185,,,volume
-186,,,draw
-187,,,upon
-188,,,kwh
-189,,,respectively
-190,,,joule/coulomb
-191,,,lamp
-192,,,platinum
-193,,,power
-194,,,conservation
-195,,,less
-196,,,conductor
-197,,,carbon
-198,,,wheatstone
-199,,,ohm’s
-200,,,consumed
-201,,,original
-202,,,everyday
-203,,,smallest
-204,,,radii
-205,,,across
-206,,,faraday
-207,,,half
-208,,,elasticity
+45,,,volt
+46,,,hours
+47,,,diode
+48,,,accurately
+50,,,nonohmic
+51,,,conservation
+52,,,heat
+53,,,discovered
+54,,,acting
+55,,,order
+56,,,magnetic
+57,,,rod
+58,,,energy
+59,,,different
+60,,,temperature
+61,,,connecting
+62,,,nichrome
+63,,,compared
+64,,,heavy
+65,,,constitute
+66,,,thomson
+67,,,ali
+68,,,null
+70,,,phenomenon
+71,,,stretched
+72,,,electrical
+73,,,siemen
+74,,,thin
+75,,,change
+76,,,edison
+77,,,resistivity
+78,,,quadrupled
+79,,,bridge
+80,,,value
+81,,,superconductor
+82,,,original
+83,,,elasticity
+86,,,accurate
+87,,,joulecoulombmetre
+88,,,potentiometer
+89,,,lament
+90,,,changes
+91,,,half
+93,,,example
+94,,,draws
+95,,,wire
+96,,,similar
+98,,,varying
+99,,,supplied
+100,,,india
+101,,,expressed
+102,,,joules
+103,,,increases
+104,,,kirchhoffs
+105,,,resistances
+106,,,everyday
+107,,,circuit
+108,,,sensitive
+110,,,bulb
+111,,,coefficient
+112,,,times
+113,,,much
+114,,,length
+116,,,measures
+117,,,two
+118,,,unchanged
+119,,,diameter
+120,,,seebeck
+121,,,rapidly
+122,,,whose
+123,,,field
+124,,,new
+125,,,carbon
+127,,,conductance
+128,,,onnes
+129,,,law
+130,,,kilowatt
+131,,,resistors
+132,,,first
+133,,,ohm
+134,,,material
+135,,,wheatstone
+136,,,external
+137,,,neither
+138,,,upon
+139,,,tjie
+140,,,respectively
+141,,,series
+142,,,aluminium
+143,,,combination
+144,,,fig
+145,,,coil
+146,,,device
+147,,,electrons
+148,,,constant
+149,,,thermistor
+151,,,commonly
+152,,,platinum
+153,,,depends
+154,,,ohms
+155,,,use
+156,,,usa
+157,,,joulecoulombs
+158,,,power
+159,,,called
+160,,,conductors
+161,,,fordomestic
+162,,,second
+163,,,mostly
+164,,,applied
+165,,,source
+166,,,kwh
+167,,,human
+168,,,parallel
+169,,,crosssectional
+170,,,electricity
+171,,,circuits
+172,,,electric
+173,,,consumed
+174,,,equal
+175,,,difference
+176,,,following
+177,,,obtained
+178,,,decrease
+179,,,resistor
+180,,,car
+181,,,smallest
+182,,,tungsten
+183,,,consequences
+184,,,speed
+185,,,unit
+186,,,crosssection
+187,,,low
+188,,,affected
+189,,,charge
+190,,,nearly
+192,,,area
+193,,,four
+194,,,increase
+195,,,ratio
+196,,,current
+197,,,hour
+198,,,conductivity
+199,,,methods
+200,,,velocity
+201,,,fuse
+202,,,stand
+203,,,specific
+204,,,based
+205,,,valid
+206,,,curie
+207,,,used
+208,,,voltmeter
+209,,,draw
+210,,,laws
+211,,,connected

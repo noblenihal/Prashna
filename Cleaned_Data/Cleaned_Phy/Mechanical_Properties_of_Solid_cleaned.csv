@@ -1,86 +1,80 @@
 ,index,0;1;2;3;4;Answer,Words
-0,0.0,A body of mass 1 kg is attached to one end of a wire and rotated in horizontal circle of diameter 40 cm with a constant speed of 2 m/s. what is the area of cross-section of the wire if the stress developed in the wire is 5 × 106 N/m²?;(a) 2 mm²;(b) 3 mm²;(c) 4 mm²;(d) 5 mm²;(c) 4 mm²,liquid
-1,1.0,Hookes law essentially defines;(a) Stress;(b) Strain;(c) Yield point;(d) Elastic limit;(d) Elastic limit,ratio
-2,2.0,Longitudinal strain is possible in the case of;(a) Gases;(b) Liquid;(c) Only solids;(d) Only gases & liquids;(c) Only solids,wire
-3,3.0,An iron bar of length l m and cross section A m² is pulled by a force of F Newton from both ends so as to produce and elongation in meters. Which of the following statement statements is correct;(a) Elongation is inversely proportional to length l;(b) Elongation is directly proportional to cross section A;(c) Elongation is inversely proportional to A;(d) Elongation is directly proportional to Youngs modulus;(c) Elongation is inversely proportional to A,following
-4,4.0,The ratio of the change in dimension at right angles to the applied force to the initial dimension is known as;(a) Youngs modulus;(b) Poissons ratio;(c) Lateral strain;(d) Shearing strain;(c) Lateral strain,defines
-5,5.0,A body of mass 1 kg is attached to one end of a wire and rotated in horizontal circle of diameter 40 cm with a constant speed of 2 m/s. what is the area of cross-section of the wire if the stress developed in the wire is 5 × 106 N/m²?;(a) 2 mm²;(b) 3 mm²;(c) 4 mm²;(d) 5 mm²;(c) 4 mm²,iron
-6,6.0,The ratio of the change in dimension at right angles to the applied force to the initial dimension is known as;(a) Youngs modulus;(b) Poissons ratio;(c) Lateral strain;(d) Shearing strain;(c) Lateral strain,/oc
-7,7.0,The magnitude of the force developed by raising the temperature from 0°C to 100°C of the iron bar of 1.00 m long and 1 cm² cross-section when it is held so that it is not permitted to expand or bend is (a = 10-5/oC and Y = 1011 N/m²);(a) 103 N;(b) 104 N;(c) 105;(d) 109 N;(b) 104 N,longitudinal
-8,8.0,The upper end of wire 1 m long and 2 mm radius is clamped. The lower end is twisted through an angle of 45°. The angle of shear is;(a) 0.09°;(b) 0.9°;(c) 9°;(d) 90°;(a) 0.09°,one
-9,,,yield
-10,,,force
-11,,,shear
-12,,,permitted
-13,,,hookes
-14,,,area
-15,,,upper
-16,,,strain
-17,,,temperature
-18,,,m/s
-19,,,statements
-20,,,initial
-21,,,developed
-22,,,mm²
-23,,,statement
-24,,,clamped
-25,,,applied
-26,,,solids
-27,,,lower
-28,,,angles
-29,,,inversely
-30,,,attached
-31,,,length
-32,,,n/m²
-33,,,magnitude
-34,,,limit
-35,,,possible
-36,,,twisted
-37,,,held
-38,,,end
-39,,,diameter
-40,,,raising
-41,,,known
-42,,,angle
-43,,,body
-44,,,elastic
-45,,,liquids
-46,,,case
-47,,,pulled
-48,,,radius
-49,,,directly
-50,,,mass
-51,,,horizontal
-52,,,bar
-53,,,section
-54,,,youngs
-55,,,bend
-56,,,gases
-57,,,essentially
-58,,,constant
-59,,,meters
-60,,,cm²
-61,,,stress
-62,,,modulus
-63,,,right
-64,,,speed
-65,,,crosssection
-66,,,produce
-67,,,poissons
-68,,,law
-69,,,point
-70,,,newton
-71,,,proportional
-72,,,°c
-73,,,change
-74,,,rotated
-75,,,dimension
-76,,,correct
-77,,,shearing
-78,,,circle
-79,,,elongation
-80,,,lateral
-81,,,expand
-82,,,long
-83,,,ends
-84,,,cross
+0,0.0,A body of mass 1 kg is attached to one end of a wire and rotated in horizontal circle of diameter 40 cm with a constant speed of 2 m/s. what is the area of cross-section of the wire if the stress developed in the wire is 5 × 106 N/m²?;(a) 2 mm²;(b) 3 mm²;(c) 4 mm²;(d) 5 mm²;(c) 4 mm²,raising
+1,1.0,Hookes law essentially defines;(a) Stress;(b) Strain;(c) Yield point;(d) Elastic limit;(d) Elastic limit,case
+2,2.0,Longitudinal strain is possible in the case of;(a) Gases;(b) Liquid;(c) Only solids;(d) Only gases & liquids;(c) Only solids,gases
+3,3.0,An iron bar of length l m and cross section A m² is pulled by a force of F Newton from both ends so as to produce and elongation in meters. Which of the following statement statements is correct;(a) Elongation is inversely proportional to length l;(b) Elongation is directly proportional to cross section A;(c) Elongation is inversely proportional to A;(d) Elongation is directly proportional to Youngs modulus;(c) Elongation is inversely proportional to A,developed
+4,4.0,The ratio of the change in dimension at right angles to the applied force to the initial dimension is known as;(a) Youngs modulus;(b) Poissons ratio;(c) Lateral strain;(d) Shearing strain;(c) Lateral strain,magnitude
+5,5.0,A body of mass 1 kg is attached to one end of a wire and rotated in horizontal circle of diameter 40 cm with a constant speed of 2 m/s. what is the area of cross-section of the wire if the stress developed in the wire is 5 × 106 N/m²?;(a) 2 mm²;(b) 3 mm²;(c) 4 mm²;(d) 5 mm²;(c) 4 mm²,liquids
+6,6.0,The ratio of the change in dimension at right angles to the applied force to the initial dimension is known as;(a) Youngs modulus;(b) Poissons ratio;(c) Lateral strain;(d) Shearing strain;(c) Lateral strain,body
+7,7.0,The magnitude of the force developed by raising the temperature from 0°C to 100°C of the iron bar of 1.00 m long and 1 cm² cross-section when it is held so that it is not permitted to expand or bend is (a = 10-5/oC and Y = 1011 N/m²);(a) 103 N;(b) 104 N;(c) 105;(d) 109 N;(b) 104 N,proportional
+8,8.0,The upper end of wire 1 m long and 2 mm radius is clamped. The lower end is twisted through an angle of 45°. The angle of shear is;(a) 0.09°;(b) 0.9°;(c) 9°;(d) 90°;(a) 0.09°,bend
+9,,,limit
+11,,,pulled
+12,,,defines
+13,,,statement
+14,,,bar
+15,,,iron
+16,,,possible
+18,,,known
+19,,,radius
+20,,,liquid
+21,,,hookes
+22,,,angles
+23,,,temperature
+25,,,dimension
+26,,,clamped
+27,,,change
+28,,,force
+29,,,statements
+30,,,youngs
+32,,,modulus
+34,,,newton
+35,,,yield
+36,,,correct
+37,,,poissons
+38,,,wire
+39,,,rotated
+40,,,permitted
+41,,,expand
+43,,,horizontal
+44,,,length
+45,,,produce
+46,,,diameter
+47,,,cross
+48,,,held
+49,,,essentially
+50,,,shearing
+52,,,lower
+53,,,long
+54,,,longitudinal
+55,,,meters
+56,,,law
+57,,,inversely
+59,,,mass
+60,,,one
+61,,,shear
+63,,,strain
+64,,,elastic
+65,,,upper
+66,,,constant
+67,,,lateral
+68,,,elongation
+69,,,initial
+70,,,right
+71,,,solids
+72,,,end
+73,,,applied
+74,,,circle
+76,,,stress
+77,,,attached
+78,,,following
+79,,,twisted
+80,,,speed
+81,,,crosssection
+82,,,area
+83,,,ratio
+84,,,directly
+85,,,ends
+86,,,angle
+87,,,point
+88,,,section
