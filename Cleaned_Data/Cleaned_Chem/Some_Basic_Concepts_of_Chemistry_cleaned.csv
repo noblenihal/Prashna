@@ -1,114 +1,310 @@
-,index,0;1;2;3;4;Answer,Words
-0,Approximate atomic weight of an element is 26.89. If its equivalent weight is 8.9," the exact atomic weight of element would be;(a) 26.89;(b) 8.9;(c) 17.8;(d) 26.7;""(d) 26.7",temperatures
-1,Explanation:,,unit
-2,Atomic weight = (Equivalent weight × Valency),,everyday
-3,=(8.9 × 3) = 26.7,,considered
-4,"(Valency = (26.89)/(8.9) ≈ 3).""",,used
-5,"The number of moles present in 6 gms of carbon is:;(a) 2;(b) 0.5;(c) 5;(d) 1;""(b) 0.5",,another
-6,Explanation:,,nan
-7,The molar mass of,,conc
-8,12C is 12.0 gmol-1.,,derived
-9,NA (Avogadros number = 6.022×1023),,
-10,12C atoms have a mass of 12.0 g.,,msoho
-11,Given that: – 6.0 g.,,would
-12,"Thus (6.0 g)/ (12.0 gmol-1) = 0.50 mol.""",,particle
-13,"What is the concentration of nitrate ions if equal volumes of 0.1 M AgNO3 and 0.1 M NaCl are mixed together;(a) 0.1 N;(b) 0.2 M;(c) 0.05 M;(d) 0.25 M;""(b) 0.2 M",,got
-14,Explanation:,,weight
-15,0.1 M AgNOA will react with 0.1 M NaCl to form 0.1 M NaNOA.,,measure
-16,But as the volume is doubled, conc. of NO–3 = \(\frac { (0.1) }{ (2) } \),electron
-17,"= 0.05 M""",,new
-18,"The -ve charged particles is called:;(a) Anion;(b) Cation;(c) Radical;(d) Atom;""(a) Anion",,atomic
-19,Explanation:,,generally
-20,This happens whenever something called an ionic bond forms.,,molecular
-21,Two particles that have different numbers of electrons (the smallest particle in an atom which is negative) start reacting to each other.,,element
-22,The particle that has the greater amount of electrons takes the other particles electrons.,,kind
-23,One becomes positive because it lost an electron, and the other negative because it got another electron.,negative
-24,The two particles become attracted to each other and mix together," making a new kind of particle.""",making
-25,"Which is not a unit of pressure:;(a) Bar;(b) N/m²;(c) Kg/m²;(d) Torr;""(c) Kg/m²",,exact
-26,Explanation:,,
-27,"Pressure is force per unit area so Kg/m² cannot be a unit of pressure.""",,
-28,"What is the normality of a 1 M solution of H3PO4;(a) 0.5 N;(b) 1.0 N;(c) 2.0 N;(d) 3.0 N;""(d) 3.0 N",,
-29,Explanation:,,
-30,H3PO4 is tribasic,,
-31,So N = 3M,,
-32,"= 3 × 1 = 3.""",,
-33,"The total number of ions present in 111 g of CaCl2 is;(a) One Mole;(b) Two Mole;(c) Three Mole;(d) Four Mole;""(c) Three Mole",,
-34,Explanation:,,
-35,Molecular weight of,,
-36,CaCl2 = 111g/mol,,
-37,Ions in one calcium chloride molecule = Ca+2 + 2Cl– = 3 ions,,
-38,Now no. of molecules in 111g/mol of CaCl2 = Avogadros number,,
-39,= 6.02 × 1023 molecules,,
-40,So number of ions in 111g/mol of CaCl2,,
-41,= 3 × 6.02 × 1023 ions,,
-42,"= 3 moles.""",,
-43,Which of the following weighs the most?;(a) One g – atom of nitrogen;(b) One mole of water;(c) One mole of sodium;(d) One molecule of H2SO4;(c) One mole of sodium,,
-44,Explanation:,,
-45,NH3(g) + HCl(g)→ NH4Cl(s),,
-46,t = 0 40ml 0,,
-47,t = t 20ml solid,,
-48,"Final volume = 20ml.""",,
-49,Explanation:,,
-50,"
-Which of the following cannot give iodometric titrations;(a) Fe3+;(b) Cu2+;(c) Pb2+;(d) Ag+;(c) Pb2+",,
-51,Explanation:,,
-52,Atom in highest oxidation state can oxidize iodide to liberate I2 which is volumetrically measured by iodometric titration using hypo.,,
-53,2I– →I2,,
-54,"Pb+2 → Lowest oxidation state cannot oxidise iodide to I2""",,
-55,"What is the concentration of nitrate ions if equal volumes of 0.1 MAgNO3 and 0.1 M NaCl are mixed together;(a) 0.1 M;(b) 0.2 M;(c) 0.05 M;(d) 0.25 M;""(c) 0.05 M",,
-56,Explanation:,,
-57,0.1M AgNO3 will react with 0.1M NaCl to form 0.1M NaNO3.,,
-58,But as the volume doubled, conc. of NO–2,
-59,= 0.12,,
-60,"= 0.05 M""",,
-61,"The number of moles present in 6 gms of carbon is:;(a) 2;(b) 0.5;(c) 5;(d) 1;""(b) 0.5",,
-62,Explanation:,,
-63,The molar mass of,,
-64,12C is 12.0 gmol-1.,,
-65,NA (Avogadros number = 6.022 × 1023),,
-66,12C atoms have a mass of 12.0 g.,,
-67,Given that: – 6.0 g.,,
-68,"Thus (6.0 g)/ (12.0 gmol-1) = 0.50 mol.""",,
-69,"Which of the following contains same number of carbon atoms as are in 6.0 g of carbon (C – 12)?;(a) 6.0 g Ethane;(b) 8.0 g Methane;(c) 21.0 g Propane;(d) 28.0 g CO;""(b) 8.0 g Methane",,
-70,Explanation:,,
-71,6g carbon,,
-72,Moles of carbon = (6/12) = 0.5 mol,,
-73,Number of carbon atoms,,
-74,= 0.5 × NA =0.5NA (NA is Avogadro number),,
-75,6g ethane (C2H6 two atoms of C per mole),,
-76,Moles = (6/30) = 0.2 mol,,
-77,Number of carbon atoms = 0.2 × 2 × NA = 0.4 NA,,
-78,(Number of carbon atoms = moles of compound × number of C atoms per mol × Avogadro number),,
-79,8g methane (CH4),,
-80,Moles = (8/16) = 0.5 mol,,
-81,Number of carbon atoms = 0.5 × 1 × NA = 0.5 NA,,
-82,21g propane (C3H8),,
-83,Moles = (21/44) =0.48 mol,,
-84,Number of carbon atoms = 0.48 × 3 × NA = 1.44 NA,,
-85,28g CO,,
-86,Moles = (28/28) =1 mol,,
-87,"Number of carbon atoms = 1 × 1 × NA = NA""",,
-88,"The significant figures in 3400 are;(a) 2;(b) 5;(c) 6;(d) 4;""(b) 5",,
-89,Explanation:,,
-90,"As we know that all non-zero unit are significant number.""",,
-91,"A symbol not only represents the name of the element but also represents;(a) Atomic Mass;(b) Atomic Number;(c) Atomicity;(d) Atomic Volume;""(c) Atomicity",,
-92,Explanation:,,
-93,"What is the normality of a 1 M solution of H3PO4;(a) 0.5 N;(b) 1.0 N;(c) 2.0 N;(d) 3.0 N;""(d) 3.0 N",,
-94,Explanation:,,
-95,H3PO4 is tribasic,,
-96,So N = 3M,,
-97,"= 3 × 1 = 3.""",,
-98,Which of the following weighs the most?;(a) One g – atom of nitrogen;(b) One mole of water;(c) One mole of sodium;(d) One molecule of H2SO4;(c) One mole of sodium,,
-99,"The sulphate of a metal M contains 9.87% of M. This sulphate is isomorphous with ZnSO4.7H2O. The atomic weight of M is;(a) 40.3;(b) 36.3;(c) 24.3;(d) 11.3;""(c) 24.3",,
-100,Explanation:,,
-101,As the given sulphate is isomorphous with ZnSO4.7H2O its formula would be MSO4.7H2O.m is the atomic weight of M, molecular weight of MSO4.7H2O,
-102,= (m + 32 + 64 + 126) = (m + 222),,
-103,Hence % of M= [(m)/ (m+222)] × 100 = 9.87(given),,
-104,Or,,
-105,100 m = (9.87 m + 222 × 9.87),,
-106,Or 90.13 m = (222 × 9.87),,
-107,Or m = (222 × 9.87)/(90.13),,
-108,"= 24.3.""",,
-109,"The S.I unit of temperature is :;(a) Kelvin;(b) Celsius;(c) Fahrenheit;(d) Centigrade;""(a) Kelvin",,
-110,Explanation:,,
-111,The SI unit of temperature is the Kelvin. Although the Celsius temperature scale is also used," it is considered a derived SI unit and is generally used to measure everyday temperatures.""",
+,index,0,1,2,3,4,Answer,Words
+0,0.0,"Approximate atomic weight of an element is 26.89. If its equivalent weight is 8.9, the exact atomic weight of element would be",(a) 26.89,(b) 8.9,(c) 17.8,(d) 26.7,"(d) 26.7
+Explanation:
+Atomic weight = (Equivalent weight × Valency)
+=(8.9 × 3) = 26.7
+(Valency = (26.89)/(8.9) ≈ 3).",
+1,1.0,The number of moles present in 6 gms of carbon is:,(a) 2,(b) 0.5,(c) 5,(d) 1,"(b) 0.5
+Explanation:
+The molar mass of
+12C is 12.0 gmol-1.
+NA (Avogadros number = 6.022×1023)
+12C atoms have a mass of 12.0 g.
+Given that: – 6.0 g.
+Thus (6.0 g)/ (12.0 gmol-1) = 0.50 mol.",nitrate
+2,2.0,What is the concentration of nitrate ions if equal volumes of 0.1 M AgNO3 and 0.1 M NaCl are mixed together,(a) 0.1 N,(b) 0.2 M,(c) 0.05 M,(d) 0.25 M,"(b) 0.2 M
+Explanation:
+0.1 M AgNOA will react with 0.1 M NaCl to form 0.1 M NaNOA.
+But as the volume is doubled, conc. of NO–3 = \(\frac { (0.1) }{ (2) } \)
+= 0.05 M",kind
+3,3.0,The -ve charged particles is called:,(a) Anion,(b) Cation,(c) Radical,(d) Atom,"(a) Anion
+Explanation:
+A charged particle, also called an ion, is an atom with a positive or negative charge.
+This happens whenever something called an ionic bond forms.
+Two particles that have different numbers of electrons (the smallest particle in an atom which is negative) start reacting to each other.
+The particle that has the greater amount of electrons takes the other particles electrons.
+One becomes positive because it lost an electron, and the other negative because it got another electron.
+The two particles become attracted to each other and mix together, making a new kind of particle.",nexplanationnatomic
+4,4.0,Which is not a unit of pressure:,(a) Bar,(b) N/m²,(c) Kg/m²,(d) Torr,"(c) Kg/m²
+Explanation:
+Pressure is force per unit area so Kg/m² cannot be a unit of pressure.",
+5,5.0,What is the normality of a 1 M solution of H3PO4,(a) 0.5 N,(b) 1.0 N,(c) 2.0 N,(d) 3.0 N,"(d) 3.0 N
+Explanation:
+H3PO4 is tribasic
+So N = 3M
+= 3 × 1 = 3.",used
+6,6.0,The total number of ions present in 111 g of CaCl2 is,(a) One Mole,(b) Two Mole,(c) Three Mole,(d) Four Mole,"(c) Three Mole
+Explanation:
+Molecular weight of
+CaCl2 = 111g/mol
+Ions in one calcium chloride molecule = Ca+2 + 2Cl– = 3 ions
+Now no. of molecules in 111g/mol of CaCl2 = Avogadros number
+= 6.02 × 1023 molecules
+So number of ions in 111g/mol of CaCl2
+= 3 × 6.02 × 1023 ions
+= 3 moles.",ofncacl
+7,7.0,Which of the following weighs the most?,(a) One g – atom of nitrogen,(b) One mole of water,(c) One mole of sodium,(d) One molecule of H2SO4,(c) One mole of sodium,numbern
+8,8.0,"Under similar conditions of pressure and temperature, 40 ml of slightly moist hydrogen chloride gas is mixed with 20 ml of ammonia gas, the final volume of gas at the same temperature and pressure will be",(a) 100 ml,(b) 20 ml,(c) 40 ml,(d) 60 ml,"(b) 20 ml
+Explanation:
+NH3(g) + HCl(g)→ NH4Cl(s)
+t = 0 40ml 0
+t = t 20ml solid
+Final volume = 20ml.",four
+9,9.0,"An organic compound contains carbon , hydrogen and oxygen. Its elemental analysis gave C, 38.71% and H, 9.67%. The empirical formula of the compound would be",(a) CHO,(b) CH4O,(c) CH3O,(d) CH2O,"(c) CH3O
+Explanation:
+",per
+10,10.0,Which of the following cannot give iodometric titrations,(a) Fe3+,(b) Cu2+,(c) Pb2+,(d) Ag+,"(c) Pb2+
+Explanation:
+Atom in highest oxidation state can oxidize iodide to liberate I2 which is volumetrically measured by iodometric titration using hypo.
+2I– →I2
+Pb+2 → Lowest oxidation state cannot oxidise iodide to I2",titration
+11,11.0,What is the concentration of nitrate ions if equal volumes of 0.1 MAgNO3 and 0.1 M NaCl are mixed together,(a) 0.1 M,(b) 0.2 M,(c) 0.05 M,(d) 0.25 M,"(c) 0.05 M
+Explanation:
+0.1M AgNO3 will react with 0.1M NaCl to form 0.1M NaNO3.
+But as the volume doubled, conc. of NO–2
+= 0.12
+= 0.05 M",atomsn
+12,12.0,The number of moles present in 6 gms of carbon is:,(a) 2,(b) 0.5,(c) 5,(d) 1,"(b) 0.5
+Explanation:
+The molar mass of
+12C is 12.0 gmol-1.
+NA (Avogadros number = 6.022 × 1023)
+12C atoms have a mass of 12.0 g.
+Given that: – 6.0 g.
+Thus (6.0 g)/ (12.0 gmol-1) = 0.50 mol.",sulphate
+13,13.0,Which of the following contains same number of carbon atoms as are in 6.0 g of carbon (C – 12)?,(a) 6.0 g Ethane,(b) 8.0 g Methane,(c) 21.0 g Propane,(d) 28.0 g CO,"(b) 8.0 g Methane
+Explanation:
+6g carbon
+Moles of carbon = (6/12) = 0.5 mol
+Number of carbon atoms
+= 0.5 × NA =0.5NA (NA is Avogadro number)
+6g ethane (C2H6 two atoms of C per mole)
+Moles = (6/30) = 0.2 mol
+Number of carbon atoms = 0.2 × 2 × NA = 0.4 NA
+(Number of carbon atoms = moles of compound × number of C atoms per mol × Avogadro number)
+8g methane (CH4)
+Moles = (8/16) = 0.5 mol
+Number of carbon atoms = 0.5 × 1 × NA = 0.5 NA
+21g propane (C3H8)
+Moles = (21/44) =0.48 mol
+Number of carbon atoms = 0.48 × 3 × NA = 1.44 NA
+28g CO
+Moles = (28/28) =1 mol
+Number of carbon atoms = 1 × 1 × NA = NA",anionnexplanationna
+14,14.0,The significant figures in 3400 are,(a) 2,(b) 5,(c) 6,(d) 4,"(b) 5
+Explanation:
+As we know that all non-zero unit are significant number.",got
+15,15.0,A symbol not only represents the name of the element but also represents,(a) Atomic Mass,(b) Atomic Number,(c) Atomicity,(d) Atomic Volume,"(c) Atomicity
+Explanation:
+Symbol of an element represents the name along with the number of same atoms in room condition, which is its atomicity, of that element.",mass
+16,16.0,What is the normality of a 1 M solution of H3PO4,(a) 0.5 N,(b) 1.0 N,(c) 2.0 N,(d) 3.0 N,"(d) 3.0 N
+Explanation:
+H3PO4 is tribasic
+So N = 3M
+= 3 × 1 = 3.",oxidise
+17,17.0,Which of the following weighs the most?,(a) One g – atom of nitrogen,(b) One mole of water,(c) One mole of sodium,(d) One molecule of H2SO4,(c) One mole of sodium,become
+18,18.0,The sulphate of a metal M contains 9.87% of M. This sulphate is isomorphous with ZnSO4.7H2O. The atomic weight of M is,(a) 40.3,(b) 36.3,(c) 24.3,(d) 11.3,"(c) 24.3
+Explanation:
+As the given sulphate is isomorphous with ZnSO4.7H2O its formula would be MSO4.7H2O.m is the atomic weight of M, molecular weight of MSO4.7H2O
+= (m + 32 + 64 + 126) = (m + 222)
+Hence % of M= [(m)/ (m+222)] × 100 = 9.87(given)
+Or
+100 m = (9.87 m + 222 × 9.87)
+Or 90.13 m = (222 × 9.87)
+Or m = (222 × 9.87)/(90.13)
+= 24.3.",gmolnions
+19,19.0,The S.I unit of temperature is :,(a) Kelvin,(b) Celsius,(c) Fahrenheit,(d) Centigrade,"(a) Kelvin
+Explanation:
+The SI unit of temperature is the Kelvin. Although the Celsius temperature scale is also used, it is considered a derived SI unit and is generally used to measure everyday temperatures.",centigrade
+20,,,,,,,,lost
+21,,,,,,,,molenmoles
+22,,,,,,,,molecular
+23,,,,,,,,ammonia
+24,,,,,,,,different
+25,,,,,,,,area
+27,,,,,,,,nhclnt
+28,,,,,,,,nannumber
+29,,,,,,,,othernthe
+30,,,,,,,,conmoles
+31,,,,,,,,chnmoles
+32,,,,,,,,water
+33,,,,,,,,nhence
+34,,,,,,,,chloride
+35,,,,,,,,also
+36,,,,,,,,propane
+37,,,,,,,,charged
+38,,,,,,,,ionsnnow
+39,,,,,,,,represents
+40,,,,,,,,element
+41,,,,,,,,atomicitynexplanationnsymbol
+42,,,,,,,,chonexplanationn
+43,,,,,,,,would
+46,,,,,,,,iodometric
+47,,,,,,,,compound
+48,,,,,,,,conc
+49,,,,,,,,mix
+50,,,,,,,,room
+51,,,,,,,,normality
+52,,,,,,,,electronsnone
+53,,,,,,,,moist
+54,,,,,,,,measured
+55,,,,,,,,generally
+56,,,,,,,,doubled
+57,,,,,,,,solution
+58,,,,,,,,carbon
+59,,,,,,,,bond
+60,,,,,,,,molenexplanationnmolecular
+61,,,,,,,,mnexplanationnm
+62,,,,,,,,react
+64,,,,,,,,agnoa
+65,,,,,,,,weight
+66,,,,,,,,weighs
+67,,,,,,,,amount
+68,,,,,,,,metal
+69,,,,,,,,moleculesnso
+70,,,,,,,,methanenexplanationng
+71,,,,,,,,liberate
+72,,,,,,,,happens
+73,,,,,,,,cation
+74,,,,,,,,something
+75,,,,,,,,new
+76,,,,,,,,mole
+77,,,,,,,,negative
+78,,,,,,,,nanonbut
+79,,,,,,,,torr
+80,,,,,,,,together
+81,,,,,,,,smallest
+82,,,,,,,,another
+83,,,,,,,,oxygen
+84,,,,,,,,hso
+85,,,,,,,,solidnfinal
+86,,,,,,,,anion
+87,,,,,,,,nnexplanationnhpo
+88,,,,,,,,derived
+89,,,,,,,,everyday
+90,,,,,,,,electronnthe
+91,,,,,,,,volumetrically
+92,,,,,,,,pbnexplanationnatom
+93,,,,,,,,mixed
+94,,,,,,,,avogadro
+95,,,,,,,,equivalent
+96,,,,,,,,measure
+97,,,,,,,,scale
+100,,,,,,,,called
+101,,,,,,,,nitrogen
+102,,,,,,,,temperature
+103,,,,,,,,ethane
+104,,,,,,,,know
+105,,,,,,,,gmol
+106,,,,,,,,radical
+107,,,,,,,,ofnc
+108,,,,,,,,along
+109,,,,,,,,kgm
+110,,,,,,,,msohom
+111,,,,,,,,iodide
+112,,,,,,,,nvalency
+113,,,,,,,,mnexplanationn
+114,,,,,,,,empirical
+115,,,,,,,,organic
+116,,,,,,,,znsoho
+117,,,,,,,,oxidation
+118,,,,,,,,ionic
+119,,,,,,,,start
+120,,,,,,,,given
+121,,,,,,,,slightly
+122,,,,,,,,ionsn
+123,,,,,,,,nang
+124,,,,,,,,considered
+125,,,,,,,,kelvin
+127,,,,,,,,figure
+128,,,,,,,,final
+129,,,,,,,,non
+130,,,,,,,,mol
+131,,,,,,,,electron
+132,,,,,,,,atom
+133,,,,,,,,molar
+135,,,,,,,,gnthus
+136,,,,,,,,cannot
+137,,,,,,,,exact
+138,,,,,,,,hyponi
+139,,,,,,,,magno
+140,,,,,,,,isomorphous
+141,,,,,,,,msohon
+142,,,,,,,,give
+143,,,,,,,,using
+144,,,,,,,,significant
+145,,,,,,,,present
+147,,,,,,,,nexplanationnthe
+148,,,,,,,,nexplanationnas
+149,,,,,,,,sodium
+150,,,,,,,,celsius
+151,,,,,,,,hcl
+152,,,,,,,,calcium
+153,,,,,,,,mlnexplanationnnh
+154,,,,,,,,symbol
+155,,,,,,,,bar
+156,,,,,,,,methane
+157,,,,,,,,although
+158,,,,,,,,making
+159,,,,,,,,equal
+160,,,,,,,,two
+161,,,,,,,,one
+162,,,,,,,,formula
+163,,,,,,,,chargenthis
+164,,,,,,,,atomic
+165,,,,,,,,valencyn
+166,,,,,,,,similar
+167,,,,,,,,force
+168,,,,,,,,kelvinnexplanationnthe
+169,,,,,,,,volume
+170,,,,,,,,nanoanbut
+171,,,,,,,,tribasicnso
+172,,,,,,,,oxidize
+173,,,,,,,,nonzero
+174,,,,,,,,gngiven
+175,,,,,,,,becomes
+177,,,,,,,,cacl
+178,,,,,,,,lowest
+179,,,,,,,,take
+180,,,,,,,,particle
+181,,,,,,,,gmolnna
+182,,,,,,,,formsntwo
+183,,,,,,,,numberng
+184,,,,,,,,kgmnexplanationnpressure
+185,,,,,,,,greater
+186,,,,,,,,number
+188,,,,,,,,attracted
+189,,,,,,,,hydrogen
+190,,,,,,,,positive
+191,,,,,,,,contains
+192,,,,,,,,carbonnmoles
+193,,,,,,,,molnnumber
+194,,,,,,,,inpb
+196,,,,,,,,agno
+197,,,,,,,,pressure
+198,,,,,,,,nacl
+199,,,,,,,,name
+200,,,,,,,,atomicity
+201,,,,,,,,three
+202,,,,,,,,reacting
+204,,,,,,,,avogadros
+205,,,,,,,,form
+206,,,,,,,,cho
+207,,,,,,,,molecule
+208,,,,,,,,highest
+209,,,,,,,,gas
+210,,,,,,,,unit
+211,,,,,,,,total
+214,,,,,,,,analysis
+215,,,,,,,,givennorn
+216,,,,,,,,condition
+217,,,,,,,,fahrenheit
+219,,,,,,,,state
+220,,,,,,,,ion
+221,,,,,,,,gave
+222,,,,,,,,whenever
+223,,,,,,,,cacln
+224,,,,,,,,hpo
+225,,,,,,,,elemental
+226,,,,,,,,concentration
+228,,,,,,,,following

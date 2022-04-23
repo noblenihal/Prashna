@@ -1,169 +1,212 @@
-,index,0;1;2;3;4;Answer,Words
-0,0.0,The current sensitibility of a moving coil galanometer increases with decrease in:;(a) magnetic field;(b) area of a coil;(c) number of turns;(d) None of these;(d) None of these,neutrons
-1,1.0,The sensitivity of a tangent galvanometer can be increased by increasing:;(a) the radius of the coil;(b) the external magnetic field;(c) the number of turns of the coil;(d) all the above;(b) the external magnetic field,existence
-2,2.0,The permeability of a paramagnetic substance is:;(a) very large;(b) small but more than unity;(c) less than unity;(d) negative;(b) small but more than unity,doubled
-3,3.0,Which of the following shows that the earth behaves as a magnet?;(a) Repulsion between like poles .;(b) Attraction between unlike poles;(c) Null points in the magnetic field of a bar magnet;(d) No existence of isolated magnetic poles;(c) Null points in the magnetic field of a bar magnet,dipole
-4,4.0,What is the angle of dip at the magnetic poles ?;(a) 30°;(b) 0°;(c) 45°;(d) None of these;(d) None of these,like
-5,5.0,Circular loop of radius 0.0157 m carries a current 2 A. The magnetic field at the centre of the loop is :;(a) 1.57 × 10-3Wb/m²;(b) 8.0 × 10-5 Wb/m²;(c) 2.0 × 10-3 Wb/m²;(d) 3.l4 × 10-1 Wb/m²;(b) 8.0 × 10-5 Wb/m²,earth
-6,6.0,What happens to the magnetic field at the centre of a circular current carrying coil if we double the radius of the coil keeping the current unchanged?;(a) halved;(b) doubled;(c) quadrupled;(d) remains unchanged;(a) halved,west
-7,7.0,The strength of the magnetic field around an infinite current carrying conductor is :;(a) same everywhere;(b) inversely proportional to the distance;(c) directly proportional to the distance;(d) None of these;(b) inversely proportional to the distance,cry
-8,8.0,A current carrying power line carries current from west to east. Then the direction of the magnetic field 2 m above it is :;(a) west to east;(b) south to north;(c) north to south;(d) None of these;(c) north to south,tangent
-9,9.0,How much force will be experienced by a moving charge in a magnetic field? The symbols have their usual meanings.;(a) \(\vec{F}\) = q(\(\vec{v}\).\(\vec{B}\));(b) \(\vec{F}\) = \(\frac{q}{(\vec{v}.\vec{B})}\);(c) \(\vec{F}\) = \(\frac{q}{2}\)\((\vec{v}×\vec{B}\));(d) \(\vec{F}\) = q(\(\vec{v}\)×\(\vec{B}\));(d) \(\vec{F}\) = q(\(\vec{v}\)×\(\vec{B}\)),less
-10,10.0,Which of the following is not a unit of magnetic induction?;(a) gauss;(b) tesla;(c) oersted;(d) weber/metre²;(c) oersted,turn
-11,11.0,The magnetic field produced by an / meter long straight (x cry thin) current (I) carry ing conductor at any point on itself is :;(a) zero;(b) infinite;(c) \(\frac{µ_0l}{4πl}\);(d) \(\frac{µ_0l}{2πl}\);(a) zero,momentum
-12,12.0,A charge + q is sent through a magnetic field. The force acting on it is maximum w hen the angle between the direction of motion of the charged particle and the magnetic field :;(a) 0°;(b) 45°;(c) 90°;(d) 180°;(c) 90°,conductor
-13,13.0,The magnetic field of a given length of a ware for single turn coil at its centre is B. Then.its value for two turns of coil will be :;(a) B/4;(b) B/2;(c) 4B;(d) 2B;(c) 4B,points
-14,14.0,To convert galvanometer into voltmeter one should connect :;(a) high resistance in series with galvanometer;(b) low resistance in series with galvanometer;(c) high resistance in parallel with galvanometer;(d) low resistance in parallel with galvanometer;(a) high resistance in series with galvanometer,carries
-15,15.0,Isoclinic lines are the lines joining places with :;(a) equal dip;(b) equal declination;(cj equal dip and declination;(d) None of these;(a) equal dip,proportional
-16,16.0,The most suitable metal for making permanent magnets is :;(a) iron;(b) steel;(c) copper;(d) aluminium;(a) √2 p,copper
-17,17.0,The SI unit of magnetic dipole moment is’;(a) Ampere;(b) Ampere metre²;(c) Tesla;(d) None of these;(b) Ampere metre²,uniform
-18,18.0,Earth’s magnetism was discovered by:;(a) Gauss;(b) Oersted;(c) Ampere;(d) Gilbert;(d) Gilbert,trajectory
-19,19.0,Tesla is a unit of:;(a) electric flux;(b) magnetic flux;(c) magnetic field;(d) electric field;(c) magnetic field,qvecvvecb
-20,20.0,10 eV electron is circulating in a plane at right angle to a uniform field of magnetic induction 10-1 Wb/m² (1G). The orbital radius of electron is:;(a) 12 cm;(b) 16 cm;(c) 11 cm;(d) 18 cm;(c) 11 cm,galvanometer
-21,21.0,A cyclotron can be used to produce high energy:;(a) neutrons;(b) deutrons;(c) β particles;(d) α partifcles;(d) α partifcles,unity
-22,22.0,The radius of the trajectory of a charged particle in a uniform magnetic field is proportional to the:;(a) charge on the particle;(b) energy of the particle;(c) momentum of the particle;(d) all the above;(c) momentum of the particle,circulating
-23,23.0,The torque acting on a magnetic dipole of moment \(\vec{p_m}\) when placed in a magnetic field \(\vec{B}\) is:;(a) pmB;(b) \(\vec{p_m}\) × \(\vec{B}\);(c) \(\vec{p_m}\)\(\vec{B}\);(d) \(\frac{p_m}{B}\);(b) \(\vec{p_m}\) × \(\vec{B}\),resistance
-24,,,south
-25,,,meter
-26,,,number
-27,,,permeability
-28,,,halved
-30,,,hen
-31,,,motion
-32,,,ampere
-33,,,usual
-34,,,suitable
-35,,,magnet
-36,,,bar
-37,,,high
-38,,,iron
-39,,,places
-41,,,single
-42,,,maximum
-43,,,negative
-44,,,produced
-45,,,infinite
-46,,,sent
-47,,,none
-48,,,radius
-49,,,torque
-50,,,increased
-51,,,straight
-52,,,substance
-53,,,magnets
-54,,,discovered
-55,,,acting
-56,,,declination
-57,,,magnetic
-58,,,gilbert
-59,,,east
-60,,,zero
-61,,,energy
-62,,,attraction
-63,,,connect
-64,,,null
-65,,,particle
-66,,,moving
-67,,,induction
-68,,,sensitivity
-69,,,shows
-70,,,carrying
-71,,,galanometer
-72,,,thin
-73,,,value
-74,,,quadrupled
-75,,,force
-77,,,increasing
-78,,,orbital
-79,,,electron
-80,,,distance
-81,,,thenits
-82,,,direction
-83,,,earths
-84,,,around
-85,,,joining
-87,,,oersted
-88,,,carry
-89,,,deutrons
-90,,,permanent
-91,,,increases
-92,,,cyclotron
-93,,,much
-95,,,length
-97,,,produce
-98,,,two
-99,,,unchanged
-100,,,metre
-101,,,turns
-102,,,field
-103,,,webermetre
-104,,,partifcles
-105,,,remains
-106,,,gauss
-107,,,long
-108,,,isoclinic
-109,,,small
-110,,,north
-111,,,magnetism
-112,,,inversely
-113,,,declinationcj
-114,,,external
-115,,,happens
-116,,,behaves
-117,,,plane
-118,,,one
-119,,,series
-120,,,aluminium
-122,,,convert
-123,,,large
-124,,,coil
-125,,,sensitibility
-126,,,steel
-128,,,charged
-129,,,wbm
-130,,,loop
-131,,,double
-132,,,placed
-133,,,unlike
-134,,,keeping
-135,,,right
-136,,,strength
-137,,,lines
-138,,,power
-139,,,centre
-140,,,particles
-141,,,moment
-142,,,pmb
-143,,,repulsion
-144,,,poles
-145,,,circular
-146,,,symbols
-147,,,tesla
-148,,,experienced
-149,,,flux
-150,,,parallel
-151,,,metal
-152,,,electric
-153,,,equal
-154,,,following
-156,,,line
-157,,,decrease
-158,,,isolated
-159,,,ing
-160,,,making
-161,,,unit
-162,,,low
-164,,,charge
-165,,,area
-166,,,meanings
-167,,,dip
-168,,,current
-169,,,directly
-170,,,everywhere
-171,,,angle
-172,,,paramagnetic
-173,,,voltmeter
-174,,,used
-175,,,given
-176,,,point
-177,,,ware
+,index,0,1,2,3,4,Answer,Words
+0,0.0,The current sensitibility of a moving coil galanometer increases with decrease in:,(a) magnetic field,(b) area of a coil,(c) number of turns,(d) None of these,(d) None of these,zero
+1,1.0,"A current carring coil is placed in a uniform magnetic field. If the coil turns through an angle θ, then the torque is directly proportional to:",(a) sin θ,(b) cos θ,(c) cot θ,(d) tan θ,(b) cos θ,meter
+2,2.0,The sensitivity of a tangent galvanometer can be increased by increasing:,(a) the radius of the coil,(b) the external magnetic field,(c) the number of turns of the coil,(d) all the above,(b) the external magnetic field,magnetism
+3,3.0,The permeability of a paramagnetic substance is:,(a) very large,(b) small but more than unity,(c) less than unity,(d) negative,(b) small but more than unity,mass
+4,4.0,Which of the following shows that the earth behaves as a magnet?,(a) Repulsion between like poles .,(b) Attraction between unlike poles,(c) Null points in the magnetic field of a bar magnet,(d) No existence of isolated magnetic poles,(c) Null points in the magnetic field of a bar magnet,keeping
+5,5.0,What is the angle of dip at the magnetic poles ?,(a) 30°,(b) 0°,(c) 45°,(d) None of these,(d) None of these,qvece
+6,6.0,"A charged particle of mass m and charge q travels on a circular path of radius r i.e., perpendicular to the magnetic field B. The time taken by particle to complete on revolution is :",(a) \(\frac{2πqB}{m}\),(b) \(\frac{2πm}{qB}\),(c) \(\frac{2πmq}{B}\),(d) \(\frac{2πq^2B}{m}\),(b) \(\frac{2πm}{qB}\),webermetre
+7,7.0,Circular loop of radius 0.0157 m carries a current 2 A. The magnetic field at the centre of the loop is :,(a) 1.57 × 10-3Wb/m²,(b) 8.0 × 10-5 Wb/m²,(c) 2.0 × 10-3 Wb/m²,(d) 3.l4 × 10-1 Wb/m²,(b) 8.0 × 10-5 Wb/m²,cyclotron
+8,8.0,What happens to the magnetic field at the centre of a circular current carrying coil if we double the radius of the coil keeping the current unchanged?,(a) halved,(b) doubled,(c) quadrupled,(d) remains unchanged,(a) halved,wbm
+9,9.0,"When we double the radius of a coil keeping the current through it unchanged, what happens to the magnetic field directed along its axis at far off points?",(a) halved,(b) doubled,(c) quadrupled,(d) remains unchanged,(d) remains unchanged,spectrograph
+10,10.0,The strength of the magnetic field around an infinite current carrying conductor is :,(a) same everywhere,(b) inversely proportional to the distance,(c) directly proportional to the distance,(d) None of these,(b) inversely proportional to the distance,vecbvece
+11,11.0,A current carrying power line carries current from west to east. Then the direction of the magnetic field 2 m above it is :,(a) west to east,(b) south to north,(c) north to south,(d) None of these,(c) north to south,pole
+12,12.0,"The force between two parallel current carrying conductors is F. If the current in each conductor is doubled, then the force between them becomes :",(a) 4F,(b) 2F,(c) F,(d) \(\frac{F}{4}\),(b),
+13,13.0,How much force will be experienced by a moving charge in a magnetic field? The symbols have their usual meanings.,(a) \(\vec{F}\) = q(\(\vec{v}\).\(\vec{B}\)),(b) \(\vec{F}\) = \(\frac{q}{(\vec{v}.\vec{B})}\),(c) \(\vec{F}\) = \(\frac{q}{2}\)\((\vec{v}×\vec{B}\)),(d) \(\vec{F}\) = q(\(\vec{v}\)×\(\vec{B}\)),(d) \(\vec{F}\) = q(\(\vec{v}\)×\(\vec{B}\)),enters
+14,14.0,Which of the following is not a unit of magnetic induction?,(a) gauss,(b) tesla,(c) oersted,(d) weber/metre²,(c) oersted,direction
+15,15.0,The magnetic field produced by an / meter long straight (x cry thin) current (I) carry ing conductor at any point on itself is :,(a) zero,(b) infinite,(c) \(\frac{µ_0l}{4πl}\),(d) \(\frac{µ_0l}{2πl}\),(a) zero,metre
+16,16.0,A charge + q is sent through a magnetic field. The force acting on it is maximum w hen the angle between the direction of motion of the charged particle and the magnetic field :,(a) 0°,(b) 45°,(c) 90°,(d) 180°,(c) 90°,far
+17,17.0,"An electron having mass ‘m’ and Kinetic energy E enters in uniform magnetic field B perpendicular, then its frequency will be:",(a) \(\frac{eE}{qmB}\),(b) \(\frac{2πm}{eB}\),(c) \(\frac{eB}{2πm}\),(d) \(\frac{2m}{eBE}\),(c) \(\frac{eB}{2πm}\),open
+18,18.0,"A wire of length 2 metre carries a current 1 ampere, is bent to form a circle. The magnetic moment of the coil is :",(a) 2π,(b) π/2,(c) π/4,(d) 1/π,(d) 1/π,negative
+19,19.0,The magnetic field of a given length of a ware for single turn coil at its centre is B. Then.its value for two turns of coil will be :,(a) B/4,(b) B/2,(c) 4B,(d) 2B,(c) 4B,gauss
+20,20.0,"When charged particle enters-a uniform magnetic field, its K.E.:",(a) remains constant,(b) increases,(c) decreases,(d) becomes zero,(a) remains constant,region
+21,21.0,To convert galvanometer into voltmeter one should connect :,(a) high resistance in series with galvanometer,(b) low resistance in series with galvanometer,(c) high resistance in parallel with galvanometer,(d) low resistance in parallel with galvanometer,(a) high resistance in series with galvanometer,qvecb
+22,22.0,"A charge q moves in a region, where electric field E and magnetic field B both exist, then force on it is :",(a) \(\vec{F}\) = q(\(\vec{v}\)×\(\vec{B}\)),(b) \(\vec{F}\) = q{\(\vec{E}\)×(\(\vec{v}\) × \(\vec{B}\))},(c) \(\vec{F}\) = q(\(\vec{E}\) + (\(\vec{B}\) × \(\vec{v}\)),(d) \(\vec{F}\) = q(\(\vec{B}\) + (\(\vec{E}\) ×\(\vec{v}\)),(b) \(\vec{F}\) = q{\(\vec{E}\)×(\(\vec{v}\) × \(\vec{B}\))},tangent
+23,23.0,Isoclinic lines are the lines joining places with :,(a) equal dip,(b) equal declination,(cj equal dip and declination,(d) None of these,(a) equal dip,induction
+24,24.0,The most suitable metal for making permanent magnets is :,(a) iron,(b) steel,(c) copper,(d) aluminium,(a) √2 p,travel
+25,25.0,The SI unit of magnetic dipole moment is’,(a) Ampere,(b) Ampere metre²,(c) Tesla,(d) None of these,(b) Ampere metre²,closed
+26,26.0,Earth’s magnetism was discovered by:,(a) Gauss,(b) Oersted,(c) Ampere,(d) Gilbert,(d) Gilbert,length
+27,27.0,"According to Gauss’s theorem in magnetism, surface integral of magnetic field intensity over a surface (closed or open) is always:",(a) -1,(b) 1,(c) 0,(d) infinity,(c) 0,flux
+28,28.0,Tesla is a unit of:,(a) electric flux,(b) magnetic flux,(c) magnetic field,(d) electric field,(c) magnetic field,theorem
+29,29.0,10 eV electron is circulating in a plane at right angle to a uniform field of magnetic induction 10-1 Wb/m² (1G). The orbital radius of electron is:,(a) 12 cm,(b) 16 cm,(c) 11 cm,(d) 18 cm,(c) 11 cm,charge
+30,30.0,A cyclotron can be used to produce high energy:,(a) neutrons,(b) deutrons,(c) β particles,(d) α partifcles,(d) α partifcles,becomes
+31,31.0,The radius of the trajectory of a charged particle in a uniform magnetic field is proportional to the:,(a) charge on the particle,(b) energy of the particle,(c) momentum of the particle,(d) all the above,(c) momentum of the particle,velocity
+32,32.0,"The force \(\vec{F}\) experienced by a particle of charge q moving with velocity \(\vec{v}\) in a magnetic field \(\vec{B}\) is given by,",(a) \(\vec{F}\) = q(\(\vec{F}\) × \(\vec{B}\)),(b) \(\vec{F}\) = q(\(\vec{B}\) × (\(\vec{b}\)),(c) \(\vec{F}\) = q(\(\vec{v}\) × (\(\vec{B}\)),(d) \(\vec{F}\) = q(\(\vec{v}\) × \(\vec{B}\)),(a) \(\vec{F}\) = q(\(\vec{F}\) × \(\vec{B}\)),carrying
+33,33.0,The torque acting on a magnetic dipole of moment \(\vec{p_m}\) when placed in a magnetic field \(\vec{B}\) is:,(a) pmB,(b) \(\vec{p_m}\) × \(\vec{B}\),(c) \(\vec{p_m}\)\(\vec{B}\),(d) \(\frac{p_m}{B}\),(b) \(\vec{p_m}\) × \(\vec{B}\),increased
+34,34.0,"In thomson spectrograph \(\vec{E}\) ⊥ \(\vec{B}\), then velocity of electron beam will be:",(a) |\(\vec{E}\)|/|\(\vec{B}\)|,(b) \(\vec{E}\) × \(\vec{B}\),(c) |\(\vec{B}\)|/|\(\vec{E}\)|,(d) E² / B²,(a) |\(\vec{E}\)|/|\(\vec{B}\)|,remains
+35,,,,,,,,used
+37,,,,,,,,infinite
+38,,,,,,,,one
+39,,,,,,,,happens
+40,,,,,,,,permeability
+41,,,,,,,,carry
+42,,,,,,,,large
+43,,,,,,,,centre
+44,,,,,,,,double
+45,,,,,,,,high
+46,,,,,,,,charged
+47,,,,,,,,long
+49,,,,,,,,qvecf
+50,,,,,,,,circle
+51,,,,,,,,right
+52,,,,,,,,metal
+53,,,,,,,,directed
+54,,,,,,,,galanometer
+55,,,,,,,,integral
+56,,,,,,,,gilbert
+57,,,,,,,,unit
+58,,,,,,,,ware
+59,,,,,,,,making
+60,,,,,,,,momentum
+61,,,,,,,,like
+62,,,,,,,,vecb
+63,,,,,,,,directly
+64,,,,,,,,frequency
+65,,,,,,,,suitable
+66,,,,,,,,uniform
+67,,,,,,,,perpendicular
+68,,,,,,,,much
+70,,,,,,,,substance
+71,,,,,,,,around
+73,,,,,,,,turn
+74,,,,,,,,maximum
+75,,,,,,,,gausss
+76,,,,,,,,ampere
+77,,,,,,,,paramagnetic
+78,,,,,,,,doubled
+79,,,,,,,,experienced
+80,,,,,,,,bent
+81,,,,,,,,convert
+82,,,,,,,,usual
+83,,,,,,,,entersa
+84,,,,,,,,magnet
+85,,,,,,,,aluminium
+86,,,,,,,,current
+87,,,,,,,,radius
+89,,,,,,,,decrease
+90,,,,,,,,small
+91,,,,,,,,plane
+92,,,,,,,,electron
+93,,,,,,,,surface
+94,,,,,,,,pmb
+96,,,,,,,,declination
+97,,,,,,,,increasing
+99,,,,,,,,north
+100,,,,,,,,halved
+101,,,,,,,,distance
+102,,,,,,,,path
+103,,,,,,,,qvecevecv
+104,,,,,,,,moment
+105,,,,,,,,vecevecb
+106,,,,,,,,revolution
+107,,,,,,,,resistance
+108,,,,,,,,ing
+109,,,,,,,,intensity
+110,,,,,,,,attraction
+111,,,,,,,,two
+112,,,,,,,,taken
+113,,,,,,,,vece
+114,,,,,,,,existence
+115,,,,,,,,area
+117,,,,,,,,sin
+118,,,,,,,,behaves
+119,,,,,,,,hen
+120,,,,,,,,bar
+121,,,,,,,,thenits
+124,,,,,,,,tan
+125,,,,,,,,joining
+126,,,,,,,,proportional
+127,,,,,,,,place
+128,,,,,,,,galvanometer
+129,,,,,,,,acting
+130,,,,,,,,coil
+131,,,,,,,,moving
+132,,,,,,,,exist
+133,,,,,,,,carring
+135,,,,,,,,beam
+136,,,,,,,,time
+138,,,,,,,,torque
+139,,,,,,,,single
+140,,,,,,,,dipole
+141,,,,,,,,dip
+142,,,,,,,,produce
+143,,,,,,,,equal
+144,,,,,,,,infinity
+145,,,,,,,,unchanged
+146,,,,,,,,following
+147,,,,,,,,symbol
+148,,,,,,,,copper
+149,,,,,,,,neutron
+151,,,,,,,,loop
+152,,,,,,,,point
+153,,,,,,,,particle
+154,,,,,,,,iron
+155,,,,,,,,everywhere
+156,,,,,,,,qvecv
+157,,,,,,,,circular
+158,,,,,,,,quadrupled
+159,,,,,,,,voltmeter
+160,,,,,,,,null
+161,,,,,,,,circulating
+162,,,,,,,,along
+163,,,,,,,,conductor
+164,,,,,,,,field
+165,,,,,,,,meaning
+166,,,,,,,,vecv
+167,,,,,,,,discovered
+168,,,,,,,,earth
+169,,,,,,,,electric
+170,,,,,,,,cry
+171,,,,,,,,always
+172,,,,,,,,trajectory
+174,,,,,,,,energy
+175,,,,,,,,sensitibility
+176,,,,,,,,repulsion
+177,,,,,,,,south
+178,,,,,,,,produced
+179,,,,,,,,isolated
+180,,,,,,,,form
+181,,,,,,,,unlike
+182,,,,,,,,increase
+183,,,,,,,,motion
+184,,,,,,,,force
+185,,,,,,,,parallel
+186,,,,,,,,placed
+187,,,,,,,,line
+188,,,,,,,,angle
+189,,,,,,,,magnetic
+190,,,,,,,,kinetic
+191,,,,,,,,value
+192,,,,,,,,east
+193,,,,,,,,power
+194,,,,,,,,wire
+195,,,,,,,,deutrons
+196,,,,,,,,connect
+197,,,,,,,,orbital
+198,,,,,,,,sent
+199,,,,,,,,oersted
+201,,,,,,,,number
+202,,,,,,,,complete
+203,,,,,,,,given
+204,,,,,,,,none
+205,,,,,,,,constant
+206,,,,,,,,cot
+207,,,,,,,,inversely
+208,,,,,,,,steel
+209,,,,,,,,thomson
+210,,,,,,,,external
+212,,,,,,,,tesla
+213,,,,,,,,thin
+214,,,,,,,,axis
+215,,,,,,,,series
+216,,,,,,,,low
+217,,,,,,,,permanent
+218,,,,,,,,move
+219,,,,,,,,west
+221,,,,,,,,partifcles
+222,,,,,,,,unity
+223,,,,,,,,straight
+224,,,,,,,,sensitivity
+225,,,,,,,,strength
+226,,,,,,,,show
+227,,,,,,,,qvecvvecb

@@ -1,186 +1,324 @@
-,index,0;1;2;3;4;Answer,Words
-0,0.0,If two compounds have the same empirical formula but different molecular formula they must have;(a) Different percentage composition;(b) Different molecular weight;(c) Same viscosity;(d) Same vapour density;(b) Different molecular weight,anion
-1,1.0,"Identify the chiral molecule among the following:;(a) Isopropyl alcohol;(b) 2-pentanol;(c) 1-bromo 3-butene;(d) Isobutyl alcohol;""(d) Isobutyl alcohol",bluish
-2,2.0,Explanation:,
-3,3.0,"Chirality is the condition for a molecule to be optically active and here isobutyl alcohol is the only compound is optically active and hence it is the chiral molecule.""",identify
-4,4.0,"0.0833mol of carbohydrate of empirical formula CH2O contain 1g of hydrogen. The molecular formula of the carbohydrate is;(a) C5H10O5;(b) C3H4O3;(c) C12H22O11;(d) C6H12O6;""(d) C6H12O6",chch
-5,5.0,Explanation:,symmetric
-6,6.0,As 0.0833 mole carbohydrate has hydrogen = 1g,presence
-7,7.0,Empirical Formula (CH2O) has hydrogen = 2g,cyclohexane
-8,8.0,Hence n = \(\frac {(12)}{(2)}\) = 6,hydrogen
-9,9.0,"Hence molecular formula of carbohydrate =(CH2O)6 = C6H12O6""",gave
-10,10.0,"The displacement of electrons in a multiple bond in the presence of attacking reagent is called;(a) Inductive effect;(b) Electromeric effect;(c) Resonance;(d) Hyper conjugation.;""(b) Electromeric effect",behaves
-11,11.0,Explanation:,determine
-12,12.0,"The electromeric effect is a temporary effect brought into play at the requirement of attacking reagent. Electromeric effect refers to a molecular polarizability effect occurring by an intra-molecular electron displacement. It is the temporary effect.""",mole
-13,13.0,"Which of the following cannot be represented by resonance structures?;(a) Dimethyl ether;(b) Nitrate anion;(c) Carboxylate anion;(d) Toluene;""(a) Dimethyl ether",formula
-14,14.0,Explanation:,represented
-15,15.0,"Ethers due to absence of delocalized pair of electrons do not show resonance.""",delocalized
-16,16.0,"An organic compound which produces a bluish green coloured flame on heating in presence of copper is;(a) Chlorobenzene;(b) Benzaldehyde;(c) Aniline;(d) Benzoic acid;""(d) Benzoic acid",non
-17,17.0,Explanation:,chiral
-18,18.0,"Which one is strongest acid among following options?;(a) CH2FCOOH;(b) CH2ClCOOH;(c) CHCl2COOH;(d) CHF2COOH;""(b) CH2ClCOOH",gets
-19,19.0,Explanation:,refers
-20,20.0,"CHF2−COOH. Difluoroacetic acid is strongest because presence of two F atoms increases its acidic nature.""",partially
-21,21.0,"Insulin contains 3.4% sulphur. The minimum molecular weight of insulin is;(a) 350;(b) 470;(c) 560;(d) 940;""(d) 940",present
-22,22.0,Explanation:,structures
-23,23.0,Minimum mass of sulphur = wt. of its one atom = 32,toluene
-24,24.0,As 3.4 gms of sulphur present in 100 gms.,aniline
-25,25.0,Explanation:,left
-26,26.0,IUPAC name is 4-methoxy-2-nitrobenzaldehyde,conformation
-27,27.0,"
-In the Dumas method, the nitrogen present in organic compound gets converted to;(a) Sodium Cyanide;(b) Gaseoue Ammonia;(c) Dinitrogen Gas;(d) Ammonium Sulphate.;(c) Dinitrogen Gas",property
-28,28.0,Explanation:,cannot
-29,29.0,"Nitrogen present in the organic compound is converted into N2 gas by heating the compound with CuO.""",plane
-30,30.0,"0.0833mol of carbohydrate of empirical formula CH2O contain 1 g of hydrogen. The molecular formula of the carbohydrate is;(a) C5H10O5;(b) C3H4O3;(c) C12H22O11;(d) C6H12O6;""(d) C6H12O6",silvermass
-31,31.0,Explanation:,due
-32,32.0,As 0.0833 mole carbohydrate has hydrogen = 1 g,cho
-33,33.0,Empirical Formula (CH2O) has hydrogen = 2 g,resonance
-34,34.0,Hence n = \(\frac {(12)}{(2)}\) = 6,gaseoue
-35,35.0,"Hence molecular formula of carbohydrate = (CH2O)6 = C6H12O6""",organic
-36,36.0,Explanation:,method
-37,37.0,"
-Which one of the following conformations of cyclohexane is chiral?;(a) Twist boat;(b) Rigid;(c) Chair;(d) Boat;(a) Twist boat",chirality
-38,38.0,Explanation:,must
-39,39.0,The twist boat conformation of cyclohexane is optically active as it does not have any plane of symmetry.,play
-40,40.0,"
-If 0.228 g of silver salt of dibasic acid gave a residue of 0.162 g of silver on ignition then molecular weight of the acid is;(a) 70;(b) 80;(c) 90;(d) 100;(c) 90",green
-41,41.0,Explanation:,benzoic
-42,42.0,Mass of silver salt taken = 0.228 gm,atom
-43,43.0,Mass of silver left = 0.162 gm,place
-44,44.0,Basicity of acid = 2,gas
-45,45.0,Step 1- To calculate the equivalent mass of the silver salt (Eq. mass of silver salt)/(Eq. mass of silver)=(Mass of Acid taken)/(Mass of silver left),electron
-46,46.0,(\(\frac {E}{108}\)) = (\(\frac {0.228}{0.162}\)),effect
-47,47.0,E = (\(\frac {0.228}{0.162}\)) × 108 = 152(Eq. mass of silver salt),coloured
-48,48.0,Step 2 – To calculate the eq. mass of acid = ( Equivalent mass of acid),methoxynitrobenzaldehyde
-49,49.0,= Equivalent mass of silver salt – Equivalent mass of Ag + Basicity,density
-50,50.0,= 152 – 108 + 1,polarizability
-51,51.0,= 152 – 109,chc
-52,52.0,= 43 (Equivalent mass of acid),
-53,53.0,"Step 3- To determine the molecular mass of acid. molecular mass of the acid = Equivalent mass of acid × basicity = 45 × 2 = 90.""",iupac
-54,54.0,Explanation:,brought
-55,55.0,"Which element is estimated by Carius method;(a) Carbon;(b) Hydrogen;(c) Halogen;(d) Nitrogen;""(c) Halogen",shifting
-56,56.0,Explanation:,twist
-57,57.0,"Halogen element is estimated by Carius method""",gms
-58,58.0,"Inductive effect involves;(a) displacement of σ electrons;(b) delocalization of π electrons;(c) delocalization of σ-electrons;(d) displacement of π-electrons;""(a) displacement of σ electrons",composition
-59,59.0,Explanation:,symmetry
-60,60.0,During inductive effect shifting of a electrons takes place due to which partially charges are developed on the atom.,called
-61,61.0,+δ” +δ′ +δ −δ,carbohydrate
-62,62.0,"C− C− C −Cl−""",occurring
-63,63.0,"A crystalline solid possess which one of the following property?;(a) Irregularity;(b) Non- symmetric;(c) Perfect geometric pattern;(d) non- stability;""(c) Perfect geometric pattern",pentanol
-64,64.0,Explanation:,contain
-65,65.0,"Which of the following behaves both as a nucleophile and as an electrophile?;(a) CH3C ≡ N;(b) CH3OH;(c) CH2 = CHCH3;(d) CH3NH2;""(a) CH3C ≡ N",chfcooh
-66,66.0,Explanation:,reagent
-67,,,contains
-68,,,frac
-69,,,developed
-70,,,delocalization
-71,,,atoms
-72,,,stability
-73,,,pair
-74,,,nucleophile
-75,,,bromo
-76,,,crystalline
-77,,,basicity
-78,,,choh
-79,,,displacement
-80,,,geometric
-81,,,calculate
-82,,,involves
-83,,,explanation
-84,,,inductive
-85,,,dibasic
-86,,,silver
-87,,,sulphur
-88,,,benzaldehyde
-89,,,optically
-90,,,acidic
-91,,,isobutyl
-92,,,intramolecular
-93,,,rigid
-94,,,molecular
-95,,,insulin
-96,,,perfect
-97,,,copper
-98,,,element
-100,,,vapour
-101,,,dumas
-103,,,ammonium
-104,,,cuo
-105,,,hyper
-106,,,attacking
-107,,,hence
-109,,,molecule
-110,,,produces
-111,,,different
-112,,,percentage
-113,,,name
-114,,,electromeric
-115,,,carboxylate
-116,,,estimated
-117,,,ignition
-118,,,salteq
-119,,,butene
-120,,,nitrate
-121,,,ammonia
-122,,,step
-123,,,flame
-124,,,conjugation
-126,,,takes
-127,,,mass
-128,,,ether
-129,,,chnh
-130,,,strongest
-131,,,halogen
-132,,,solid
-133,,,charges
-134,,,ethers
-135,,,chlorobenzene
-136,,,one
-137,,,electrophile
-139,,,among
-140,,,condition
-141,,,bond
-142,,,alcohol
-143,,,heating
-144,,,irregularity
-145,,,nitrogen
-146,,,pattern
-147,,,compound
-148,,,converted
-149,,,boat
-151,,,compounds
-153,,,show
-154,,,sodium
-155,,,conformations
-156,,,viscosity
-157,,,takenmass
-158,,,residue
-160,,,dinitrogen
-161,,,carbon
-162,,,chair
-163,,,nature
-164,,,empirical
-165,,,cyanide
-166,,,mol
-167,,,electrons
-168,,,sulphate
-169,,,equivalent
-170,,,following
-172,,,acid
-173,,,absence
-174,,,dimethyl
-175,,,isopropyl
-176,,,possess
-177,,,two
-178,,,requirement
-179,,,multiple
-180,,,chclcooh
-181,,,increases
-182,,,active
-183,,,difluoroacetic
-184,,,minimum
-185,,,options
-186,,,taken
-187,,,temporary
-188,,,carius
-189,,,weight
-190,,,salt
+,index,0,1,2,3,4,Answer,Words
+0,0.0,If two compounds have the same empirical formula but different molecular formula they must have,(a) Different percentage composition,(b) Different molecular weight,(c) Same viscosity,(d) Same vapour density,(b) Different molecular weight,takenmass
+1,1.0,Identify the chiral molecule among the following:,(a) Isopropyl alcohol,(b) 2-pentanol,(c) 1-bromo 3-butene,(d) Isobutyl alcohol,"(d) Isobutyl alcohol
+Explanation:
+Chirality is the condition for a molecule to be optically active and here isobutyl alcohol is the only compound is optically active and hence it is the chiral molecule.",
+2,2.0,0.0833mol of carbohydrate of empirical formula CH2O contain 1g of hydrogen. The molecular formula of the carbohydrate is,(a) C5H10O5,(b) C3H4O3,(c) C12H22O11,(d) C6H12O6,"(d) C6H12O6
+Explanation:
+As 0.0833 mole carbohydrate has hydrogen = 1g
+Therefore, 1 mole carbohydrate has hydrogen = (\(\frac {1}{0.0833}\)) = 12g
+Empirical Formula (CH2O) has hydrogen = 2g
+Hence n = \(\frac {(12)}{(2)}\) = 6
+Hence molecular formula of carbohydrate =(CH2O)6 = C6H12O6",nitrate
+3,3.0,The displacement of electrons in a multiple bond in the presence of attacking reagent is called,(a) Inductive effect,(b) Electromeric effect,(c) Resonance,(d) Hyper conjugation.,"(b) Electromeric effect
+Explanation:
+The electromeric effect is a temporary effect brought into play at the requirement of attacking reagent. Electromeric effect refers to a molecular polarizability effect occurring by an intra-molecular electron displacement. It is the temporary effect.",among
+4,4.0,Which of the following cannot be represented by resonance structures?,(a) Dimethyl ether,(b) Nitrate anion,(c) Carboxylate anion,(d) Toluene,"(a) Dimethyl ether
+Explanation:
+Ethers due to absence of delocalized pair of electrons do not show resonance.",
+5,5.0,An organic compound which produces a bluish green coloured flame on heating in presence of copper is,(a) Chlorobenzene,(b) Benzaldehyde,(c) Aniline,(d) Benzoic acid,"(d) Benzoic acid
+Explanation:
+Halogen containing compounds, e.g.,C6H5Cl when placed in a flame, the presence of halogen is revealed by a green to blue flame.",flame
+6,6.0,Which one is strongest acid among following options?,(a) CH2FCOOH,(b) CH2ClCOOH,(c) CHCl2COOH,(d) CHF2COOH,"(b) CH2ClCOOH
+Explanation:
+CHF2−COOH. Difluoroacetic acid is strongest because presence of two F atoms increases its acidic nature.",option
+7,7.0,Insulin contains 3.4% sulphur. The minimum molecular weight of insulin is,(a) 350,(b) 470,(c) 560,(d) 940,"(d) 940
+Explanation:
+Minimum mass of sulphur = wt. of its one atom = 32
+As 3.4 gms of sulphur present in 100 gms.
+Therefore, 32 gms of sulphur present in = (100 × 32)/(3.4) = 940",dinitrogen
+8,8.0,"59 g of an amide obtained from a carboxylic acid, RCOOH, liberated 17 g of ammonia upon heating with alkali. The acid is",(a) Formic Acid,(b) Acetic Acid,(c) Propionic Acid,(d) Benzoic Acid,"(a) 4-methoxy-2-nitrobenzaldehyde
+Explanation:
+IUPAC name is 4-methoxy-2-nitrobenzaldehyde
+",carbohydrate
+9,9.0,"In the Dumas method, the nitrogen present in organic compound gets converted to",(a) Sodium Cyanide,(b) Gaseoue Ammonia,(c) Dinitrogen Gas,(d) Ammonium Sulphate.,"(c) Dinitrogen Gas
+Explanation:
+Nitrogen present in the organic compound is converted into N2 gas by heating the compound with CuO.",symmetryn
+10,10.0,0.0833mol of carbohydrate of empirical formula CH2O contain 1 g of hydrogen. The molecular formula of the carbohydrate is,(a) C5H10O5,(b) C3H4O3,(c) C12H22O11,(d) C6H12O6,"(d) C6H12O6
+Explanation:
+As 0.0833 mole carbohydrate has hydrogen = 1 g
+Therefore, 1 mole carbohydrate has hydrogen = (\(\frac {1}{0.0833}\)) = 12 g
+Empirical Formula (CH2O) has hydrogen = 2 g
+Hence n = \(\frac {(12)}{(2)}\) = 6
+Hence molecular formula of carbohydrate = (CH2O)6 = C6H12O6",alcohol
+11,11.0,The compound  is known by which of the following names,"(a) Bicyclo-[2, 2, 2] octane","(b) Bicyclo-[2, 2, 1] octane","(c) Bicyclo-[1, 2, 1] octane","(d) Bicyclo-[1, 1, 1] octane","(a) Bicyclo-[2, 2, 2] octane
+Explanation:
+Bicyclo-[2, 2, 2] octane
+",specific
+12,12.0,Which one of the following conformations of cyclohexane is chiral?,(a) Twist boat,(b) Rigid,(c) Chair,(d) Boat,"(a) Twist boat
+Explanation:
+The twist boat conformation of cyclohexane is optically active as it does not have any plane of symmetry.
+",four
+13,13.0,If 0.228 g of silver salt of dibasic acid gave a residue of 0.162 g of silver on ignition then molecular weight of the acid is,(a) 70,(b) 80,(c) 90,(d) 100,"(c) 90
+Explanation:
+Mass of silver salt taken = 0.228 gm
+Mass of silver left = 0.162 gm
+Basicity of acid = 2
+Step 1- To calculate the equivalent mass of the silver salt (Eq. mass of silver salt)/(Eq. mass of silver)=(Mass of Acid taken)/(Mass of silver left)
+(\(\frac {E}{108}\)) = (\(\frac {0.228}{0.162}\))
+E = (\(\frac {0.228}{0.162}\)) × 108 = 152(Eq. mass of silver salt)
+Step 2 – To calculate the eq. mass of acid = ( Equivalent mass of acid)
+= Equivalent mass of silver salt – Equivalent mass of Ag + Basicity
+= 152 – 108 + 1
+= 152 – 109
+= 43 (Equivalent mass of acid)
+Step 3- To determine the molecular mass of acid. molecular mass of the acid = Equivalent mass of acid × basicity = 45 × 2 = 90.",pattern
+14,14.0,"If there is no rotation of plane polarized light by a compound in a specific solvent, thought to be chiral, it may mean that",(a) The compound may be a racemic mixture,(b) The compound is certainly a chiral,(c) The compound is certainly meso,(d) There is no compound in the solvent.,"(c) The compound is certainly meso
+Explanation:
+Meso compound does not rotate plane polarised light. Compound which contains tetrahedral atoms with four different groups but the whole molecule is a chiral, is known as meso compound. It possesses a plane of symmetry and is optically inactive. One of the asymmetric carbon atoms turns the plane of polarised light to the right and other to the left and to the same extent so that the rotation due to upper half is compensated by the lower half, i.e., internally compensated, and finally there is no rotation of plane polarised light.",sulphate
+15,15.0,Which element is estimated by Carius method,(a) Carbon,(b) Hydrogen,(c) Halogen,(d) Nitrogen,"(c) Halogen
+Explanation:
+Halogen element is estimated by Carius method",obtained
+16,16.0,Inductive effect involves,(a) displacement of σ electrons,(b) delocalization of π electrons,(c) delocalization of σ-electrons,(d) displacement of π-electrons,"(a) displacement of σ electrons
+Explanation:
+During inductive effect shifting of a electrons takes place due to which partially charges are developed on the atom.
++δ” +δ′ +δ −δ
+C− C− C −Cl−",reagent
+17,17.0,A crystalline solid possess which one of the following property?,(a) Irregularity,(b) Non- symmetric,(c) Perfect geometric pattern,(d) non- stability,"(c) Perfect geometric pattern
+Explanation:
+A crystalline solid is one which possesses perfect geometry, high stability, symmetric and regularly arranged.",upper
+18,18.0,Which of the following behaves both as a nucleophile and as an electrophile?,(a) CH3C ≡ N,(b) CH3OH,(c) CH2 = CHCH3,(d) CH3NH2,"(a) CH3C ≡ N
+Explanation:
+Due to the presence of a lone pair of electrons on N, CH3C ≡ N: acts as a nucleophile. Further due to greater electronegativity of N than C, the C atom of −C ≡ N carries a positive charge and hence behaves as an electrophile.",mass
+19,,,,,,,,gnhence
+20,,,,,,,,vapour
+21,,,,,,,,geometric
+22,,,,,,,,method
+23,,,,,,,,group
+24,,,,,,,,ignition
+25,,,,,,,,posse
+26,,,,,,,,show
+27,,,,,,,,halogen
+28,,,,,,,,salt
+29,,,,,,,,molecular
+30,,,,,,,,isopropyl
+31,,,,,,,,mesonexplanationnmeso
+32,,,,,,,,insulin
+33,,,,,,,,ammonia
+34,,,,,,,,cuo
+35,,,,,,,,delocalization
+36,,,,,,,,frac
+37,,,,,,,,different
+38,,,,,,,,high
+39,,,,,,,,atomn
+40,,,,,,,,dibasic
+41,,,,,,,,minimum
+42,,,,,,,,determine
+43,,,,,,,,basicityn
+45,,,,,,,,toluene
+46,,,,,,,,nhence
+47,,,,,,,,delocalized
+48,,,,,,,,blue
+49,,,,,,,,gmsntherefore
+50,,,,,,,,mean
+51,,,,,,,,tetrahedral
+52,,,,,,,,electrophile
+53,,,,,,,,bluish
+54,,,,,,,,nexplanationnmass
+55,,,,,,,,carius
+56,,,,,,,,liberated
+57,,,,,,,,asymmetric
+58,,,,,,,,half
+59,,,,,,,,element
+60,,,,,,,,silvermass
+61,,,,,,,,electronsnexplanationnduring
+62,,,,,,,,arranged
+63,,,,,,,,acidn
+65,,,,,,,,polarised
+66,,,,,,,,nas
+67,,,,,,,,gaseoue
+68,,,,,,,,refers
+69,,,,,,,,stability
+70,,,,,,,,amide
+71,,,,,,,,compound
+72,,,,,,,,shifting
+73,,,,,,,,gnempirical
+74,,,,,,,,acidnexplanationnhalogen
+75,,,,,,,,charge
+76,,,,,,,,revealed
+77,,,,,,,,acid
+78,,,,,,,,multiple
+79,,,,,,,,carbon
+80,,,,,,,,hence
+81,,,,,,,,bond
+82,,,,,,,,act
+83,,,,,,,,turn
+84,,,,,,,,chc
+86,,,,,,,,conjugation
+87,,,,,,,,propionic
+88,,,,,,,,solvent
+89,,,,,,,,alcoholnexplanationnchirality
+90,,,,,,,,weight
+91,,,,,,,,calculate
+92,,,,,,,,geometry
+93,,,,,,,,chclcooh
+94,,,,,,,,property
+95,,,,,,,,crystalline
+96,,,,,,,,twist
+97,,,,,,,,viscosity
+98,,,,,,,,nstep
+99,,,,,,,,taken
+100,,,,,,,,bicyclo
+101,,,,,,,,place
+102,,,,,,,,butene
+103,,,,,,,,mole
+104,,,,,,,,attacking
+105,,,,,,,,certainly
+106,,,,,,,,symmetry
+107,,,,,,,,upon
+108,,,,,,,,effectnexplanationnthe
+109,,,,,,,,racemic
+110,,,,,,,,compensated
+111,,,,,,,,irregularity
+112,,,,,,,,meso
+113,,,,,,,,chiral
+114,,,,,,,,anion
+115,,,,,,,,occurring
+117,,,,,,,,bromo
+118,,,,,,,,rotation
+119,,,,,,,,behaves
+120,,,,,,,,presence
+121,,,,,,,,dimethyl
+122,,,,,,,,placed
+123,,,,,,,,equivalent
+124,,,,,,,,leftnfrac
+125,,,,,,,,whole
+126,,,,,,,,acidic
+127,,,,,,,,octanen
+128,,,,,,,,nucleophile
+130,,,,,,,,converted
+131,,,,,,,,called
+132,,,,,,,,nitrogen
+133,,,,,,,,solid
+134,,,,,,,,saltnstep
+135,,,,,,,,effect
+136,,,,,,,,developed
+137,,,,,,,,benzoic
+138,,,,,,,,produce
+139,,,,,,,,must
+140,,,,,,,,empirical
+141,,,,,,,,density
+142,,,,,,,,nature
+143,,,,,,,,nexplanationnminimum
+144,,,,,,,,organic
+145,,,,,,,,regularly
+146,,,,,,,,percentage
+147,,,,,,,,represented
+148,,,,,,,,dumas
+149,,,,,,,,symmetric
+150,,,,,,,,composition
+151,,,,,,,,chair
+152,,,,,,,,partially
+153,,,,,,,,estimated
+154,,,,,,,,perfect
+155,,,,,,,,non
+156,,,,,,,,absence
+158,,,,,,,,electron
+159,,,,,,,,atom
+160,,,,,,,,copper
+161,,,,,,,,optically
+162,,,,,,,,cannot
+163,,,,,,,,electronegativity
+164,,,,,,,,present
+165,,,,,,,,silver
+166,,,,,,,,coloured
+167,,,,,,,,chlorobenzene
+168,,,,,,,,carboxylic
+169,,,,,,,,gntherefore
+170,,,,,,,,sodium
+171,,,,,,,,structure
+173,,,,,,,,gmnbasicity
+174,,,,,,,,heating
+175,,,,,,,,ammonium
+176,,,,,,,,plane
+177,,,,,,,,strongest
+178,,,,,,,,due
+179,,,,,,,,isobutyl
+180,,,,,,,,left
+181,,,,,,,,pair
+182,,,,,,,,polarized
+183,,,,,,,,lone
+184,,,,,,,,active
+185,,,,,,,,resonance
+186,,,,,,,,boat
+187,,,,,,,,brought
+188,,,,,,,,two
+189,,,,,,,,formula
+190,,,,,,,,one
+191,,,,,,,,cyanide
+192,,,,,,,,polarizability
+193,,,,,,,,residue
+194,,,,,,,,may
+195,,,,,,,,carry
+196,,,,,,,,acetic
+197,,,,,,,,inductive
+198,,,,,,,,rigid
+199,,,,,,,,salteq
+200,,,,,,,,nnexplanationndue
+201,,,,,,,,alkali
+202,,,,,,,,gasnexplanationnnitrogen
+203,,,,,,,,rcooh
+204,,,,,,,,choh
+205,,,,,,,,extent
+206,,,,,,,,get
+207,,,,,,,,requirement
+208,,,,,,,,take
+209,,,,,,,,halogennexplanationnhalogen
+210,,,,,,,,electromeric
+211,,,,,,,,carboxylate
+212,,,,,,,,benzaldehyde
+213,,,,,,,,thought
+214,,,,,,,,difluoroacetic
+215,,,,,,,,octanenexplanationnbicyclo
+216,,,,,,,,egchcl
+217,,,,,,,,greater
+218,,,,,,,,known
+219,,,,,,,,conformation
+220,,,,,,,,ether
+221,,,,,,,,hydrogen
+222,,,,,,,,chonexplanationnas
+223,,,,,,,,contains
+225,,,,,,,,play
+226,,,,,,,,displacement
+228,,,,,,,,positive
+230,,,,,,,,acidnstep
+231,,,,,,,,right
+232,,,,,,,,contain
+233,,,,,,,,name
+234,,,,,,,,methoxynitrobenzaldehyden
+235,,,,,,,,gmnmass
+236,,,,,,,,patternnexplanationna
+237,,,,,,,,cho
+238,,,,,,,,boatnexplanationnthe
+239,,,,,,,,molecule
+240,,,,,,,,pentanol
+241,,,,,,,,ethernexplanationnethers
+242,,,,,,,,chclcoohnexplanationnchfcooh
+243,,,,,,,,gas
+244,,,,,,,,chfcooh
+245,,,,,,,,rotate
+246,,,,,,,,methoxynitrobenzaldehydenexplanationniupac
+247,,,,,,,,lower
+249,,,,,,,,formic
+250,,,,,,,,condition
+251,,,,,,,,chch
+252,,,,,,,,octane
+253,,,,,,,,temporary
+254,,,,,,,,intramolecular
+255,,,,,,,,chnh
+256,,,,,,,,sulphur
+257,,,,,,,,aniline
+258,,,,,,,,mixture
+259,,,,,,,,gave
+260,,,,,,,,increase
+261,,,,,,,,light
+262,,,,,,,,cyclohexane
+263,,,,,,,,internally
+264,,,,,,,,involves
+266,,,,,,,,following
+267,,,,,,,,green
+268,,,,,,,,finally
+269,,,,,,,,inactive
+270,,,,,,,,hyper
+271,,,,,,,,containing
+272,,,,,,,,basicity

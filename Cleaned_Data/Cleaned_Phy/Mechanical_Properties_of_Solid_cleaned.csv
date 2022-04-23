@@ -1,80 +1,121 @@
-,index,0;1;2;3;4;Answer,Words
-0,0.0,A body of mass 1 kg is attached to one end of a wire and rotated in horizontal circle of diameter 40 cm with a constant speed of 2 m/s. what is the area of cross-section of the wire if the stress developed in the wire is 5 × 106 N/m²?;(a) 2 mm²;(b) 3 mm²;(c) 4 mm²;(d) 5 mm²;(c) 4 mm²,raising
-1,1.0,Hookes law essentially defines;(a) Stress;(b) Strain;(c) Yield point;(d) Elastic limit;(d) Elastic limit,case
-2,2.0,Longitudinal strain is possible in the case of;(a) Gases;(b) Liquid;(c) Only solids;(d) Only gases & liquids;(c) Only solids,gases
-3,3.0,An iron bar of length l m and cross section A m² is pulled by a force of F Newton from both ends so as to produce and elongation in meters. Which of the following statement statements is correct;(a) Elongation is inversely proportional to length l;(b) Elongation is directly proportional to cross section A;(c) Elongation is inversely proportional to A;(d) Elongation is directly proportional to Youngs modulus;(c) Elongation is inversely proportional to A,developed
-4,4.0,The ratio of the change in dimension at right angles to the applied force to the initial dimension is known as;(a) Youngs modulus;(b) Poissons ratio;(c) Lateral strain;(d) Shearing strain;(c) Lateral strain,magnitude
-5,5.0,A body of mass 1 kg is attached to one end of a wire and rotated in horizontal circle of diameter 40 cm with a constant speed of 2 m/s. what is the area of cross-section of the wire if the stress developed in the wire is 5 × 106 N/m²?;(a) 2 mm²;(b) 3 mm²;(c) 4 mm²;(d) 5 mm²;(c) 4 mm²,liquids
-6,6.0,The ratio of the change in dimension at right angles to the applied force to the initial dimension is known as;(a) Youngs modulus;(b) Poissons ratio;(c) Lateral strain;(d) Shearing strain;(c) Lateral strain,body
-7,7.0,The magnitude of the force developed by raising the temperature from 0°C to 100°C of the iron bar of 1.00 m long and 1 cm² cross-section when it is held so that it is not permitted to expand or bend is (a = 10-5/oC and Y = 1011 N/m²);(a) 103 N;(b) 104 N;(c) 105;(d) 109 N;(b) 104 N,proportional
-8,8.0,The upper end of wire 1 m long and 2 mm radius is clamped. The lower end is twisted through an angle of 45°. The angle of shear is;(a) 0.09°;(b) 0.9°;(c) 9°;(d) 90°;(a) 0.09°,bend
-9,,,limit
-11,,,pulled
-12,,,defines
-13,,,statement
-14,,,bar
-15,,,iron
-16,,,possible
-18,,,known
-19,,,radius
-20,,,liquid
-21,,,hookes
-22,,,angles
-23,,,temperature
-25,,,dimension
-26,,,clamped
-27,,,change
-28,,,force
-29,,,statements
-30,,,youngs
-32,,,modulus
-34,,,newton
-35,,,yield
-36,,,correct
-37,,,poissons
-38,,,wire
-39,,,rotated
-40,,,permitted
-41,,,expand
-43,,,horizontal
-44,,,length
-45,,,produce
-46,,,diameter
-47,,,cross
-48,,,held
-49,,,essentially
-50,,,shearing
-52,,,lower
-53,,,long
-54,,,longitudinal
-55,,,meters
-56,,,law
-57,,,inversely
-59,,,mass
-60,,,one
-61,,,shear
-63,,,strain
-64,,,elastic
-65,,,upper
-66,,,constant
-67,,,lateral
-68,,,elongation
-69,,,initial
-70,,,right
-71,,,solids
-72,,,end
-73,,,applied
-74,,,circle
-76,,,stress
-77,,,attached
-78,,,following
-79,,,twisted
-80,,,speed
-81,,,crosssection
-82,,,area
-83,,,ratio
-84,,,directly
-85,,,ends
-86,,,angle
-87,,,point
-88,,,section
+,index,0,1,2,3,4,Answer,Words
+0,0.0,A body of mass 1 kg is attached to one end of a wire and rotated in horizontal circle of diameter 40 cm with a constant speed of 2 m/s. what is the area of cross-section of the wire if the stress developed in the wire is 5 × 106 N/m²?,(a) 2 mm²,(b) 3 mm²,(c) 4 mm²,(d) 5 mm²,(c) 4 mm²,zero
+1,1.0,"In a wire, when elongation is 2 cm energy stored is E. if it is stretched by 10 cm, then the energy stored will be",(a) E,(b) 2 E,(c) 4 E,(d) 25 E,(d) 25 E,meter
+2,2.0,"Two wires A and B are of the same length. The diameters are in the ratio 1 : 2 and the Youngs modulus are in ratio 2 : 1. if they are pulled by the same force, then their elongations will be in ratio",(a) 4 : 1,(b) 1 : 4,(c) 1 : 2,(d) 2 : 1,(d) 2 : 1,mass
+3,3.0,Hookes law essentially defines,(a) Stress,(b) Strain,(c) Yield point,(d) Elastic limit,(d) Elastic limit,liquid
+4,4.0,Longitudinal strain is possible in the case of,(a) Gases,(b) Liquid,(c) Only solids,(d) Only gases & liquids,(c) Only solids,yield
+5,5.0,"Two wires have the same material and length, but their masses are in the ration of 4 : 3. If they are stretched by the same force, their elongations will be in the ratio of",(a) 2 : 3,(b) 3 : 4,(c) 4 : 3,(d) 9 : 16,(b) 3 : 4,pulled
+6,6.0,"A rubber cord of cross sectional area 1 mm² and unstretched length 10 cm is stretched to 12 cm and then released to project a stone of mass 5 gram. If Y for rubber = 5 ? 108N/m², then the tension in the rubber cord is",(a) 25 N,(b) 50 N,(c) 100 N,(d) 200 N,(c) 100 N,defines
+7,7.0,"Out of the following materials, whose elasticity is independent of temperature?",(a) Copper,(b) Invar steel,(c) Brass,(d) Silver,(b) Invar steel,developed
+8,8.0,An iron bar of length l m and cross section A m² is pulled by a force of F Newton from both ends so as to produce and elongation in meters. Which of the following statement statements is correct,(a) Elongation is inversely proportional to length l,(b) Elongation is directly proportional to cross section A,(c) Elongation is inversely proportional to A,(d) Elongation is directly proportional to Youngs modulus,(c) Elongation is inversely proportional to A,youngs
+9,9.0,The ratio of the change in dimension at right angles to the applied force to the initial dimension is known as,(a) Youngs modulus,(b) Poissons ratio,(c) Lateral strain,(d) Shearing strain,(c) Lateral strain,lower
+10,10.0,Four wires whose lengths and diameter respectively are given below are made of the same material. Which of these will have the largest extension when same tension is applied?,"(a) 0.50 m, 0.50 mm","(b) 1.00 mm, 1.00 mm","(c) 2.00 m, 2.00 mm","(d) 4.00 m, 4.00 mm","(a) 0.50 m, 0.50 mm",horizontal
+11,11.0,"When the intermolecular distance increases due to tensile force, then",(a) There is no force between the molecules,(b) There is a repulsive force between the molecules,(c) There is an attractive force between the molecules,(d) There is zero resultant force between the molecules,(c) There is an attractive force between the molecules,length
+12,12.0,A body of mass 1 kg is attached to one end of a wire and rotated in horizontal circle of diameter 40 cm with a constant speed of 2 m/s. what is the area of cross-section of the wire if the stress developed in the wire is 5 × 106 N/m²?,(a) 2 mm²,(b) 3 mm²,(c) 4 mm²,(d) 5 mm²,(c) 4 mm²,modulus
+13,13.0,"One end of a steel wire of area of cross-section 3 mm² is attached to the ceiling of an elevator moving up with an acceleration of 2.2 m/s². if a load of 8 kg is attached at its free end, then the stress developed in the wire will be",(a) 8 × 106 N/m²,(b) 16 × 106 N/m²,(c) 20 × 106 N/m²,(d) 32 × 106 N/m²,(d) 32 × 106 N/m²,free
+14,14.0,The ratio of the change in dimension at right angles to the applied force to the initial dimension is known as,(a) Youngs modulus,(b) Poissons ratio,(c) Lateral strain,(d) Shearing strain,(c) Lateral strain,gram
+15,15.0,The magnitude of the force developed by raising the temperature from 0°C to 100°C of the iron bar of 1.00 m long and 1 cm² cross-section when it is held so that it is not permitted to expand or bend is (a = 10-5/oC and Y = 1011 N/m²),(a) 103 N,(b) 104 N,(c) 105,(d) 109 N,(b) 104 N,cross
+16,16.0,The upper end of wire 1 m long and 2 mm radius is clamped. The lower end is twisted through an angle of 45°. The angle of shear is,(a) 0.09°,(b) 0.9°,(c) 9°,(d) 90°,(a) 0.09°,speed
+17,17.0,"The radii of two wires of a same material are in ratio 2 : 1. if the wires are stretched by equal forces, the stress produced in them will be",(a) 2 : 1,(b) 4 : 1,(c) 1 : 4,(d) 1 : 2,(c) 1 : 4,one
+18,18.0,"A rubber cord of cross sectional area 1 mm² and unstretched length 10 cm is stretched to 12 cm and then released to project a stone of mass 5 gram. If Y for rubber = 5 ? 108N/m², then the tension in the rubber cord is",(a) 25 N,(b) 50 N,(c) 100 N,(d) 200 N,(c) 100 N,initial
+19,19.0,"In a wire, when elongation is 2 cm energy stored is E. if it is stretched by 10 cm, then the energy stored will be",(a) E,(b) 2 E,(c) 4 E,(d) 25 E,(d) 25 E,whose
+20,,,,,,,,ceiling
+21,,,,,,,,long
+22,,,,,,,,circle
+23,,,,,,,,right
+24,,,,,,,,temperature
+25,,,,,,,,load
+26,,,,,,,,dimension
+27,,,,,,,,directly
+28,,,,,,,,permitted
+29,,,,,,,,known
+30,,,,,,,,case
+31,,,,,,,,largest
+32,,,,,,,,acceleration
+33,,,,,,,,produce
+34,,,,,,,,radius
+35,,,,,,,,stored
+36,,,,,,,,essentially
+37,,,,,,,,possible
+38,,,,,,,,shear
+41,,,,,,,,law
+43,,,,,,,,distance
+44,,,,,,,,released
+45,,,,,,,,independent
+46,,,,,,,,project
+47,,,,,,,,two
+48,,,,,,,,rotated
+49,,,,,,,,area
+50,,,,,,,,limit
+51,,,,,,,,held
+52,,,,,,,,bar
+53,,,,,,,,ration
+54,,,,,,,,stretched
+58,,,,,,,,proportional
+59,,,,,,,,moving
+61,,,,,,,,section
+63,,,,,,,,tension
+64,,,,,,,,equal
+65,,,,,,,,sectional
+66,,,,,,,,rubber
+67,,,,,,,,upper
+68,,,,,,,,following
+69,,,,,,,,copper
+71,,,,,,,,point
+72,,,,,,,,resultant
+73,,,,,,,,iron
+74,,,,,,,,clamped
+75,,,,,,,,attractive
+76,,,,,,,,tensile
+77,,,,,,,,twisted
+78,,,,,,,,gases
+79,,,,,,,,correct
+80,,,,,,,,strain
+82,,,,,,,,made
+83,,,,,,,,magnitude
+84,,,,,,,,repulsive
+85,,,,,,,,energy
+86,,,,,,,,statement
+87,,,,,,,,invar
+88,,,,,,,,newton
+89,,,,,,,,produced
+90,,,,,,,,unstretched
+91,,,,,,,,increase
+92,,,,,,,,force
+93,,,,,,,,elastic
+94,,,,,,,,elongation
+95,,,,,,,,angle
+96,,,,,,,,poissons
+97,,,,,,,,stress
+98,,,,,,,,respectively
+99,,,,,,,,end
+100,,,,,,,,raising
+101,,,,,,,,bend
+102,,,,,,,,body
+103,,,,,,,,stone
+104,,,,,,,,silver
+105,,,,,,,,ratio
+106,,,,,,,,elasticity
+107,,,,,,,,wire
+108,,,,,,,,material
+109,,,,,,,,crosssection
+111,,,,,,,,given
+112,,,,,,,,constant
+113,,,,,,,,attached
+114,,,,,,,,shearing
+115,,,,,,,,solid
+116,,,,,,,,brass
+117,,,,,,,,inversely
+118,,,,,,,,change
+119,,,,,,,,steel
+120,,,,,,,,elevator
+121,,,,,,,,cord
+122,,,,,,,,gas
+123,,,,,,,,due
+124,,,,,,,,lateral
+125,,,,,,,,expand
+126,,,,,,,,molecule
+127,,,,,,,,extension
+128,,,,,,,,intermolecular
+130,,,,,,,,diameter
+131,,,,,,,,applied

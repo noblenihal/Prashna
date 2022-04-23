@@ -1,116 +1,144 @@
-,index,0;1;2;3;4;Answer,Words
-0,0.0,The mass of a body which is equal to the ratio of the force acting on a body to the acceleration produced in the body is;(a) the gravitational mass;(b) the electromagnetic mass;(c) the internal mass;(d) the inertial mass;(d) the inertial mass,surface
-1,1.0,A spherical ball of mass 10-6 kg hits a wall 1000 times per second normally with a velocity of 1000 m/s and rebounds with same velocity along the initial direction. The force experienced by the wall is;(a) 1 N;(b) 4 N;(c) 2 N;(d) 8 N;(c) 2 N,passenger
-2,2.0,The force required to produce an acceleration of 2 m/s² on a mass of 2 kg is;(a) 4 N;(b) 10 N;(c) 22 N;(d) 18 N;(a) 4 N,wall
-3,3.0,A machine gun fires a bullet of mass 40 g with a velocity of 1200 ms-1. The man holding it can exert a maximum force on 144 N on the gum. How many bullets can he fire per second at the most?;(a) one;(b) four;(c) two;(d) three;(d) three,upwards
-4,4.0,A passenger in a moving bus is thrown forward when the bus is suddenly stopped. This is explained;(a) by Newtons first law;(b) by Newtons second law;(c) by Newtons third law;(d) by the principle of conservation of momentum;(a) by Newtons first law,developed
-5,5.0,A body of mass 5 kg is travelling with a uniform velocity of 2 m/s. Its momentum is;(a) 10 kg m/s;(b) 7 kg m/s;(c) 2 .5 kg m/s;(d) 3 kg m/s;(a) 10 kg m/s,earth
-6,6.0,A block of wood is placed on a surface. A force is applied parallel to the surface to move the body. The frictional force developed acts;(a) normal to the surface upwards;(b) normal to the surface downwards;(c) along the direction of the applied force;(d) opposite to the direction of the applied force;(d) opposite to the direction of the applied force,rebounds
-7,7.0,A bullet of mass 25 g moving with a velocity of 200 cm/s is stopped within 5 cm of the target. The average resistance offered by the target is;(a) 1 N;(b) 2 N;(c) 3 N;(d) 4 N;(a) 1 N,static
-8,8.0,The mass of a body is 2 kg. It weight is;(a) 19.6 N;(b) 20 N;(c) 30 N;(d) 40 N;(a) 19.6 N,momentum
-9,9.0,A gun of mass 1000 kg fires a projectile of mass 1 kg with a horizontal velocity of 100 m/s. The velocity of recoil of the gun in the horizontal direction is;(a) 5 m/s;(b) 0.1 m/s;(c) 15 m/s;(d) 20 m/s;(b) 0.1 m/s,degree
-10,10.0,A block of wood is placed on a surface. A force is applied parallel to the surface to move the body. The frictional force developed acts;(a) normal to the surface upwards;(b) normal to the surface downwards;(c) along the direction of the applied force;(d) opposite to the direction of the applied force;(d) opposite to the direction of the applied force,gravitational
-11,11.0,A block of mass 2 kg rests on a rough inclined plane making an angle of 30 degree with the horizontal. The coefficient of static friction between he block and the plane is 0.7. The frictional force on the block is;(a) 9.8 N;(b) 0.7 × 9.8 × √3 N;(c) 9.8 × √3 N;(d) 0.7 × 9.8 N;(d) 0.7 × 9.8 N,stopped
-12,12.0,A particle of mass 0.3 kg is subjected to a force F = -kx with k = 15 N/m. What will be its initial acceleration if it is released from a point 20 cm away from the origin?;(a) 15 m/s²;(b) 3 m/s²;(c) 10 m/s²;(d) 5 m/s²;(c) 10 m/s²,body
-13,13.0,The frame of reference attached to a satellite of the earth is;(a) an inertial frame;(b) an absolute frame at rest with respect to the stars;(c) a non – inertial frame;(d) a gravitational frame;(c) a non – inertial frame,proportional
-14,14.0,A block of mass M is placed on a flat surface. A force is applied to move it parallel to the surface. The frictional force f developed is proportional to the;(a) square of the mass of the body;(b) mass of the body;(c) reciprocal of the mass of the body;(d) reciprocal of the square of the body;(b) mass of the body,uniform
-15,,,explained
-16,,,opposite
-17,,,many
-18,,,resistance
-21,,,along
-22,,,satellite
-24,,,bullet
-25,,,weight
-26,,,wood
-27,,,away
-29,,,bullets
-30,,,machine
-31,,,maximum
-32,,,newtons
-33,,,gum
-34,,,third
-35,,,produced
-36,,,non
-37,,,required
-38,,,inertial
-39,,,conservation
-40,,,acting
-41,,,move
-42,,,friction
-43,,,reciprocal
-44,,,spherical
-45,,,target
-46,,,principle
-47,,,respect
-48,,,flat
-49,,,travelling
-51,,,particle
-52,,,moving
-53,,,subjected
-54,,,ball
-55,,,force
-56,,,rough
-58,,,direction
-59,,,normally
-60,,,hits
-61,,,frame
-62,,,forward
-63,,,projectile
-64,,,released
-65,,,downwards
-66,,,internal
-67,,,square
-68,,,coefficient
-69,,,times
-71,,,horizontal
-72,,,origin
-73,,,produce
-74,,,two
-75,,,reference
-77,,,law
-78,,,cms
-79,,,first
-80,,,acts
-81,,,offered
-82,,,plane
-83,,,mass
-84,,,one
-85,,,rests
-86,,,man
-87,,,exert
-88,,,placed
-89,,,block
-90,,,three
-91,,,acceleration
-92,,,initial
-93,,,absolute
-94,,,recoil
-95,,,average
-96,,,suddenly
-97,,,second
-98,,,applied
-99,,,inclined
-100,,,experienced
-101,,,parallel
-102,,,fires
-104,,,fire
-105,,,attached
-106,,,per
-107,,,bus
-108,,,equal
-109,,,normal
-110,,,frictional
-111,,,within
-112,,,gun
-113,,,making
-114,,,thrown
-115,,,four
-116,,,ratio
-117,,,electromagnetic
-118,,,rest
-119,,,velocity
-120,,,stars
-121,,,holding
-122,,,angle
-123,,,point
+,index,0,1,2,3,4,Answer,Words
+0,0.0,The mass of a body which is equal to the ratio of the force acting on a body to the acceleration produced in the body is,(a) the gravitational mass,(b) the electromagnetic mass,(c) the internal mass,(d) the inertial mass,(d) the inertial mass,mass
+1,1.0,A spherical ball of mass 10-6 kg hits a wall 1000 times per second normally with a velocity of 1000 m/s and rebounds with same velocity along the initial direction. The force experienced by the wall is,(a) 1 N,(b) 4 N,(c) 2 N,(d) 8 N,(c) 2 N,hit
+2,2.0,The force required to produce an acceleration of 2 m/s² on a mass of 2 kg is,(a) 4 N,(b) 10 N,(c) 22 N,(d) 18 N,(a) 4 N,third
+3,3.0,A machine gun fires a bullet of mass 40 g with a velocity of 1200 ms-1. The man holding it can exert a maximum force on 144 N on the gum. How many bullets can he fire per second at the most?,(a) one,(b) four,(c) two,(d) three,(d) three,direction
+4,4.0,A passenger in a moving bus is thrown forward when the bus is suddenly stopped. This is explained,(a) by Newtons first law,(b) by Newtons second law,(c) by Newtons third law,(d) by the principle of conservation of momentum,(a) by Newtons first law,acted
+5,5.0,"A passenger sitting in a bus moving at uniform speed, feels pushed backward whenever the bus is accelerated forward. This type of force is called",(a) Gravitational force,(b) real force,(c) fictitious force or pseudo force,(d) frictional force,(c) fictitious force or pseudo force,upon
+6,6.0,A body of mass 5 kg is travelling with a uniform velocity of 2 m/s. Its momentum is,(a) 10 kg m/s,(b) 7 kg m/s,(c) 2 .5 kg m/s,(d) 3 kg m/s,(a) 10 kg m/s,overcomes
+7,7.0,"Inside the nucleus, two protons are held together by a force which overcomes the repulsion. This force is called",(a) gravitational force,(b) electrostatic force,(c) weak force,(d) strong force,(d) strong force,developed
+8,8.0,A block of wood is placed on a surface. A force is applied parallel to the surface to move the body. The frictional force developed acts,(a) normal to the surface upwards,(b) normal to the surface downwards,(c) along the direction of the applied force,(d) opposite to the direction of the applied force,(d) opposite to the direction of the applied force,act
+9,9.0,A bullet of mass 25 g moving with a velocity of 200 cm/s is stopped within 5 cm of the target. The average resistance offered by the target is,(a) 1 N,(b) 2 N,(c) 3 N,(d) 4 N,(a) 1 N,together
+10,10.0,The mass of a body is 2 kg. It weight is,(a) 19.6 N,(b) 20 N,(c) 30 N,(d) 40 N,(a) 19.6 N,fire
+11,11.0,"A body is sliding down a rough inclined plane which makes an angle of 30 degree with the horizontal. If the coeffcient of friction is 0.26, the acceleration in m/s² is",(a) 1.95,(b) 2.78,(c) 3.47,(d) 4.6,(b) 2.78,static
+12,12.0,A gun of mass 1000 kg fires a projectile of mass 1 kg with a horizontal velocity of 100 m/s. The velocity of recoil of the gun in the horizontal direction is,(a) 5 m/s,(b) 0.1 m/s,(c) 15 m/s,(d) 20 m/s,(b) 0.1 m/s,fictitious
+13,13.0,A block of wood is placed on a surface. A force is applied parallel to the surface to move the body. The frictional force developed acts,(a) normal to the surface upwards,(b) normal to the surface downwards,(c) along the direction of the applied force,(d) opposite to the direction of the applied force,(d) opposite to the direction of the applied force,upwards
+14,14.0,A block of mass 2 kg rests on a rough inclined plane making an angle of 30 degree with the horizontal. The coefficient of static friction between he block and the plane is 0.7. The frictional force on the block is,(a) 9.8 N,(b) 0.7 × 9.8 × √3 N,(c) 9.8 × √3 N,(d) 0.7 × 9.8 N,(d) 0.7 × 9.8 N,horizontal
+15,15.0,A particle of mass 0.3 kg is subjected to a force F = -kx with k = 15 N/m. What will be its initial acceleration if it is released from a point 20 cm away from the origin?,(a) 15 m/s²,(b) 3 m/s²,(c) 10 m/s²,(d) 5 m/s²,(c) 10 m/s²,projectile
+16,16.0,"Two bodies of masses 4 kg and 5 kg are acted upon by the same force. If the acceleration of lighter body is 2 m/s², the acceleration of heavier body is",(a) 1 m/s²,(b) 1.2 m/s²,(c) 1.6 m/s²,(d) 1.8 m/s²,(c) 1.6 m/s²,exert
+17,17.0,"Out of the basic forces , gravitational force",(a) ranks first in strength,(b) ranks second in strength,(c) ranks third in strength,(d) ranks fourth in strength,(d) ranks fourth in strength,velocity
+18,18.0,The frame of reference attached to a satellite of the earth is,(a) an inertial frame,(b) an absolute frame at rest with respect to the stars,(c) a non – inertial frame,(d) a gravitational frame,(c) a non – inertial frame,holding
+19,19.0,A block of mass M is placed on a flat surface. A force is applied to move it parallel to the surface. The frictional force f developed is proportional to the,(a) square of the mass of the body,(b) mass of the body,(c) reciprocal of the mass of the body,(d) reciprocal of the square of the body,(b) mass of the body,opposite
+20,,,,,,,,pushed
+21,,,,,,,,sitting
+22,,,,,,,,backward
+23,,,,,,,,speed
+24,,,,,,,,one
+25,,,,,,,,initial
+26,,,,,,,,frictional
+27,,,,,,,,required
+28,,,,,,,,coeffcient
+29,,,,,,,,origin
+30,,,,,,,,within
+31,,,,,,,,machine
+32,,,,,,,,forward
+33,,,,,,,,momentum
+34,,,,,,,,making
+35,,,,,,,,gum
+36,,,,,,,,square
+37,,,,,,,,suddenly
+38,,,,,,,,uniform
+39,,,,,,,,friction
+40,,,,,,,,feel
+41,,,,,,,,internal
+42,,,,,,,,gun
+44,,,,,,,,acceleration
+45,,,,,,,,reference
+46,,,,,,,,real
+47,,,,,,,,produce
+48,,,,,,,,maximum
+49,,,,,,,,lighter
+50,,,,,,,,experienced
+51,,,,,,,,respect
+52,,,,,,,,second
+53,,,,,,,,plane
+54,,,,,,,,whenever
+55,,,,,,,,ball
+56,,,,,,,,four
+57,,,,,,,,bullet
+58,,,,,,,,surface
+59,,,,,,,,sliding
+61,,,,,,,,law
+62,,,,,,,,reciprocal
+63,,,,,,,,frame
+64,,,,,,,,released
+65,,,,,,,,three
+66,,,,,,,,resistance
+67,,,,,,,,recoil
+68,,,,,,,,average
+69,,,,,,,,thrown
+70,,,,,,,,wall
+71,,,,,,,,two
+72,,,,,,,,normal
+73,,,,,,,,travelling
+74,,,,,,,,held
+75,,,,,,,,wood
+76,,,,,,,,make
+78,,,,,,,,electromagnetic
+79,,,,,,,,proportional
+80,,,,,,,,newtons
+81,,,,,,,,acting
+82,,,,,,,,called
+83,,,,,,,,moving
+84,,,,,,,,time
+86,,,,,,,,nucleus
+87,,,,,,,,inertial
+88,,,,,,,,per
+89,,,,,,,,equal
+90,,,,,,,,passenger
+91,,,,,,,,proton
+92,,,,,,,,rest
+93,,,,,,,,point
+94,,,,,,,,accelerated
+95,,,,,,,,particle
+96,,,,,,,,non
+97,,,,,,,,man
+98,,,,,,,,rank
+99,,,,,,,,weak
+100,,,,,,,,normally
+101,,,,,,,,inclined
+102,,,,,,,,along
+103,,,,,,,,target
+105,,,,,,,,earth
+107,,,,,,,,star
+108,,,,,,,,block
+109,,,,,,,,repulsion
+110,,,,,,,,spherical
+111,,,,,,,,produced
+113,,,,,,,,force
+114,,,,,,,,heavier
+115,,,,,,,,offered
+116,,,,,,,,parallel
+117,,,,,,,,placed
+118,,,,,,,,satellite
+119,,,,,,,,flat
+120,,,,,,,,angle
+121,,,,,,,,subjected
+122,,,,,,,,pseudo
+123,,,,,,,,conservation
+124,,,,,,,,bus
+125,,,,,,,,body
+126,,,,,,,,ratio
+127,,,,,,,,rebound
+128,,,,,,,,fourth
+129,,,,,,,,stopped
+130,,,,,,,,many
+131,,,,,,,,coefficient
+133,,,,,,,,principle
+134,,,,,,,,downwards
+135,,,,,,,,attached
+136,,,,,,,,degree
+137,,,,,,,,type
+138,,,,,,,,first
+139,,,,,,,,weight
+140,,,,,,,,electrostatic
+141,,,,,,,,strong
+142,,,,,,,,explained
+143,,,,,,,,rough
+144,,,,,,,,basic
+145,,,,,,,,absolute
+146,,,,,,,,move
+147,,,,,,,,away
+149,,,,,,,,gravitational
+150,,,,,,,,strength
+151,,,,,,,,applied

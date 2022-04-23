@@ -1,107 +1,126 @@
-,index,0;1;2;3;4;Answer,Words
-0,0.0,In chemical equation H2 (g) + I2 (g) \(\rightleftharpoons\) 2HI (g) the equilibrium constant Kp depends on;(a) total pressure;(b) catalyst used;(c) amount of H2 and I2;(d) temperature;(b) catalyst used,unit
-1,1.0,For a reaction nx – y → z the rate of reaction becomes twenty seven times when the concentration of X is increased three times. What is the order of the reaction?;(a) 2;(b) 1;(c) 3;(d) 0;(c) 3,
-2,2.0,The rate constant of a reaction depends upon;(a) temperature of the reaction;(b) extent of the reaction;(c) initial concentration of the reactants;(d) the time of completion of reaction;(d) the time of completion of reaction,fora
-3,3.0,The unit of rate and rate constant are same fora;(a) zero order reaction;(b) first order reaction;(c) second order reaction;(d) third order reaction;(b) Rate = k [O3]² [O2]-1,rate
-4,4.0,The number of molecules of the reactants taking part in a single step of the reaction is indicative of;(a) order of a reaction;(b) molecuiarity of a reaction;(c) fast step of the mechanism of a reaction;(d) half-life of the reaction;(b) molecuiarity of a reaction,first
-5,5.0,The overall rate of a reaction is governed by;(a) the rate of fastest intermediate’step;(b) the sum total of the rates of all intermediate steps;(c) the average of the rates of all the intermediate steps;(d) the rate of slowest intermediate step;(d) the rate of slowest intermediate step,becomes
-6,6.0,The order of reaction is decided by;(a) temperature;(b) mechanism of reaction as well as relative concentration of reactants;(c) molecularity;(d) pressure;(b) mechanism of reaction as well as relative concentration of reactants,taking
-7,7.0,Rate constant in case of first order reaction is;(a) inversely proportional to the concentration units;(b) independent of concentration units;(c) directly proportional to concentration units;(d) inversely proportional to the square of concentration units;(b) independent of concentration units,
-8,8.0,Half life period of a first order reaction is 10 min. What percentage of the reaction will be completed in 100 min?;(a) 25%;(b) 50%;(c) 99.9%;(d) 75%;(c) 99.9%,indicates
-9,9.0,In pseudo unimolecular reactions;(a) both the reactants are present in low concentration;(b) both the reactants are present in same concentration;(c) one of the reactant is present in excess;(d) one of the reactant is non-reactive;(c) one of the reactant is present in excess,sum
-10,10.0,A first order reaction takes 40 min for 30% decomposition. What will be t12?;(a) 77.7 min;(b) 52.5 min;(c) 46.2 min;(d) 22.7 min;(a) 77.7 min,life
-11,11.0,A first order reaction has a rate constant 1.15 × 10-3s-1. How long time will 5 g of this reactant take to reduce to 3 g?;(a) 444 s;(b) 400 s;(c) 528 s;(d) 669 s;(a) 444 s,single
-12,12.0,Radioactive disintegration is an example of;(a) zero order reaction;(b) first order reaction;(c) second order reaction;(d) third order reaction;(b) first order reaction,present
-13,13.0,A plot of log (a – x) against time t is a straight line. This indicates that the reaction is of;(a) zero order;(b) first order;(c) second order;(d) third order;(b) first order,take
-14,14.0,Rate of which reaction increases with temperature?;(a) Exothermic reaction;(b) Endothermic reaction;(c) (a) and (b) both;(d) None of the above;(c) (a) and (b) both,mechanism
-15,15.0,The activation energy in a chemical reaction is defined as;(a) the difference in energies of reactants and products;(b) the sum of energies of reactants and products;(c) the difference in energy of intermediate complex with the average energy of reactants and products;(d) the difference in energy of intermediate complex and the average energy of reactants;(d) the difference in energy of intermediate complex and the average energy of reactants,directly
-16,,,completed
-17,,,activation
-19,,,nonreactive
-20,,,fast
-21,,,proportional
-22,,,straight
-23,,,complex
-24,,,third
-25,,,energy
-26,,,unimolecular
-27,,,times
-28,,,defined
-30,,,decided
-31,,,equilibrium
-32,,,depends
-33,,,order
-34,,,half
-35,,,long
-36,,,products
-37,,,exothermic
-38,,,example
-39,,,min
-40,,,energies
-41,,,molecuiarity
-42,,,units
-43,,,pressure
-44,,,amount
-46,,,radioactive
-47,,,initial
-48,,,fastest
-49,,,molecularity
-50,,,inversely
-52,,,three
-53,,,period
-54,,,line
-56,,,number
-57,,,percentage
-58,,,decomposition
-59,,,relative
-60,,,independent
-61,,,reaction
-62,,,reactants
-63,,,twenty
-64,,,increased
-65,,,step
-66,,,pseudo
-67,,,low
-68,,,chemical
-69,,,endothermic
-70,,,catalyst
-71,,,takes
-72,,,seven
-73,,,time
-74,,,one
-76,,,molecules
-77,,,concentration
-78,,,second
-79,,,reactions
-80,,,excess
-81,,,log
-82,,,upon
-83,,,plot
-84,,,part
-85,,,steps
-86,,,overall
-87,,,disintegration
-88,,,difference
-89,,,used
-90,,,zero
-91,,,total
-92,,,temperature
-93,,,intermediatestep
-94,,,indicative
-95,,,constant
-96,,,extent
-97,,,square
-98,,,reduce
-99,,,completion
-100,,,equation
-101,,,well
-102,,,governed
-103,,,rates
-104,,,case
-105,,,reactant
-106,,,none
-107,,,intermediate
-108,,,increases
-109,,,halflife
-110,,,average
-111,,,slowest
+,index,0,1,2,3,4,Answer,Words
+0,0.0,In chemical equation H2 (g) + I2 (g) \(\rightleftharpoons\) 2HI (g) the equilibrium constant Kp depends on,(a) total pressure,(b) catalyst used,(c) amount of H2 and I2,(d) temperature,(b) catalyst used,third
+1,1.0,"If the rate of a reaction is expressed by, rate = A [A]² [B], the order of reaction will be",(a) 2,(b) 3,(c) 1,(d) 0,(b) 3,disintegration
+2,2.0,"In a reaction, 2X → Y, the concentration of X decreases from 0.50 M to 0.38 M in 10 min. What is the rate of reaction in Ms-1 during this interval ?",(a) 2 × 10-4,(b) 4 × 10-2,(c) 2 × 10-2,(d) 1 × 10-2,(a) 2 × 10-4,used
+3,3.0,"The decomposition of dimethyl ether is a fractional order reaction. The rate is given by rate =k(PCH3OCH3)3/2. If the pressure is measured in bar and time in minutes, then what are the units of rate and rate constant?","(a) bar min-1, bar2 min-1","(b) bar min-1, bar1/2 min-1","(c) bar1/2 min-1, bar2 min-1","(d) bar min-1, bar1/2 min-1","(b) bar min-1, bar1/2 min-1",
+4,4.0,"A reaction in which reactants (R) are converted into products (P) follows second order kinetics. If concentration of R is increased by four times, what will be the increase in the rate of formation of P?",(a) 9 times,(b) 4 times,(c) 16 times,(d) 8 times,(c) 16 times,four
+5,5.0,"Which of the following, is an example of a fractional order reaction?",(a) NH4NO2 → N2 + 2H2O,(b) NO + O3 → NO2 + O2,(c) 2NO + Br2 → 2NOBr,(d) CH3CHO → CH4 + CO,(d) CH3CHO → CH4 + CO,
+6,6.0,"Fora reaction x + y → z, rate ∝ |X|. What is (i) moleculariiy and (ii) order of reaction?","(a) (i)2, (ii) 1","(b) (i)2,(ii) 2","(c) (i) 1, (ii) 1","(d) (i) 1, (ii) 2",(c) mol-2 L² s-1,reactant
+7,7.0,For a reaction nx – y → z the rate of reaction becomes twenty seven times when the concentration of X is increased three times. What is the order of the reaction?,(a) 2,(b) 1,(c) 3,(d) 0,(c) 3,pseudo
+8,8.0,The rate constant of a reaction depends upon,(a) temperature of the reaction,(b) extent of the reaction,(c) initial concentration of the reactants,(d) the time of completion of reaction,(d) the time of completion of reaction,nobr
+9,9.0,The unit of rate and rate constant are same fora,(a) zero order reaction,(b) first order reaction,(c) second order reaction,(d) third order reaction,(b) Rate = k [O3]² [O2]-1,energy
+10,10.0,The number of molecules of the reactants taking part in a single step of the reaction is indicative of,(a) order of a reaction,(b) molecuiarity of a reaction,(c) fast step of the mechanism of a reaction,(d) half-life of the reaction,(b) molecuiarity of a reaction,step
+11,11.0,Fora unimolecular reaction,(a) the order and molecuiarity of the slowest step are equal to one,"(b) molecuiarity of the reaction can be zero, one or two",(c) molecuiarity of the reaction can be determined only experimentally,(d) more than one reacting species are involved in one step,(a) the order and molecuiarity of the slowest step are equal to one,proportional
+12,12.0,The overall rate of a reaction is governed by,(a) the rate of fastest intermediate’step,(b) the sum total of the rates of all intermediate steps,(c) the average of the rates of all the intermediate steps,(d) the rate of slowest intermediate step,(d) the rate of slowest intermediate step,decided
+13,13.0,The order of reaction is decided by,(a) temperature,(b) mechanism of reaction as well as relative concentration of reactants,(c) molecularity,(d) pressure,(b) mechanism of reaction as well as relative concentration of reactants,rate
+14,14.0,Rate constant in case of first order reaction is,(a) inversely proportional to the concentration units,(b) independent of concentration units,(c) directly proportional to concentration units,(d) inversely proportional to the square of concentration units,(b) independent of concentration units,halflife
+15,15.0,Half life period of a first order reaction is 10 min. What percentage of the reaction will be completed in 100 min?,(a) 25%,(b) 50%,(c) 99.9%,(d) 75%,(c) 99.9%,straight
+16,16.0,In pseudo unimolecular reactions,(a) both the reactants are present in low concentration,(b) both the reactants are present in same concentration,(c) one of the reactant is present in excess,(d) one of the reactant is non-reactive,(c) one of the reactant is present in excess,indicates
+17,17.0,A first order reaction takes 40 min for 30% decomposition. What will be t12?,(a) 77.7 min,(b) 52.5 min,(c) 46.2 min,(d) 22.7 min,(a) 77.7 min,seven
+18,18.0,A first order reaction has a rate constant 1.15 × 10-3s-1. How long time will 5 g of this reactant take to reduce to 3 g?,(a) 444 s,(b) 400 s,(c) 528 s,(d) 669 s,(a) 444 s,decomposition
+19,19.0,Radioactive disintegration is an example of,(a) zero order reaction,(b) first order reaction,(c) second order reaction,(d) third order reaction,(b) first order reaction,intermediatestep
+20,20.0,A plot of log (a – x) against time t is a straight line. This indicates that the reaction is of,(a) zero order,(b) first order,(c) second order,(d) third order,(b) first order,time
+21,21.0,Rate of which reaction increases with temperature?,(a) Exothermic reaction,(b) Endothermic reaction,(c) (a) and (b) both,(d) None of the above,(c) (a) and (b) both,log
+22,22.0,The activation energy in a chemical reaction is defined as,(a) the difference in energies of reactants and products,(b) the sum of energies of reactants and products,(c) the difference in energy of intermediate complex with the average energy of reactants and products,(d) the difference in energy of intermediate complex and the average energy of reactants,(d) the difference in energy of intermediate complex and the average energy of reactants,follows
+23,,,,,,,,second
+24,,,,,,,,molecuiarity
+25,,,,,,,,slowest
+26,,,,,,,,initial
+27,,,,,,,,part
+29,,,,,,,,determined
+31,,,,,,,,governed
+32,,,,,,,,decrease
+33,,,,,,,,measured
+34,,,,,,,,average
+35,,,,,,,,molecularity
+36,,,,,,,,square
+37,,,,,,,,period
+39,,,,,,,,chcho
+40,,,,,,,,amount
+41,,,,,,,,inversely
+42,,,,,,,,exothermic
+43,,,,,,,,excess
+44,,,,,,,,indicative
+45,,,,,,,,difference
+46,,,,,,,,none
+47,,,,,,,,intermediate
+49,,,,,,,,upon
+50,,,,,,,,unimolecular
+51,,,,,,,,reaction
+52,,,,,,,,moleculariiy
+53,,,,,,,,completed
+54,,,,,,,,order
+55,,,,,,,,interval
+56,,,,,,,,overall
+57,,,,,,,,fastest
+58,,,,,,,,endothermic
+59,,,,,,,,dimethyl
+60,,,,,,,,fast
+61,,,,,,,,twenty
+62,,,,,,,,completion
+63,,,,,,,,experimentally
+65,,,,,,,,constant
+66,,,,,,,,converted
+67,,,,,,,,temperature
+68,,,,,,,,relative
+71,,,,,,,,increased
+74,,,,,,,,product
+75,,,,,,,,nonreactive
+76,,,,,,,,catalyst
+77,,,,,,,,percentage
+78,,,,,,,,given
+79,,,,,,,,directly
+80,,,,,,,,complex
+82,,,,,,,,mol
+84,,,,,,,,specie
+86,,,,,,,,example
+87,,,,,,,,mechanism
+88,,,,,,,,present
+89,,,,,,,,expressed
+90,,,,,,,,equilibrium
+91,,,,,,,,life
+92,,,,,,,,bar
+93,,,,,,,,kpchoch
+94,,,,,,,,plot
+95,,,,,,,,fractional
+96,,,,,,,,zero
+97,,,,,,,,equal
+98,,,,,,,,one
+99,,,,,,,,two
+101,,,,,,,,forum
+102,,,,,,,,long
+103,,,,,,,,involved
+104,,,,,,,,extent
+105,,,,,,,,becomes
+106,,,,,,,,take
+107,,,,,,,,equation
+108,,,,,,,,independent
+109,,,,,,,,ether
+110,,,,,,,,kinetics
+111,,,,,,,,number
+112,,,,,,,,case
+114,,,,,,,,minute
+115,,,,,,,,pressure
+116,,,,,,,,formation
+117,,,,,,,,three
+118,,,,,,,,reacting
+119,,,,,,,,line
+120,,,,,,,,sum
+121,,,,,,,,reduce
+122,,,,,,,,molecule
+123,,,,,,,,total
+124,,,,,,,,unit
+126,,,,,,,,chemical
+127,,,,,,,,well
+129,,,,,,,,single
+130,,,,,,,,nhno
+131,,,,,,,,taking
+132,,,,,,,,increase
+133,,,,,,,,defined
+134,,,,,,,,min
+135,,,,,,,,depends
+136,,,,,,,,concentration
+137,,,,,,,,activation
+138,,,,,,,,following
+139,,,,,,,,first
+140,,,,,,,,low

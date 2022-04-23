@@ -1,115 +1,115 @@
-,index,0;1;2;3;4;Answer,Words
-0,0.0,The average value of a cover a complete cycle is:;(a) l0;(b) \(\frac{l_0}{2}\);(c) \(\frac{l_0}{√2}\);(d) zero;(d) zero,sin
-1,1.0,Power factor of an ac circuit is a measure of:;(a) virtual power;(b) power lost in the circuit;(c) mean power;(d) all the above;(b) power lost in the circuit,
-2,2.0,The dimensional formula of L/R is similar to that of:;(a) frequency;(b) time;(c) length;(d) none of these;(b) time,offers
-3,3.0,Which of the following has dimensions different from the rest?;(a) L/R;(b) \(\frac{1}{RC}\);(c) \(\sqrt{LC}\);(d) RC;(b) \(\frac{1}{RC}\),inductance
-4,4.0,The dimensional formula of impedance is;;(a) [ML2T-2A-2];(b) [ML2T-3A-2];(c) [ML2T-2A-1];(d) [ML2T-2A-3];(b) [ML2T-3A-2],peak
-5,5.0,Energy dissipates in LCR circuit in :;(a) L only;(b) C only;(c) R only;(d) All of the above;(c) R only,complete
-6,6.0,An iron core transformer with a turns ratio of 8 : 1 has 120 V applied across the primary. The voltage across the;(a) 15 V;(b) 120 V;(c) 180 V;(d) 960 V;(a) 15 V,core
-7,7.0,What is the ratio of inductive and capacitance reactances in an ac circuit?;(a) 1;(b) ω²L;(c) ω²LC;(d) l;(c) ω²LC,heating
-8,8.0,An acceptor circuit is :;(a) series resonant circuit;(b) parallel resonant circuit;(c) LCR circuit;(d) None of these;(a) series resonant circuit,resistance
-9,9.0,A broadcast circute broadcasts at 300 m band. A condenser of capacitance 2.4 lµF is available. The value of the inductance required for resonant circuit is:;(a) 10-4 H;(b) 10-8 H;(c) 10-6 H;(d) 10-2 H;(b) 10-8 H,mean
-10,10.0,In series resonant circuit:;(a) reactance is zero;(b) current is zero;(c) voltage is zero;(d) None of these;(d) None of these,virtual
-11,11.0,In parallel resonant circuit:;(a) impedance is very high;(b) current is very high;(c) voltage is very high;(d) None of these;(a) impedance is very high,
-12,12.0,Transformer works on the principle of:;(a) convertor;(b) invertor;(c) mutual induction;(d) self-induction;(c) mutual induction,formula
-13,13.0,Which of the following effects is not shown in alternating current ?;(a) Chemical effect;(b) Magnetic effect;(c) Heating current;(d) All of these;(a) Chemical effect,emf
-14,14.0,An ac ammeter connected in series in an ac circuit reads 5A. The peak value of current:;(a) 5 A;(b) 5√2A;(c) \(\frac{5}{√5}\) A;(d) zero;(b) 5√2A,inductor
-15,15.0,The phase difference b/w the A.C. and e.m.f. \(\frac{π}{2}\) Which of the following can not be the instituent of the circuit?;(a) LC;(b) L alone;(c) C alone;(d) RL;(d) RL,ccircuit
-16,16.0,The Q factor of an LCR circuit at resonance is :;(a) \(\sqrt{R^2+ω^2L^2}\);(b) \(\sqrt{R^2+(\frac{1}{cω}})^2\);(c) \(\frac{ω_rL}{R}\);(d) \(\sqrt{R^2+\frac{1}{c^2ω^2}}\);(c) \(\frac{ω_rL}{R}\),
-17,17.0,Faraday constant:;(a) depends on the amount of the electrolyte;(b) depends on the current in the electrolyte;(c) is a universal constant;(d) depends on the amount of charge passed through the electrolyte;(c) is a universal constant,factor
-18,18.0,The natural frequency of an L -C-Circuit is equal to :;(a) \(\frac{\sqrt{LC}}{2π}\);(b) \(\frac{1}{3π\sqrt{LC}}\);(c) \(\frac{1}{2π}\sqrt{\frac{L}{C}}\);(d) \(\frac{1}{2π}\sqrt{\frac{C}{L}}\);(b) \(\frac{1}{3π\sqrt{LC}}\),
-19,19.0,A rejector circuit is:;(a) series resonant circuit;(b) parallel resonant circuit;(c) LCR circuit;(d) None of these;(b) parallel resonant circuit,across
-20,20.0,The inductive reactance of an inductor coil of \(\frac{1}{π}\) H at 50 Hz is:;(a) \(\frac{50}{π}\) Ω;(b) \(\frac{π}{50}\) Ω;(c) 100 Ω;(d) 50 Ω;(c) 100 Ω,high
-21,21.0,In pure inductive circuit current;(a) lags behind emf by π/2;(b) leads the emf by π/2;(c) lags behind emf by π;(d) leads the emf by π;(a) lags behind emf by π/2,iron
-22,22.0,The current through an inductor of 1H is given by I = 3t sin t. The voltage across the inductor of 1 H is:;(a) 3 sin t + 3 cos t;(b) 3 sin t + 3t cos t;(c) 3 cos t + t sin t;(d) 3t cos t + sin t;(b) 3 sin t + 3t cos t,selfinduction
-23,23.0,An electric circuit containing capacitor only suffers:;(a) equal resistance for A.C. and D.C.;(b) Resistance of A.C. > Resistance of D.C.;(c) Resistance for A.C. < Resistance of D.C.;(d) offers infinite resistance for D.C.;(d) offers infinite resistance for D.C.,
-24,24.0,The average power dissipation in pure inductance or capacitance is:;(a) \(\frac{1}{2}\) LI²;(b) \(\frac{3}{2}\) CV²;(c) either (a) or (b);(d) zero;(d) zero,frequency
-25,,,reactances
-26,,,amount
-27,,,convertor
-28,,,ammeter
-29,,,infinite
-30,,,required
-31,,,none
-32,,,faraday
-33,,,shown
-34,,,dimensional
-35,,,resonance
-36,,,passed
-37,,,magnetic
-38,,,cycle
-39,,,zero
-40,,,energy
-41,,,different
-42,,,inductive
-44,,,primary
-45,,,principle
-48,,,phase
-49,,,reads
-50,,,induction
-51,,,band
-52,,,effect
-53,,,value
-54,,,instituent
-55,,,dimensions
-56,,,resonant
-57,,,suffers
-58,,,time
-59,,,available
-63,,,dissipation
-64,,,similar
-65,,,pure
-66,,,lost
-67,,,reactance
-68,,,circuit
-70,,,works
-71,,,dissipates
-72,,,length
-73,,,natural
-74,,,turns
-75,,,impedance
-76,,,voltage
-79,,,electrolyte
-80,,,measure
-81,,,series
-84,,,invertor
-85,,,coil
-86,,,effects
-87,,,constant
-88,,,transformer
-89,,,leads
-90,,,broadcasts
-91,,,condenser
-92,,,cover
-94,,,depends
-95,,,average
-96,,,behind
-97,,,chemical
-98,,,circute
-99,,,power
-100,,,capacitor
-101,,,containing
-102,,,rejector
-103,,,applied
-104,,,parallel
-105,,,capacitance
-106,,,universal
-107,,,electric
-108,,,difference
-109,,,equal
-110,,,following
-111,,,alternating
-112,,,charge
-113,,,lcr
-114,,,lags
-115,,,acceptor
-116,,,ratio
-117,,,cos
-118,,,current
-119,,,mutual
-120,,,rest
-121,,,broadcast
-122,,,given
-123,,,either
-124,,,connected
-125,,,alone
+,index,0,1,2,3,4,Answer,Words
+0,0.0,The average value of a cover a complete cycle is:,(a) l0,(b) \(\frac{l_0}{2}\),(c) \(\frac{l_0}{√2}\),(d) zero,(d) zero,zero
+1,1.0,Power factor of an ac circuit is a measure of:,(a) virtual power,(b) power lost in the circuit,(c) mean power,(d) all the above,(b) power lost in the circuit,alone
+2,2.0,The dimensional formula of L/R is similar to that of:,(a) frequency,(b) time,(c) length,(d) none of these,(b) time,heating
+3,3.0,Which of the following has dimensions different from the rest?,(a) L/R,(b) \(\frac{1}{RC}\),(c) \(\sqrt{LC}\),(d) RC,(b) \(\frac{1}{RC}\),secondary
+4,4.0,The dimensional formula of impedance is;,(a) [ML2T-2A-2],(b) [ML2T-3A-2],(c) [ML2T-2A-1],(d) [ML2T-2A-3],(b) [ML2T-3A-2],ccircuit
+5,5.0,Energy dissipates in LCR circuit in :,(a) L only,(b) C only,(c) R only,(d) All of the above,(c) R only,induction
+6,6.0,An iron core transformer with a turns ratio of 8 : 1 has 120 V applied across the primary. The voltage across the,(a) 15 V,(b) 120 V,(c) 180 V,(d) 960 V,(a) 15 V,length
+7,7.0,What is the ratio of inductive and capacitance reactances in an ac circuit?,(a) 1,(b) ω²L,(c) ω²LC,(d) l,(c) ω²LC,lead
+8,8.0,An acceptor circuit is :,(a) series resonant circuit,(b) parallel resonant circuit,(c) LCR circuit,(d) None of these,(a) series resonant circuit,charge
+9,9.0,A broadcast circute broadcasts at 300 m band. A condenser of capacitance 2.4 lµF is available. The value of the inductance required for resonant circuit is:,(a) 10-4 H,(b) 10-8 H,(c) 10-6 H,(d) 10-2 H,(b) 10-8 H,problem
+10,10.0,In series resonant circuit:,(a) reactance is zero,(b) current is zero,(c) voltage is zero,(d) None of these,(d) None of these,broadcast
+11,11.0,In parallel resonant circuit:,(a) impedance is very high,(b) current is very high,(c) voltage is very high,(d) None of these,(a) impedance is very high,dimensional
+12,12.0,"The no. of turns in the primary coil of a transformer is 200 and the no. of turns in the secondary is 10. If 240 V a.c. is applied to primary, the output from the secondary",(a) 6 V,(b) 12 V,(c) 24 V,(d) 48 V,(b) 12 V,effect
+13,13.0,Transformer works on the principle of:,(a) convertor,(b) invertor,(c) mutual induction,(d) self-induction,(c) mutual induction,infinite
+14,14.0,Which of the following effects is not shown in alternating current ?,(a) Chemical effect,(b) Magnetic effect,(c) Heating current,(d) All of these,(a) Chemical effect,high
+15,15.0,An ac ammeter connected in series in an ac circuit reads 5A. The peak value of current:,(a) 5 A,(b) 5√2A,(c) \(\frac{5}{√5}\) A,(d) zero,(b) 5√2A,universal
+16,16.0,The phase difference b/w the A.C. and e.m.f. \(\frac{π}{2}\) Which of the following can not be the instituent of the circuit?,(a) LC,(b) L alone,(c) C alone,(d) RL,(d) RL,inductor
+17,17.0,The Q factor of an LCR circuit at resonance is :,(a) \(\sqrt{R^2+ω^2L^2}\),(b) \(\sqrt{R^2+(\frac{1}{cω}})^2\),(c) \(\frac{ω_rL}{R}\),(d) \(\sqrt{R^2+\frac{1}{c^2ω^2}}\),(c) \(\frac{ω_rL}{R}\),mutual
+18,18.0,Faraday constant:,(a) depends on the amount of the electrolyte,(b) depends on the current in the electrolyte,(c) is a universal constant,(d) depends on the amount of charge passed through the electrolyte,(c) is a universal constant,required
+19,19.0,The natural frequency of an L -C-Circuit is equal to :,(a) \(\frac{\sqrt{LC}}{2π}\),(b) \(\frac{1}{3π\sqrt{LC}}\),(c) \(\frac{1}{2π}\sqrt{\frac{L}{C}}\),(d) \(\frac{1}{2π}\sqrt{\frac{C}{L}}\),(b) \(\frac{1}{3π\sqrt{LC}}\),either
+20,20.0,The band width of a series resonant circuit is :,(a) f0/Q0,(b) \(\frac{R}{2πL}\),(c) \(\frac{R}{4πL}\),(d) 4R,"(a) V = 100 Volts, I = 2A",
+21,21.0,A rejector circuit is:,(a) series resonant circuit,(b) parallel resonant circuit,(c) LCR circuit,(d) None of these,(b) parallel resonant circuit,
+22,22.0,The inductive reactance of an inductor coil of \(\frac{1}{π}\) H at 50 Hz is:,(a) \(\frac{50}{π}\) Ω,(b) \(\frac{π}{50}\) Ω,(c) 100 Ω,(d) 50 Ω,(c) 100 Ω,factor
+23,23.0,In pure inductive circuit current,(a) lags behind emf by π/2,(b) leads the emf by π/2,(c) lags behind emf by π,(d) leads the emf by π,(a) lags behind emf by π/2,core
+24,24.0,The current through an inductor of 1H is given by I = 3t sin t. The voltage across the inductor of 1 H is:,(a) 3 sin t + 3 cos t,(b) 3 sin t + 3t cos t,(c) 3 cos t + t sin t,(d) 3t cos t + sin t,(b) 3 sin t + 3t cos t,
+25,25.0,"Two coils X and Y are connected in series across a 240 V, 50 Hz supply. The resistance of X is 5Ω and inductance of Y is 0.02 H. The power consumed is 3 kW and the power factor is 0.75. The impedance of the circuit is:",(a) 0.144 Ω,(b) 1.44 Ω,(c) 14.4 Ω,(d) 144 Ω,(c) 14.4 Ω,electrolyte
+26,26.0,"In the above problem, the value of the resistance of the coil Y is:",(a) 0.58 Ω,(b) 5.8 Ω,(c) 1.16 Ω,(d) 11.6 Ω,(b) 5.8 Ω,
+27,27.0,An electric circuit containing capacitor only suffers:,(a) equal resistance for A.C. and D.C.,(b) Resistance of A.C. > Resistance of D.C.,(c) Resistance for A.C. < Resistance of D.C.,(d) offers infinite resistance for D.C.,(d) offers infinite resistance for D.C.,dimension
+28,28.0,The average power dissipation in pure inductance or capacitance is:,(a) \(\frac{1}{2}\) LI²,(b) \(\frac{3}{2}\) CV²,(c) either (a) or (b),(d) zero,(d) zero,transformer
+29,,,,,,,,frequency
+31,,,,,,,,alternating
+32,,,,,,,,turn
+33,,,,,,,,mean
+34,,,,,,,,work
+35,,,,,,,,across
+36,,,,,,,,current
+37,,,,,,,,capacitance
+38,,,,,,,,amount
+39,,,,,,,,condenser
+40,,,,,,,,volts
+42,,,,,,,,ammeter
+43,,,,,,,,circuit
+44,,,,,,,,lcr
+45,,,,,,,,virtual
+46,,,,,,,,read
+47,,,,,,,,resonance
+48,,,,,,,,resistance
+49,,,,,,,,average
+50,,,,,,,,difference
+51,,,,,,,,consumed
+52,,,,,,,,containing
+53,,,,,,,,circute
+55,,,,,,,,sin
+56,,,,,,,,dissipation
+57,,,,,,,,capacitor
+58,,,,,,,,reactance
+59,,,,,,,,natural
+61,,,,,,,,width
+62,,,,,,,,coil
+63,,,,,,,,rejector
+65,,,,,,,,inductive
+67,,,,,,,,supply
+68,,,,,,,,peak
+69,,,,,,,,time
+70,,,,,,,,selfinduction
+71,,,,,,,,measure
+72,,,,,,,,resonant
+73,,,,,,,,equal
+74,,,,,,,,shown
+75,,,,,,,,following
+76,,,,,,,,rest
+78,,,,,,,,iron
+79,,,,,,,,convertor
+80,,,,,,,,connected
+84,,,,,,,,band
+85,,,,,,,,inductance
+86,,,,,,,,electric
+87,,,,,,,,impedance
+89,,,,,,,,behind
+91,,,,,,,,acceptor
+94,,,,,,,,parallel
+95,,,,,,,,instituent
+96,,,,,,,,magnetic
+97,,,,,,,,cycle
+98,,,,,,,,primary
+99,,,,,,,,value
+100,,,,,,,,output
+101,,,,,,,,invertor
+102,,,,,,,,chemical
+103,,,,,,,,available
+104,,,,,,,,suffers
+105,,,,,,,,similar
+106,,,,,,,,ratio
+107,,,,,,,,power
+108,,,,,,,,phase
+109,,,,,,,,voltage
+110,,,,,,,,lost
+111,,,,,,,,complete
+112,,,,,,,,emf
+113,,,,,,,,different
+114,,,,,,,,given
+115,,,,,,,,principle
+116,,,,,,,,none
+117,,,,,,,,constant
+118,,,,,,,,formula
+119,,,,,,,,lag
+120,,,,,,,,pure
+123,,,,,,,,offer
+124,,,,,,,,passed
+125,,,,,,,,series
+126,,,,,,,,cover
+127,,,,,,,,dissipates
+129,,,,,,,,depends
+130,,,,,,,,applied

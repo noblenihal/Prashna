@@ -1,130 +1,151 @@
-,index,0;1;2;3;4;Answer,Words
-0,0.0,How many electrons are contained in \(_{92}^{238}\)U nucleus?;(a) 92;(b) 146;(c) 238;(d) 0;(d) 0,isotope
-1,1.0,Chadwick was awarded the Nobel prize in Physics in 1935 for his discovery of:;(a) electron;(b) proton;(c) neutron;(d) None of these;(c) neutron,neutrons
-2,2.0,The density of a nucleus is of the order of:;(a) 1015 kg m-3;(b) 1018 kg m-3;(c) 1017 kg m-3;(d) 1016 kg m-3;(c) 1017 kg m-3,
-3,3.0,Alpha particle emitted from a radioactive material are:;(a) Helium nuclei;(b) Hydrogen nuclei;(c) Lithium nuclei;(d) None of the above;(a) Helium nuclei,equivalent
-4,4.0,Rutherford is the unit of:;(a) radioactivity;(b) energy;(c) photoelectric current;(d) magnetic field;(a) radioactivity,factors
-5,5.0,An electron and a positron each having a mass equivalent to 0.53 MeV annihilate each other and produce a photon. The minimum energy of the photon is.;(a) 0.53 MeV;(b) 1.06 MeV;(c) 2.12 MeV;(d) zero;(b) 1.06 MeV,chadwick
-6,6.0,The wavelength of y-rays is of the order of:;(a) 10-8 m;(b) 10-5 m;(c) 10-11 m;(d) 10-22 m;(c) 10-11 m,enough
-7,7.0,Radius of 1st Bohr orbit is a0 (= 0.529 Å) What is the radius of 2nd Bohr orbit?;(a) 10-8;(b) 2a0;(c) 4a0;(d) 2√2a0;(c) 4a0,momentum
-8,8.0,The ground state energy of Hydrogen atom is -13.6 eV. What is the potential energy of electron in this state?;(a) 0 eV;(b) -13.6 eV;(c) 2 eV;(d) -27.2 eV;(d) -27.2 eV,nuclear
-9,9.0,Which of the following atoms has the lowest ionization potential?;(a) \(_{8}^{8}\)O;(b) \(_{7}^{14}\)N;(c) \(_{55}^{133}\)Cs;(d) \(_{18}^{40}\)Ar;(c) \(_{55}^{133}\)Cs,percentage
-10,10.0,The Bohr model of atom:;(a) assumes that the angular momentum of electron is quantized;(b) uses Einstein’s photoelectric equation;(c) predicts continuous emission spectra for atoms;(d) predicts the same emission spectra for all types of atoms;(a) assumes that the angular momentum of electron is quantized,contained
-11,11.0,X-ray was discovered by :;(a) Becqueral;(b) Marie curie;(c) Roengton;(d) Vanlaw;(c) Roengton,many
-12,12.0,Fusion takes place at high temperature because:;(a) Atom are ionised at high temperature;(b) Molecules break up at high temperature;(c) Nuclei break up at high temp.;(d) Kinetic energy is high enough to overcome repulsion between nuclei;(d) Kinetic energy is high enough to overcome repulsion between nuclei,depend
-13,13.0,The order of nuclear density is :;(a) 103;(b) 1017;(c) 106;(d) None;(b) 1017,number
-14,14.0,The isotope generally used for the treatment of cancer is:;(a) I131;(b) Hg197;(c) O15;(d) Co60;(d) Co60,ground
-15,15.0,What percentage of radioactive substance is left after 5 half lives?;(a) 3.125%;(b) 6.25%;(c) 12.33%;(d) 31%;(a) 3.125%,pressure
-16,16.0,Mass is converted into energy according to the relation:;(a) E = me²;(b) E = mgh;(c) E = \(\frac{3}{2}\)me²;(d) E = \(\frac{mgH}{c^2}\);(a) E = me²,minimum
-17,17.0,The helium atom does not contain;(a) two protons;(b) two electrons;(c) two neutrons;(d) six nucleons;(d) six nucleons,assumes
-18,18.0,The more readily fissionable isotope of uranium has an atomic mass of:;(a) 234;(b) 235;(c) 236;(d) 238;(b) 235,cancer
-19,19.0,Energy of electron in the 1st orbit of H-atom is:;(a) -13.6 MeV;(b) -13.6 eV;(c) -13.6 J;(d) 13.6 J;(b) -13.6 eV,
-20,20.0,The mass no. of a nucleus is M and its atomic no. is Z. The number of neutrons in the nucleus is :;(a) M – Z;(b) M;(c) Z;(d) M + Z;(a) M – Z,exothermic
-21,21.0,The phenomena of radioactivity is:;(a) Exothermic change with increase or decrease with temperature;(b) increases on applied pressure;(c) nuclear process does not depend on external factors;(d) None of these;(c) nuclear process does not depend on external factors,high
-22,,,left
-23,,,takes
-24,,,model
-25,,,temp
-26,,,proton
-27,,,nuclei
-28,,,potential
-29,,,none
-30,,,radius
-31,,,lithium
-32,,,marie
-33,,,types
-34,,,mgh
-35,,,substance
-36,,,annihilate
-37,,,discovery
-38,,,order
-39,,,radioactive
-40,,,discovered
-41,,,magnetic
-42,,,energy
-43,,,zero
-44,,,temperature
-45,,,xray
-47,,,spectra
-48,,,particle
-49,,,awarded
-50,,,fissionable
-51,,,break
-52,,,contain
-53,,,prize
-54,,,change
-55,,,six
-58,,,electron
-59,,,ionization
-60,,,overcome
-61,,,phenomena
-62,,,relation
-63,,,uranium
-64,,,atoms
-65,,,photoelectric
-66,,,half
-67,,,treatment
-68,,,predicts
-69,,,yrays
-70,,,place
-71,,,continuous
-72,,,lowest
-73,,,equation
-74,,,ionised
-75,,,increases
-76,,,photon
-77,,,atomic
-78,,,nucleus
-79,,,produce
-80,,,orbit
-82,,,two
-83,,,emission
-84,,,becqueral
-85,,,positron
-86,,,field
-87,,,density
-88,,,emitted
-89,,,hydrogen
-90,,,angular
-91,,,material
-92,,,external
-93,,,atom
-94,,,protons
-95,,,roengton
-96,,,mass
-97,,,converted
-98,,,radioactivity
-99,,,helium
-100,,,quantized
-102,,,state
-103,,,electrons
-104,,,einsteins
-105,,,fusion
-106,,,generally
-107,,,nucleons
-108,,,wavelength
-109,,,rutherford
-110,,,applied
-111,,,kinetic
-112,,,repulsion
-113,,,vanlaw
-114,,,neutron
-116,,,uses
-117,,,readily
-118,,,process
-119,,,following
-120,,,physics
-121,,,decrease
-122,,,hatom
-123,,,molecules
-124,,,unit
-125,,,mev
-126,,,nobel
-127,,,increase
-128,,,according
-129,,,current
-130,,,bohr
-131,,,curie
-132,,,alpha
-134,,,used
-135,,,lives
+,index,0,1,2,3,4,Answer,Words
+0,0.0,How many electrons are contained in \(_{92}^{238}\)U nucleus?,(a) 92,(b) 146,(c) 238,(d) 0,(d) 0,zero
+1,1.0,Chadwick was awarded the Nobel prize in Physics in 1935 for his discovery of:,(a) electron,(b) proton,(c) neutron,(d) None of these,(c) neutron,mass
+2,2.0,The density of a nucleus is of the order of:,(a) 1015 kg m-3,(b) 1018 kg m-3,(c) 1017 kg m-3,(d) 1016 kg m-3,(c) 1017 kg m-3,process
+3,3.0,"When the mass of a sample of a radioactive substance decreases, the mean life of the sample:",(a) increases,(b) decreases,(c) remain unchanged,(d) first decreases then increases,"(b) β, α, γ",lowest
+4,4.0,Alpha particle emitted from a radioactive material are:,(a) Helium nuclei,(b) Hydrogen nuclei,(c) Lithium nuclei,(d) None of the above,(a) Helium nuclei,treatment
+5,5.0,"The half life of a radioactive decay is n times its mean life, n is equal to:",(a) 0.6930,(b) 0.0693,(c) \(\frac{1}{0.6930}\),(d) 0.3070,(a) 0.6930,vanlaw
+6,6.0,Rutherford is the unit of:,(a) radioactivity,(b) energy,(c) photoelectric current,(d) magnetic field,(a) radioactivity,overcome
+7,7.0,"According to Yukawa’s theory of nuclear forces, the origin of nuclear force between nucleons is due to the exchange of",(a) mesons,(b) photons,(c) electrons,(d) positrons,(b) photons,mgh
+8,8.0,An electron and a positron each having a mass equivalent to 0.53 MeV annihilate each other and produce a photon. The minimum energy of the photon is.,(a) 0.53 MeV,(b) 1.06 MeV,(c) 2.12 MeV,(d) zero,(b) 1.06 MeV,readily
+9,9.0,The wavelength of y-rays is of the order of:,(a) 10-8 m,(b) 10-5 m,(c) 10-11 m,(d) 10-22 m,(c) 10-11 m,massnumber
+10,10.0,Radius of 1st Bohr orbit is a0 (= 0.529 Å) What is the radius of 2nd Bohr orbit?,(a) 10-8,(b) 2a0,(c) 4a0,(d) 2√2a0,(c) 4a0,product
+11,11.0,The ground state energy of Hydrogen atom is -13.6 eV. What is the potential energy of electron in this state?,(a) 0 eV,(b) -13.6 eV,(c) 2 eV,(d) -27.2 eV,(d) -27.2 eV,nobel
+12,12.0,Which of the following atoms has the lowest ionization potential?,(a) \(_{8}^{8}\)O,(b) \(_{7}^{14}\)N,(c) \(_{55}^{133}\)Cs,(d) \(_{18}^{40}\)Ar,(c) \(_{55}^{133}\)Cs,charge
+13,13.0,The Bohr model of atom:,(a) assumes that the angular momentum of electron is quantized,(b) uses Einstein’s photoelectric equation,(c) predicts continuous emission spectra for atoms,(d) predicts the same emission spectra for all types of atoms,(a) assumes that the angular momentum of electron is quantized,converted
+14,14.0,Nuclear force is:,"(a) strong, short range and charge independent force","(b) charge independent, attractive and long range force","(c) strong, charge dependent and short range attractive force","(d) long range, change dependent and attractive force","(a) strong, short range and charge independent force",angular
+15,15.0,"If radio active nuclei emits β-particle, then mass-number:",(a) increased by 1 unit,(b) decreases by 1 unit,(c) increases by 2 unit,(d) decreases by 2 unit,(a) increased by 1 unit,fissionable
+16,16.0,"An alpha particle is emitted from \(_{88}\)Ra\(^{226}\), then the product nuclei has:","(a) Z = 84, A = 224","(b) Z = 86, A = 224","(c) Z = 86, A = 222","(d) Z = 82, A = 222","(c) Z = 86, A = 222",emitted
+17,17.0,X-ray was discovered by :,(a) Becqueral,(b) Marie curie,(c) Roengton,(d) Vanlaw,(c) Roengton,increased
+18,18.0,Fusion takes place at high temperature because:,(a) Atom are ionised at high temperature,(b) Molecules break up at high temperature,(c) Nuclei break up at high temp.,(d) Kinetic energy is high enough to overcome repulsion between nuclei,(d) Kinetic energy is high enough to overcome repulsion between nuclei,used
+19,19.0,The order of nuclear density is :,(a) 103,(b) 1017,(c) 106,(d) None,(b) 1017,
+20,20.0,The isotope generally used for the treatment of cancer is:,(a) I131,(b) Hg197,(c) O15,(d) Co60,(d) Co60,ionised
+21,21.0,What percentage of radioactive substance is left after 5 half lives?,(a) 3.125%,(b) 6.25%,(c) 12.33%,(d) 31%,(a) 3.125%,one
+22,22.0,Mass is converted into energy according to the relation:,(a) E = me²,(b) E = mgh,(c) E = \(\frac{3}{2}\)me²,(d) E = \(\frac{mgH}{c^2}\),(a) E = me²,
+23,23.0,The helium atom does not contain,(a) two protons,(b) two electrons,(c) two neutrons,(d) six nucleons,(d) six nucleons,high
+24,24.0,The more readily fissionable isotope of uranium has an atomic mass of:,(a) 234,(b) 235,(c) 236,(d) 238,(b) 235,long
+25,25.0,Energy of electron in the 1st orbit of H-atom is:,(a) -13.6 MeV,(b) -13.6 eV,(c) -13.6 J,(d) 13.6 J,(b) -13.6 eV,take
+26,26.0,The mass no. of a nucleus is M and its atomic no. is Z. The number of neutrons in the nucleus is :,(a) M – Z,(b) M,(c) Z,(d) M + Z,(a) M – Z,origin
+27,27.0,The phenomena of radioactivity is:,(a) Exothermic change with increase or decrease with temperature,(b) increases on applied pressure,(c) nuclear process does not depend on external factors,(d) None of these,(c) nuclear process does not depend on external factors,yukawas
+28,28.0,"When one gm of mass is converted into energy, it is equal to:",(a) 103 kWh,(b)109 kWh,(c) 1010 kWh,(d) 1011 kWh,(a) 103 kWh,dependent
+29,,,,,,,,factor
+30,,,,,,,,nuclear
+31,,,,,,,,according
+32,,,,,,,,unit
+33,,,,,,,,temperature
+34,,,,,,,,momentum
+35,,,,,,,,ionization
+36,,,,,,,,nuclei
+37,,,,,,,,hatom
+38,,,,,,,,break
+39,,,,,,,,hydrogen
+40,,,,,,,,applied
+42,,,,,,,,substance
+43,,,,,,,,exchange
+44,,,,,,,,helium
+45,,,,,,,,mean
+46,,,,,,,,produce
+47,,,,,,,,current
+48,,,,,,,,radioactivity
+49,,,,,,,,radius
+50,,,,,,,,decrease
+51,,,,,,,,alpha
+52,,,,,,,,phenomenon
+53,,,,,,,,electron
+54,,,,,,,,half
+55,,,,,,,,enough
+56,,,,,,,,positron
+57,,,,,,,,orbit
+58,,,,,,,,left
+59,,,,,,,,assumes
+60,,,,,,,,emits
+61,,,,,,,,contained
+62,,,,,,,,kwh
+64,,,,,,,,photoelectric
+65,,,,,,,,minimum
+66,,,,,,,,continuous
+67,,,,,,,,predicts
+69,,,,,,,,independent
+70,,,,,,,,two
+71,,,,,,,,photon
+72,,,,,,,,radio
+73,,,,,,,,quantized
+74,,,,,,,,prize
+75,,,,,,,,equivalent
+77,,,,,,,,einsteins
+78,,,,,,,,spectrum
+79,,,,,,,,emission
+80,,,,,,,,relation
+81,,,,,,,,place
+83,,,,,,,,ground
+84,,,,,,,,curie
+85,,,,,,,,yrays
+86,,,,,,,,uranium
+87,,,,,,,,time
+88,,,,,,,,temp
+89,,,,,,,,nucleus
+90,,,,,,,,discovery
+91,,,,,,,,equal
+93,,,,,,,,six
+94,,,,,,,,proton
+95,,,,,,,,unchanged
+96,,,,,,,,exothermic
+97,,,,,,,,lithium
+98,,,,,,,,decay
+99,,,,,,,,following
+100,,,,,,,,neutron
+101,,,,,,,,life
+102,,,,,,,,particle
+103,,,,,,,,marie
+104,,,,,,,,attractive
+105,,,,,,,,cancer
+106,,,,,,,,depend
+107,,,,,,,,pressure
+108,,,,,,,,order
+109,,,,,,,,wavelength
+110,,,,,,,,field
+111,,,,,,,,potential
+112,,,,,,,,discovered
+113,,,,,,,,active
+114,,,,,,,,theory
+115,,,,,,,,contain
+116,,,,,,,,energy
+117,,,,,,,,repulsion
+118,,,,,,,,atomic
+119,,,,,,,,increase
+120,,,,,,,,range
+121,,,,,,,,force
+122,,,,,,,,meson
+123,,,,,,,,atom
+124,,,,,,,,radioactive
+126,,,,,,,,magnetic
+127,,,,,,,,annihilate
+128,,,,,,,,kinetic
+129,,,,,,,,model
+130,,,,,,,,state
+131,,,,,,,,mev
+132,,,,,,,,roengton
+133,,,,,,,,material
+134,,,,,,,,many
+135,,,,,,,,percentage
+136,,,,,,,,number
+137,,,,,,,,bohr
+138,,,,,,,,none
+139,,,,,,,,physics
+140,,,,,,,,molecules
+141,,,,,,,,change
+142,,,,,,,,type
+143,,,,,,,,first
+144,,,,,,,,isotope
+145,,,,,,,,external
+146,,,,,,,,density
+147,,,,,,,,equation
+148,,,,,,,,short
+149,,,,,,,,generally
+150,,,,,,,,strong
+151,,,,,,,,due
+152,,,,,,,,awarded
+156,,,,,,,,sample
+157,,,,,,,,nucleon
+158,,,,,,,,remain
+159,,,,,,,,becqueral

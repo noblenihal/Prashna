@@ -16,6 +16,9 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import re
 import string
+from nltk.stem import WordNetLemmatizer
+ 
+lemmatizer = WordNetLemmatizer()
 
 
 
@@ -24,9 +27,10 @@ stop_words = set(stopwords.words('english'))
 path = 'D:\\SIH\\Prashna\\Cleaned_Data\\Data_Chem'
 filelist = glob.glob(path + "\\*.csv")
 for file in filelist:
-    df = pd.read_csv(file, error_bad_lines=False)
+    print(file)  
+    df = pd.read_csv(file, sep=';')
     
-    pf=df.iloc[:,0].tolist()
+    pf=df.values.tolist()
 
     dff=[]
     for line in pf:
@@ -35,7 +39,7 @@ for file in filelist:
 
     
     final=pd.DataFrame(data=dff, index=None, columns=['A'])
-    df.head()
+    
 
 
     # filteredtext1 = []
@@ -80,17 +84,19 @@ for file in filelist:
       txt=re.sub(r"[^a-zA-Z]","",txt)
       if txt.lower() not in stop_words:
         if(txt!=""):
+          txt=lemmatizer.lemmatize(txt)      
           cleanfiltered.append(txt.lower().strip())
 
        
 #REMOVING DUPLICATES
+   
     cleanfiltered[:]=list(set(cleanfiltered))
-    print(cleanfiltered)
+    print(len(cleanfiltered))
     
 #SAVING DATA TO CSV
     tr=pd.DataFrame(data=cleanfiltered, index=None, columns=['Words'])
     tr=tr[(tr.Words.astype(str).str.len()>2)]
 
     df = pd.concat([df.reset_index(), tr], axis=1)
-
+    #print(df.Words)
     df.to_csv(file.rstrip(".csv")+"_cleaned"+".csv")

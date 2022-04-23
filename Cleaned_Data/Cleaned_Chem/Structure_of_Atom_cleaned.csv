@@ -1,118 +1,303 @@
-,level_0,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_8,level_9,level_10,level_11,level_12,level_13,level_14,0;1;2;3;4;Answer,Words
-0,The increasing order (lowest first) for the values of e/m (charge/mass) for;(a) e, p, n, α;(b) n, p, e, α;(c) n, p, α, e;(d) n, α, p," e;""(d) n", α, p, e,
-1,Explanation:,,,,,,,,,,,,,,,,nan
-2,(i) (e/m) for (i) neutron = (\(\frac{0}{1}\)) = 0,,,,,,,,,,,,,,,,
-3,(ii) α− particle = (\(\frac{2}{4}\)) = 0.5,,,,,,,,,,,,,,,,
-4,(iii) Proton = (\(\frac{1}{1}\)) = 1,,,,,,,,,,,,,,,,
-5,"(iv) electron = (\(\frac{1}{1837}\)) = 1837.""",,,,,,,,,,,,,,,,
-6,"The ionization enthalpy of hydrogen atom is 1.312 × 106 J mol-1. The energy required to excite the electron in the atom from n = 1 to n = 2 is;(a) 8.51 × 105 J mol-1;(b) 6.56 × 105 J mol-1;(c) 7.56 × 105 J mol-1;(d) 9.84 × 105 J mol-1;""(d) 9.84 × 105 J mol-1",,,,,,,,,,,,,,,,
-7,Explanation:,,,,,,,,,,,,,,,,
-8,Energy required when an electron makes transition from n = 1 to n = 2,,,,,,,,,,,,,,,,
-9,E2=−(1.312 × 106 × (1)²)/(2²),,,,,,,,,,,,,,,,
-10,= −3.28 × 105 J mol-1,,,,,,,,,,,,,,,,
-11,E1 = −1.312 × 106 J mol-1,,,,,,,,,,,,,,,,
-12,ΔE = E2 − E1,,,,,,,,,,,,,,,,
-13,=−3.28 × 105−(−13.2 × 106),,,,,,,,,,,,,,,,
-14,"ΔE = 9.84×105 J mol-1""",,,,,,,,,,,,,,,,
-15,or a given principal level n = 4," the energy of its subshells is in the order;(a) s < p < d < f;(b) s > p > d > f;(c) s < p < f < d;(d) f < p < d < s;""(a) s < p < d < f",,,,,,,,,,,,,,,
-16,Explanation:,,,,,,,,,,,,,,,,
-17,Order of energy is:,,,,,,,,,,,,,,,,
-18,s < p < d < f,,,,,,,,,,,,,,,,
-19,"
-A gas absorbs a photon of 355 nm and emits at two wavelengths. If one of the emissions is at 680 nm, the other is at:;(a) 518 nm;(b) 1035 nm;(c) 325 nm;(d) 743 nm;(d) 743 nm",,,,,,,,,,,,,,,,
-20,Explanation:,,,,,,,,,,,,,,,,
-21,From Law of Conservation of energy, energy of absorbed photon must be equal to combined energy of two emitted photons.,,,,,,,,,,,,,,,
-22,ET = E1 + E2 ….. (1),,,,,,,,,,,,,,,,
-23,Where E1 is Energy of first emitted photon emitted and E2is Energy of second emitted photon.,,,,,,,,,,,,,,,,
-24,Energy E and wavelength λ of a photon are related by the equation,,,,,,,,,,,,,,,,
-25,E= (hc)/ (λ)….. (2),,,,,,,,,,,,,,,,
-26,Where Plancks constant = h, c is velocity of light.,,,,,,,,,,,,,,,
-27,Substituting the values from (2) in (1) we get,,,,,,,,,,,,,,,,
-28,(hc/λT) = (hc)/ (λ1) + (hc)/ (λ2),,,,,,,,,,,,,,,,
-29,Or (\(\frac{1}{λ_T}\)) = (\(\frac{1}{λ_1}\)) + (\(\frac{1}{λ_2}\)) …… (3),,,,,,,,,,,,,,,,
-30,Substituting given values in (3) we get,,,,,,,,,,,,,,,,
-31,(\(\frac{1}{355}\)) = (\(\frac{1}{680}\)) + (\(\frac{1}{λ_2}\)),,,,,,,,,,,,,,,,
-32,Or \(\frac{(1)}{(λ_T)}\) = (\(\frac{1}{355}\)) − (\(\frac{1}{680}\)),,,,,,,,,,,,,,,,
-33,⇒ (\(\frac{1}{λ_2}\)) = (680 − 355)/ (355 × 680),,,,,,,,,,,,,,,,
-34,"⇒ λ2 = 742.77nm""",,,,,,,,,,,,,,,,
-35,Which of the following statements in relation to the hydrogen atom is correct?;(a) 3s orbital is lower in energy than 3p orbital;(b) 3p orbital is lower in energy than 3d orbital;(c) 3s and 3p orbitals are of lower energy than 3d orbital;(d) 3s," 3p and 3d orbitals all have the same energy;""(d) 3s", 3p and 3d orbitals all have the same energy,,,,,,,,,,,,,,
-36,Explanation:,,,,,,,,,,,,,,,,
-37,A hydrogen atom has 1st configuration and these its," 3p and 3d orbitals will have same energy wrt 1s orbital.""",,,,,,,,,,,,,,,
-38,"The magnetic quantum number specifies;(a) Size of orbitals;(b) Shape of orbitals;(c) Orientation of orbitals;(d) Nuclear Stability;""(c) Orientation of orbitals",,,,,,,,,,,,,,,,
-39,Explanation:,,,,,,,,,,,,,,,,
-40,"The magnetic quantum number specifies orientation of orbitals.""",,,,,,,,,,,,,,,,
-41,"The electronic configuration of silver atom in ground state is;(a) [Kr]3d104s1;(b) [Xe]4f145d106s1;(c) [Kr]4d105s1;(d) [Kr]4d95s2;""(c) [Kr]4d105s1",,,,,,,,,,,,,,,,
-42,Explanation:,,,,,,,,,,,,,,,,
-43,"The electronic configuration of Ag in ground state is [Kr]4d105s1""",,,,,,,,,,,,,,,,
-44,"Which of the following element has least number of electrons in its M-shell?;(a) K;(b) Mn;(c) Ni;(d) Sc;""(a) K",,,,,,,,,,,,,,,,
-45,Explanation:,,,,,,,,,,,,,,,,
-46,K = 19 = 1s²2s22p63s23p6s1,,,,,,,,,,,,,,,,
-47,3s23p6 = m-shell,,,,,,,,,,,,,,,,
-48,"= k has only 8 electrons in M shell""",,,,,,,,,,,,,,,,
-49,Explanation:,,,,,,,,,,,,,,,,
-50,Isoelectronic species are those which have same number of electrons.,,,,,,,,,,,,,,,,
-51,K+ = 19 – 1 = 18; Ca2+ = 20 – 2 = 18; Sc3+ = 21 – 3 = 18; Cl– = 17 + 1 = 18,,,,,,,,,,,,,,,,
-52,"Thus all these ions have 18 electrons in them.""",,,,,,,,,,,,,,,,
-53,In the ground state," an element has 13 electrons in its M-shell. The element is_____.;(a) Copper;(b) Chromium;(c) Nickel;(d) Iron;""(b) Chromium",,,,,,,,,,,,,,,
-54,Explanation:,,,,,,,,,,,,,,,,
-55,M shell means it is third shell ⇒ n = 3,,,,,,,,,,,,,,,,
-56,Number of electrons in M shell = 13,,,,,,,,,,,,,,,,
-57,⇒ 3s23p63d5,,,,,,,,,,,,,,,,
-58,The electronic configuration is: (1s2) (2s2 2p6) (3s2 3p6 3d5) (4s1),,,,,,,,,,,,,,,,
-59,"The element is chromium is Cr.""",,,,,,,,,,,,,,,,
-60,"The electrons of the same orbitals can be distinguished by;(a) Principal quantum number;(b) Azimuthal quantum number;(c) Spin quantum number;(d) Magnetic quantum number;""(c) Spin quantum number",,,,,,,,,,,,,,,,
-61,Explanation:,,,,,,,,,,,,,,,,
-62,Electrons occupying the same orbital are distinguished by Spin quantum number.,,,,,,,,,,,,,,,,
-63,For spin Quantum number it has two values +1/2 or -1/2,,,,,,,,,,,,,,,,
-64,Hence the value of n, l , m are same for the two electrons occupying in the same orbitals, but only the is different, which is,,,,,,,,,,,,
-65,Therefore, Spin quantum number explains the direction through which the electron spins in an orbital. so obviously there are only 2 possible directions. Which is either clockwise or anticlockwise.,,,,,,,,,,,,,,,
-66,So the electron which are available in the same orbitals," must have opposite spins. Hence spin quantum number distinguished b/w the two electrons.""",,,,,,,,,,,,,,,
-67,Consider the ground state of Cr atom (Z = 24). The numbers of electrons with the azimuthal quantum numbers, l = 1 and 2 are," respectively:;(a) 12 and 4;(b) 12 and 5;(c) 16 and 4;(d) 16 and 5;""(b) 12 and 5",,,,,,,,,,,,,,
-68,Explanation:,,,,,,,,,,,,,,,,
-69,24Cr → 1s2 2s22p6 3s2 3p6 3d5 4s1,,,,,,,,,,,,,,,,
-70,As we know for p, l = 1 and d, l = 2,,,,,,,,,,,,,,
-71,For l = 1, total number of electrons = 12 [2p6 and 3p6],,,,,,,,,,,,,,,
-72,For l = 2," total number of electrons = 5 [3d5]""",,,,,,,,,,,,,,,
-73,"A body of mass 10 mg is moving with a velocity of 100 ms-1. The wavelength of de-Broglie wave associated with it would be (Note: h = 6.63 × 10-34 Js);(a) 6.63 × 10-37 m;(b) 6.63 × 10-31 m;(c) 6.63 × 10-34 m;(d) 6.63 × 10-35 m;""(b) 6.63 × 10-31 m",,,,,,,,,,,,,,,,
-74,Explanation:,,,,,,,,,,,,,,,,
-75,m = 10 mg,,,,,,,,,,,,,,,,
-76,= 10 × 10-6 kg,,,,,,,,,,,,,,,,
-77,v = 100 ms-1,,,,,,,,,,,,,,,,
-78,λ = \(\frac {(h)}{(mv)}\),,,,,,,,,,,,,,,,
-79,= (6.63×10-34)/ (10 × 10-6 × 100),,,,,,,,,,,,,,,,
-80,"= 6.63 × 10-31 m""",,,,,,,,,,,,,,,,
-81,"The ionization enthalpy of hydrogen atom is 1.312 × 106 J mol-1. The energy required to excite the electron in the atom from n = 1 to n = 2 is;(a) 8.51 × 105 J mol-1;(b) 6.56 × 105 J mol-1;(c) 7.56 × 105 J mol-1;(d) 9.84 × 105 J mol-1;""(d) 9.84 × 105 J mol-1",,,,,,,,,,,,,,,,
-82,Explanation:,,,,,,,,,,,,,,,,
-83,Energy required when an electron makes transition from n = 1 to n = 2,,,,,,,,,,,,,,,,
-84,E2 = −(1.312 × 106 × (1)²)/(2²),,,,,,,,,,,,,,,,
-85,= −3.28 × 105 J mol-1,,,,,,,,,,,,,,,,
-86,E1 = −1.312 × 106 J mol-1,,,,,,,,,,,,,,,,
-87,ΔE = E2 − E1,,,,,,,,,,,,,,,,
-88,= −3.28 × 105−(−13.2 × 106),,,,,,,,,,,,,,,,
-89,"ΔE = 9.84 × 105 J mol-1""",,,,,,,,,,,,,,,,
-90,In Hydrogen atom," energy of first excited state is – 3.4 eV. Then find out KE of same orbit of Hydrogen atom;(a) 3.4 eV;(b) 6.8 eV;(c) -13.6 eV;(d) +13.6 eV;""(a) 3.4 eV",,,,,,,,,,,,,,,
-91,Explanation:,,,,,,,,,,,,,,,,
-92,For hydrogen atom,,,,,,,,,,,,,,,,
-93,The kinetic energy is equal to the negative of the total energy.,,,,,,,,,,,,,,,,
-94,And the potential energy is equal to the twice of the total energy.,,,,,,,,,,,,,,,,
-95,The first excited state energy of orbital = -3.4 eV,,,,,,,,,,,,,,,,
-96,and The kinetic energy of same orbital = -(-3.4 eV) = 3.4 eV,,,,,,,,,,,,,,,,
-97,Therefore," the kinetic energy of same orbit of hydrogen atom is 3.4 eV.""",,,,,,,,,,,,,,,
-98,Which of the following sets of quantum numbers represents the highest energy of an atom?;(a) n = 3, l = 0, m = 0, s = + \(\frac {1}{2}\);(b) n = 3, l = 1, m = 1, s = + \(\frac {1}{2}\);(c) n = 3, l = 2, m = 1, s = + \(\frac {1}{2}\);(d) n = 4, l = 0, m = 0," s = + \(\frac {1}{2}\);""(c) n = 3", l = 2, m = 1, s = + \(\frac {1}{2}\),
-99,Explanation:,,,,,,,,,,,,,,,,
-100,n = 3, l = 0 represents 3s orbital n = 3, l = 1 represents 3p orbital n = 3, l = 2 represents 3d orbital n = 4," l = 0 represents 4s orbital The order of increasing energy of the orbitals is 3s < 3p < 4s < 3d.""",,,,,,,,,,,,
-101,In the Bohrs model of the hydrogen atom," the ratio of the kinetic energy to the total energy of the electron in a quantum state n is:;(a) 1;(b) 2;(c) -1;(d) -2;""(c) -1",,,,,,,,,,,,,,,
-102,Explanation:,,,,,,,,,,,,,,,,
-103,As we know, in Bohr model KE of an electron in an orbit = + (\(\frac {1}{2}\)) (\(\frac {e^2}{r_n}\)),,,,,,,,,,,,,,,
-104,Total energy of electron in an orbit = -(\(\frac {e^2}{2r_n}\)),,,,,,,,,,,,,,,,
-105,Therefore," \(\frac {(KE)}{(TE)}\) = -1""",,,,,,,,,,,,,,,
-106,"Which of the following statements does not form a part of Bohrs model of hydrogen atom?;(a) Energy of the electrons in the orbit is quantised;(b) The electron in the orbit nearest the nucleus has the lowest energy;(c) Electrons revolve in different orbits around the nucleus;(d) The position and velocity of the electrons in the orbit cannot be determined simultaneously;""(d) The position and velocity of the electrons in the orbit cannot be determined simultaneously",,,,,,,,,,,,,,,,
-107,Explanation:,,,,,,,,,,,,,,,,
-108,"The position and velocity of electrons cannot be determined simultaneously does not fit in with the Bohrs model of H atom. It is a part of Heisenbergs uncertainty principle""",,,,,,,,,,,,,,,,
-109,Which of the following statements in relation to the hydrogen atom is correct?;(a) 3s orbital is lower in energy than 3p orbital;(b) 3p orbital is lower in energy than 3d orbital;(c) 3s and 3p orbitals are of lower energy than 3d orbital;(d) 3s," 3p and 3d orbitals all have the same energy;""(d) 3s", 3p and 3d orbitals all have the same energy,,,,,,,,,,,,,,
-110,Explanation:,,,,,,,,,,,,,,,,
-111,A hydrogen atom has 1s1 configuration and these its," 3p and 3d orbitals will have same energy wrt 1s orbital.""",,,,,,,,,,,,,,,
-112,A sub-shell with n = 6 ," l = 2 can accommodate a maximum of;(a) 12 electrons;(b) 36 electrons;(c) 10 electrons;(d) 72 electrons;""(c) 10 electrons",,,,,,,,,,,,,,,
-113,Explanation:,,,,,,,,,,,,,,,,
-114,n = 6, ℓ = 2 means 6d → will have 5 orbitals.,,,,,,,,,,,,,,,
-115,"Therefore max 10 electrons can be accommodated as each orbital can have maximum of 2 electrons.""",,,,,,,,,,,,,,,,
+,index,0,1,2,3,4,Answer,Words
+0,0.0,The increasing order (lowest first) for the values of e/m (charge/mass) for,"(a) e, p, n, α","(b) n, p, e, α","(c) n, p, α, e","(d) n, α, p, e","(d) n, α, p, e
+Explanation:
+(i) (e/m) for (i) neutron = (\(\frac{0}{1}\)) = 0
+(ii) α− particle = (\(\frac{2}{4}\)) = 0.5
+(iii) Proton = (\(\frac{1}{1}\)) = 1
+(iv) electron = (\(\frac{1}{1837}\)) = 1837.",photonnenergy
+1,1.0,The ionization enthalpy of hydrogen atom is 1.312 × 106 J mol-1. The energy required to excite the electron in the atom from n = 1 to n = 2 is,(a) 8.51 × 105 J mol-1,(b) 6.56 × 105 J mol-1,(c) 7.56 × 105 J mol-1,(d) 9.84 × 105 J mol-1,"(d) 9.84 × 105 J mol-1
+Explanation:
+Energy required when an electron makes transition from n = 1 to n = 2
+E2=−(1.312 × 106 × (1)²)/(2²)
+= −3.28 × 105 J mol-1
+E1 = −1.312 × 106 J mol-1
+ΔE = E2 − E1
+=−3.28 × 105−(−13.2 × 106)
+ΔE = 9.84×105 J mol-1",third
+2,2.0,"or a given principal level n = 4, the energy of its subshells is in the order",(a) s < p < d < f,(b) s > p > d > f,(c) s < p < f < d,(d) f < p < d < s,"(a) s < p < d < f
+Explanation:
+Order of energy is:
+s < p < d < f
+",transition
+3,3.0,"A gas absorbs a photon of 355 nm and emits at two wavelengths. If one of the emissions is at 680 nm, the other is at:",(a) 518 nm,(b) 1035 nm,(c) 325 nm,(d) 743 nm,"(d) 743 nm
+Explanation:
+From Law of Conservation of energy, energy of absorbed photon must be equal to combined energy of two emitted photons.
+ET = E1 + E2 ….. (1)
+Where E1 is Energy of first emitted photon emitted and E2is Energy of second emitted photon.
+Energy E and wavelength λ of a photon are related by the equation
+E= (hc)/ (λ)….. (2)
+Where Plancks constant = h, c is velocity of light.
+Substituting the values from (2) in (1) we get
+(hc/λT) = (hc)/ (λ1) + (hc)/ (λ2)
+Or (\(\frac{1}{λ_T}\)) = (\(\frac{1}{λ_1}\)) + (\(\frac{1}{λ_2}\)) …… (3)
+Substituting given values in (3) we get
+(\(\frac{1}{355}\)) = (\(\frac{1}{680}\)) + (\(\frac{1}{λ_2}\))
+Or \(\frac{(1)}{(λ_T)}\) = (\(\frac{1}{355}\)) − (\(\frac{1}{680}\))
+⇒ (\(\frac{1}{λ_2}\)) = (680 − 355)/ (355 × 680)
+⇒ λ2 = 742.77nm",orientation
+4,4.0,Which of the following statements in relation to the hydrogen atom is correct?,(a) 3s orbital is lower in energy than 3p orbital,(b) 3p orbital is lower in energy than 3d orbital,(c) 3s and 3p orbitals are of lower energy than 3d orbital,"(d) 3s, 3p and 3d orbitals all have the same energy","(d) 3s, 3p and 3d orbitals all have the same energy
+Explanation:
+A hydrogen atom has 1st configuration and these its, 3p and 3d orbitals will have same energy wrt 1s orbital.",
+5,5.0,The magnetic quantum number specifies,(a) Size of orbitals,(b) Shape of orbitals,(c) Orientation of orbitals,(d) Nuclear Stability,"(c) Orientation of orbitals
+Explanation:
+The magnetic quantum number specifies orientation of orbitals.",obviously
+6,6.0,The electronic configuration of silver atom in ground state is,(a) [Kr]3d104s1,(b) [Xe]4f145d106s1,(c) [Kr]4d105s1,(d) [Kr]4d95s2,"(c) [Kr]4d105s1
+Explanation:
+The electronic configuration of Ag in ground state is [Kr]4d105s1",available
+7,7.0,Which of the following element has least number of electrons in its M-shell?,(a) K,(b) Mn,(c) Ni,(d) Sc,"(a) K
+Explanation:
+K = 19 = 1s²2s22p63s23p6s1
+3s23p6 = m-shell
+= k has only 8 electrons in M shell",mgn
+8,8.0,"Which one of the following sets of ions represents a collection of isoelectronic species? (Atomic nos.: F = 9, Cl = 17, Na = 11, Mg = 12, Al = 13, K = 19, Ca = 20, Sc = 21)","(a) K+, Ca2+, Sc3+, Cl–","(b) Na+, Ca2+ , Sc3+, F–","(c) K+, Cl–, Mg2+, Sc3+","(d) Na+, Mg2+, Al3+, Cl–","(a) K+, Ca2+, Sc3+, Cl–
+Explanation:
+Isoelectronic species are those which have same number of electrons.
+K+ = 19 – 1 = 18; Ca2+ = 20 – 2 = 18; Sc3+ = 21 – 3 = 18; Cl– = 17 + 1 = 18
+Thus all these ions have 18 electrons in them.",simultaneously
+9,9.0,"In the ground state, an element has 13 electrons in its M-shell. The element is_____.",(a) Copper,(b) Chromium,(c) Nickel,(d) Iron,"(b) Chromium
+Explanation:
+M shell means it is third shell ⇒ n = 3
+Number of electrons in M shell = 13
+⇒ 3s23p63d5
+The electronic configuration is: (1s2) (2s2 2p6) (3s2 3p6 3d5) (4s1)
+The element is chromium is Cr.",mass
+10,10.0,The electrons of the same orbitals can be distinguished by,(a) Principal quantum number,(b) Azimuthal quantum number,(c) Spin quantum number,(d) Magnetic quantum number,"(c) Spin quantum number
+Explanation:
+Electrons occupying the same orbital are distinguished by Spin quantum number.
+For spin Quantum number it has two values +1/2 or -1/2,
+Hence the value of n, l , m are same for the two electrons occupying in the same orbitals, but only the is different, which is
+Therefore, Spin quantum number explains the direction through which the electron spins in an orbital. so obviously there are only 2 possible directions. Which is either clockwise or anticlockwise.
+So the electron which are available in the same orbitals, must have opposite spins. Hence spin quantum number distinguished b/w the two electrons.",size
+11,11.0,"Consider the ground state of Cr atom (Z = 24). The numbers of electrons with the azimuthal quantum numbers, l = 1 and 2 are, respectively:",(a) 12 and 4,(b) 12 and 5,(c) 16 and 4,(d) 16 and 5,"(b) 12 and 5
+Explanation:
+24Cr → 1s2 2s22p6 3s2 3p6 3d5 4s1
+As we know for p, l = 1 and d, l = 2
+For l = 1, total number of electrons = 12 [2p6 and 3p6]
+For l = 2, total number of electrons = 5 [3d5]",opposite
+12,12.0,A body of mass 10 mg is moving with a velocity of 100 ms-1. The wavelength of de-Broglie wave associated with it would be (Note: h = 6.63 × 10-34 Js),(a) 6.63 × 10-37 m,(b) 6.63 × 10-31 m,(c) 6.63 × 10-34 m,(d) 6.63 × 10-35 m,"(b) 6.63 × 10-31 m
+Explanation:
+m = 10 mg
+= 10 × 10-6 kg
+v = 100 ms-1
+λ = \(\frac {(h)}{(mv)}\)
+= (6.63×10-34)/ (10 × 10-6 × 100)
+= 6.63 × 10-31 m",
+13,13.0,The ionization enthalpy of hydrogen atom is 1.312 × 106 J mol-1. The energy required to excite the electron in the atom from n = 1 to n = 2 is,(a) 8.51 × 105 J mol-1,(b) 6.56 × 105 J mol-1,(c) 7.56 × 105 J mol-1,(d) 9.84 × 105 J mol-1,"(d) 9.84 × 105 J mol-1
+Explanation:
+Energy required when an electron makes transition from n = 1 to n = 2
+E2 = −(1.312 × 106 × (1)²)/(2²)
+= −3.28 × 105 J mol-1
+E1 = −1.312 × 106 J mol-1
+ΔE = E2 − E1
+= −3.28 × 105−(−13.2 × 106)
+ΔE = 9.84 × 105 J mol-1",
+14,14.0,"In Hydrogen atom, energy of first excited state is – 3.4 eV. Then find out KE of same orbit of Hydrogen atom",(a) 3.4 eV,(b) 6.8 eV,(c) -13.6 eV,(d) +13.6 eV,"(a) 3.4 eV
+Explanation:
+For hydrogen atom,
+The kinetic energy is equal to the negative of the total energy.
+And the potential energy is equal to the twice of the total energy.
+The first excited state energy of orbital = -3.4 eV
+and The kinetic energy of same orbital = -(-3.4 eV) = 3.4 eV
+Therefore, the kinetic energy of same orbit of hydrogen atom is 3.4 eV.",orbitals
+15,15.0,Which of the following sets of quantum numbers represents the highest energy of an atom?,"(a) n = 3, l = 0, m = 0, s = + \(\frac {1}{2}\)","(b) n = 3, l = 1, m = 1, s = + \(\frac {1}{2}\)","(c) n = 3, l = 2, m = 1, s = + \(\frac {1}{2}\)","(d) n = 4, l = 0, m = 0, s = + \(\frac {1}{2}\)","(c) n = 3, l = 2, m = 1, s = + \(\frac {1}{2}\)
+Explanation:
+n = 3, l = 0 represents 3s orbital n = 3, l = 1 represents 3p orbital n = 3, l = 2 represents 3d orbital n = 4, l = 0 represents 4s orbital The order of increasing energy of the orbitals is 3s < 3p < 4s < 3d.",energy
+16,16.0,"In the Bohrs model of the hydrogen atom, the ratio of the kinetic energy to the total energy of the electron in a quantum state n is:",(a) 1,(b) 2,(c) -1,(d) -2,"(c) -1
+Explanation:
+As we know, in Bohr model KE of an electron in an orbit = + (\(\frac {1}{2}\)) (\(\frac {e^2}{r_n}\))
+Total energy of electron in an orbit = -(\(\frac {e^2}{2r_n}\))
+Therefore, \(\frac {(KE)}{(TE)}\) = -1",either
+17,17.0,Which of the following statements does not form a part of Bohrs model of hydrogen atom?,(a) Energy of the electrons in the orbit is quantised,(b) The electron in the orbit nearest the nucleus has the lowest energy,(c) Electrons revolve in different orbits around the nucleus,(d) The position and velocity of the electrons in the orbit cannot be determined simultaneously,"(d) The position and velocity of the electrons in the orbit cannot be determined simultaneously
+Explanation:
+The position and velocity of electrons cannot be determined simultaneously does not fit in with the Bohrs model of H atom. It is a part of Heisenbergs uncertainty principle",getnhct
+18,18.0,Which of the following statements in relation to the hydrogen atom is correct?,(a) 3s orbital is lower in energy than 3p orbital,(b) 3p orbital is lower in energy than 3d orbital,(c) 3s and 3p orbitals are of lower energy than 3d orbital,"(d) 3s, 3p and 3d orbitals all have the same energy","(d) 3s, 3p and 3d orbitals all have the same energy
+Explanation:
+A hydrogen atom has 1s1 configuration and these its, 3p and 3d orbitals will have same energy wrt 1s orbital.",excite
+19,19.0,"A sub-shell with n = 6 , l = 2 can accommodate a maximum of",(a) 12 electrons,(b) 36 electrons,(c) 10 electrons,(d) 72 electrons,"(c) 10 electrons
+Explanation:
+n = 6, ℓ = 2 means 6d → will have 5 orbitals.
+Therefore max 10 electrons can be accommodated as each orbital can have maximum of 2 electrons.",orbit
+20,,,,,,,,frac
+21,,,,,,,,least
+23,,,,,,,,different
+25,,,,,,,,electronsnexplanationnn
+26,,,,,,,,principle
+27,,,,,,,,isntherefore
+28,,,,,,,,occupying
+29,,,,,,,,nhence
+30,,,,,,,,second
+32,,,,,,,,find
+33,,,,,,,,mean
+34,,,,,,,,value
+37,,,,,,,,represents
+38,,,,,,,,element
+39,,,,,,,,level
+40,,,,,,,,max
+41,,,,,,,,accommodated
+42,,,,,,,,part
+43,,,,,,,,would
+45,,,,,,,,stability
+46,,,,,,,,conservation
+47,,,,,,,,nmnexplanationnfrom
+48,,,,,,,,ground
+49,,,,,,,,spin
+50,,,,,,,,absorbs
+51,,,,,,,,anticlockwisenso
+53,,,,,,,,determined
+54,,,,,,,,lightnsubstituting
+55,,,,,,,,model
+56,,,,,,,,fnexplanationnorder
+57,,,,,,,,position
+58,,,,,,,,hence
+59,,,,,,,,mshell
+60,,,,,,,,increasing
+61,,,,,,,,quantum
+62,,,,,,,,wave
+64,,,,,,,,mnexplanationnm
+65,,,,,,,,mvn
+66,,,,,,,,electronsnk
+68,,,,,,,,photonsnet
+69,,,,,,,,set
+70,,,,,,,,body
+71,,,,,,,,potential
+72,,,,,,,,evntherefore
+74,,,,,,,,nucleus
+75,,,,,,,,maximum
+76,,,,,,,,specifies
+78,,,,,,,,moving
+79,,,,,,,,negative
+80,,,,,,,,kete
+81,,,,,,,,chromiumnexplanationnm
+82,,,,,,,,atomnthe
+83,,,,,,,,uncertainty
+84,,,,,,,,correct
+86,,,,,,,,statement
+87,,,,,,,,order
+88,,,,,,,,debroglie
+89,,,,,,,,shell
+90,,,,,,,,ernntotal
+91,,,,,,,,shape
+93,,,,,,,,orbitalsntherefore
+94,,,,,,,,nexplanationnn
+96,,,,,,,,azimuthal
+97,,,,,,,,constant
+99,,,,,,,,know
+100,,,,,,,,enexplanationn
+101,,,,,,,,getnfrac
+102,,,,,,,,iron
+104,,,,,,,,plancks
+105,,,,,,,,energynexplanationna
+106,,,,,,,,fracnor
+108,,,,,,,,emitted
+109,,,,,,,,must
+110,,,,,,,,revolve
+111,,,,,,,,evnexplanationnfor
+112,,,,,,,,combined
+113,,,,,,,,note
+114,,,,,,,,respectively
+115,,,,,,,,nfor
+116,,,,,,,,proton
+117,,,,,,,,given
+118,,,,,,,,explains
+119,,,,,,,,niv
+120,,,,,,,,ernntherefore
+121,,,,,,,,principal
+122,,,,,,,,accommodate
+123,,,,,,,,molnexplanationnenergy
+125,,,,,,,,mol
+126,,,,,,,,electron
+127,,,,,,,,atom
+128,,,,,,,,bohr
+129,,,,,,,,copper
+130,,,,,,,,possible
+131,,,,,,,,specie
+132,,,,,,,,cannot
+133,,,,,,,,evnand
+134,,,,,,,,molne
+135,,,,,,,,velocity
+136,,,,,,,,nii
+138,,,,,,,,silver
+139,,,,,,,,bohrs
+140,,,,,,,,nexplanationnas
+141,,,,,,,,mshelln
+142,,,,,,,,snas
+143,,,,,,,,heisenbergs
+144,,,,,,,,related
+145,,,,,,,,required
+147,,,,,,,,relation
+148,,,,,,,,knexplanationnk
+149,,,,,,,,around
+150,,,,,,,,law
+151,,,,,,,,electronic
+152,,,,,,,,isoelectronic
+154,,,,,,,,equal
+155,,,,,,,,two
+156,,,,,,,,niii
+157,,,,,,,,one
+158,,,,,,,,absorbed
+159,,,,,,,,fract
+160,,,,,,,,sspspsnsp
+161,,,,,,,,atomic
+162,,,,,,,,direction
+163,,,,,,,,nexplanationncr
+164,,,,,,,,ratio
+165,,,,,,,,nearest
+166,,,,,,,,fit
+168,,,,,,,,neutron
+169,,,,,,,,quantised
+170,,,,,,,,chargemass
+171,,,,,,,,eis
+172,,,,,,,,configuration
+173,,,,,,,,orbitalsnexplanationnthe
+174,,,,,,,,electrons
+175,,,,,,,,simultaneouslynexplanationnthe
+176,,,,,,,,twice
+177,,,,,,,,lowest
+178,,,,,,,,energynthe
+179,,,,,,,,kgnv
+181,,,,,,,,ionization
+182,,,,,,,,particle
+183,,,,,,,,spdnthe
+184,,,,,,,,chromium
+185,,,,,,,,magnetic
+186,,,,,,,,subshells
+187,,,,,,,,photon
+188,,,,,,,,numbernexplanationnelectrons
+189,,,,,,,,number
+190,,,,,,,,hydrogen
+191,,,,,,,,make
+193,,,,,,,,nnumber
+195,,,,,,,,numbernfor
+197,,,,,,,,orbital
+198,,,,,,,,nuclear
+199,,,,,,,,form
+200,,,,,,,,nickel
+201,,,,,,,,highest
+202,,,,,,,,gas
+203,,,,,,,,total
+206,,,,,,,,lower
+207,,,,,,,,enthalpy
+209,,,,,,,,emits
+210,,,,,,,,state
+211,,,,,,,,wavelength
+212,,,,,,,,isn
+213,,,,,,,,ion
+214,,,,,,,,clockwise
+215,,,,,,,,pnfor
+216,,,,,,,,excited
+217,,,,,,,,collection
+218,,,,,,,,clnexplanationnisoelectronic
+219,,,,,,,,kinetic
+220,,,,,,,,energynand
+221,,,,,,,,wrt
+223,,,,,,,,equationne
+224,,,,,,,,snthe
+225,,,,,,,,nthus
+226,,,,,,,,distinguished
+227,,,,,,,,msn
+228,,,,,,,,fracn
+229,,,,,,,,following
+230,,,,,,,,associated
+232,,,,,,,,emission
+233,,,,,,,,first
+234,,,,,,,,subshell

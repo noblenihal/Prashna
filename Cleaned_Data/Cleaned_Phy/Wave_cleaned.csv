@@ -1,27 +1,129 @@
-,index,0;1;2;3;4;Answer,Words
-0,A resonance air column of length 40 cm resonates with a tuning fork of frequency 450 Hz. Ignoring end correction, the velocity of sound in air will be;(a) 720 m/s;(b) 820 m/s;(c) 920 m/s;(d) 1020 m/s;(a) 720 m/s,increases
-1,An observer is moving towards a stationary source of frequency 250 Hz with a velocity of 40 m/s. If the velocity of sound is 330 m/s, the apparent frequency heard by the observer will be;(a) 320 Hz;(b) 300 Hz;(c) 280 Hz;(d) 260 Hz;(c) 280 Hz,tension
-2,With the increase in temperature, the frequency of the sound from an organ pipe;(a) Decreases;(b) Increases;(c) Remain unchanged;(d) Changes erratically;(b) Increases,nan
-3,Loudness of a note of sound is;(a) Directly proportional to amplitude of the wave;(b) Directly proportional to square of amplitude of wave;(c) Directly proportional to velocity of the wave;(d) Directly proportional to square of velocity of the wave;(b) Directly proportional to square of amplitude of wave,,air
-4,The frequency of the note produced by plucking a given string increases as;(a) The length of the string increases;(b) The tension in the string increases;(c) The tension in the string decreases;(d) The mass per unit length of the string increases;(b) The tension in the string increases,,diameters
-5,A siren placed at a railway platfrom is emitting sound of frequency 5 kHz. A passenger sitting in a moving train A records a frequency of 5.5 kHz while the train approaches the siren. During his return journey in a different train B he records a frequency of 6.0 kHz while approaching the same siren. The ratio of velocity of train B to that of train A is;(a) 242 / 252;(b) 2;(c) 5 / 6;(d) 11 / 6;(b) 2,,unchanged
-6,Energy is not carried by;(a) Longitudinal progressive waves;(b) Electromagnetic waves;(c) Transverse progressive waves;(d) Stationary wave;(d) Stationary wave,,remain
-7,Energy is to be carried from one place to another. Which one of the following cannot be used?;(a) Longitudinal progressive waves;(b) Transverse progressive waves;(c) Electromagnetic waves;(d) Standing (stationary) waves;(d) Standing (stationary) waves,,pipe
-8,To demonstrate the phenomenon of beats we need;(a) Two sources which emit radiation of nearly the same frequency;(b) Two sources which emit radiation of exactly the same frequency;(c) Two sources which emit radiation of exactly the same frequency and have a definite phase relationship;(d) Two sources which emit radiation of exactly the same wavelength;(a) Two sources which emit radiation of nearly the same frequency,,sonometer
-9,Four wires of identical lengths, diameters and material and stretched on a sonometer box. The ratio of their tension is 1 : 4 : 9 : 16. the ratio of their fundamental frequencies is;(a) 1 : 6 : 9 : 16;(b) 4 : 3 : 2 : 1;(c) 1 : 2 : 3 : 4;(d) 1 : 4 : 9 : 16;(c) 1 : 2 : 3 : 4,decreases
-10,The equation of wave traveling along string is y = 3 cos p (100t – x) in C.G.S. unit then wavelength is;(a) 1 m;(b) 2 cm;(c) 5 cm;(d) None of above;(b) 2 cm,,
-11,A resonating column of air contains;(a) Stationary longitudinal waves;(b) Stationary transverse waves;(c) Transverse progressive waves;(d) Longitudinal progressive waves;(a) Stationary longitudinal waves,,stretched
-12,A whistle giving out 450 Hz approaches a stationary observer at a speed of 33 m/s. The frequency heard by the observer in Hz is;(a) 409;(b) 429;(c) 517;(d) 500;(d) 500,,sound
-13,When a compression is incident on rigid wall it is reflected as;(a) Compression with a phase change of p;(b) Compression with no phase change;(c) Rarefaction with a phase change of p;(d) Rarefaction with no phase change;(a) Compression with a phase change of p,,frequencies
-14,To demonstrate the phenomenon of beats we need;(a) Two sources which emit radiation of nearly the same frequency;(b) Two sources which emit radiation of exactly the same frequency;(c) Two sources which emit radiation of exactly the same frequency and have a definite phase relationship;(d) Two sources which emit radiation of exactly the same wavelength;(a) Two sources which emit radiation of nearly the same frequency,,material
-15,Transverse are generated in two uniform wires A and B by attaching their free ends to a vibrating source of frequency 600 Hz. The diameter of wire A is one-third that of wire B and tension in the wire A is double that in wire B. What is the ratio of velocities of waves of waves in wire A and B?;(a) √3 : 2;(b) 2 : √3;(c) 3 : √2;(d) √2 : 3;(d) √2 : 3,,box
-16,String is in fundamental mode of vibration then velocity is directly proportional to _______;(a) Square root of tension;(b) Square root of length;(c) Square of tension;(d) Square root of linear density;(a) Square root of tension,,observer
-17,With the increase in temperature, the frequency of the sound from an organ pipe;(a) Decreases;(b) Increases;(c) Remain unchanged;(d) Changes erratically;(b) Increases,erratically
-18,,,fundamental
-19,,,apparent
-21,,,changes
-22,,,ratio
-23,,,heard
-24,,,velocity
-25,,,organ
-26,,,frequency
+,index,0,1,2,3,4,Answer,Words
+0,0.0,"A resonance air column of length 40 cm resonates with a tuning fork of frequency 450 Hz. Ignoring end correction, the velocity of sound in air will be",(a) 720 m/s,(b) 820 m/s,(c) 920 m/s,(d) 1020 m/s,(a) 720 m/s,approaching
+1,1.0,"An observer is moving towards a stationary source of frequency 250 Hz with a velocity of 40 m/s. If the velocity of sound is 330 m/s, the apparent frequency heard by the observer will be",(a) 320 Hz,(b) 300 Hz,(c) 280 Hz,(d) 260 Hz,(c) 280 Hz,mass
+2,2.0,"With the increase in temperature, the frequency of the sound from an organ pipe",(a) Decreases,(b) Increases,(c) Remain unchanged,(d) Changes erratically,(b) Increases,fork
+3,3.0,Loudness of a note of sound is,(a) Directly proportional to amplitude of the wave,(b) Directly proportional to square of amplitude of wave,(c) Directly proportional to velocity of the wave,(d) Directly proportional to square of velocity of the wave,(b) Directly proportional to square of amplitude of wave,length
+4,4.0,The frequency of the note produced by plucking a given string increases as,(a) The length of the string increases,(b) The tension in the string increases,(c) The tension in the string decreases,(d) The mass per unit length of the string increases,(b) The tension in the string increases,obeying
+5,5.0,A siren placed at a railway platfrom is emitting sound of frequency 5 kHz. A passenger sitting in a moving train A records a frequency of 5.5 kHz while the train approaches the siren. During his return journey in a different train B he records a frequency of 6.0 kHz while approaching the same siren. The ratio of velocity of train B to that of train A is,(a) 242 / 252,(b) 2,(c) 5 / 6,(d) 11 / 6,(b) 2,rarefaction
+6,6.0,Energy is not carried by,(a) Longitudinal progressive waves,(b) Electromagnetic waves,(c) Transverse progressive waves,(d) Stationary wave,(d) Stationary wave,velocity
+7,7.0,"The extension in a string, obeying Hookes law is X. The speed of sound in the stretched string is V. If the extension in the string is increased to 1.5 X, the speed of sound will be",(a) 1.22 V,(b) 0.61 V,(c) 1.50 V,(d) 0.75 V,(a) 1.22 V,free
+8,8.0,Energy is to be carried from one place to another. Which one of the following cannot be used?,(a) Longitudinal progressive waves,(b) Transverse progressive waves,(c) Electromagnetic waves,(d) Standing (stationary) waves,(d) Standing (stationary) waves,sitting
+9,9.0,To demonstrate the phenomenon of beats we need,(a) Two sources which emit radiation of nearly the same frequency,(b) Two sources which emit radiation of exactly the same frequency,(c) Two sources which emit radiation of exactly the same frequency and have a definite phase relationship,(d) Two sources which emit radiation of exactly the same wavelength,(a) Two sources which emit radiation of nearly the same frequency,pipe
+10,10.0,"Four wires of identical lengths, diameters and material and stretched on a sonometer box. The ratio of their tension is 1 : 4 : 9 : 16. the ratio of their fundamental frequencies is",(a) 1 : 6 : 9 : 16,(b) 4 : 3 : 2 : 1,(c) 1 : 2 : 3 : 4,(d) 1 : 4 : 9 : 16,(c) 1 : 2 : 3 : 4,vibration
+11,11.0,The equation of wave traveling along string is y = 3 cos p (100t – x) in C.G.S. unit then wavelength is,(a) 1 m,(b) 2 cm,(c) 5 cm,(d) None of above,(b) 2 cm,increased
+12,12.0,A resonating column of air contains,(a) Stationary longitudinal waves,(b) Stationary transverse waves,(c) Transverse progressive waves,(d) Longitudinal progressive waves,(a) Stationary longitudinal waves,used
+13,13.0,A whistle giving out 450 Hz approaches a stationary observer at a speed of 33 m/s. The frequency heard by the observer in Hz is,(a) 409,(b) 429,(c) 517,(d) 500,(d) 500,speed
+14,14.0,When a compression is incident on rigid wall it is reflected as,(a) Compression with a phase change of p,(b) Compression with no phase change,(c) Rarefaction with a phase change of p,(d) Rarefaction with no phase change,(a) Compression with a phase change of p,one
+15,15.0,To demonstrate the phenomenon of beats we need,(a) Two sources which emit radiation of nearly the same frequency,(b) Two sources which emit radiation of exactly the same frequency,(c) Two sources which emit radiation of exactly the same frequency and have a definite phase relationship,(d) Two sources which emit radiation of exactly the same wavelength,(a) Two sources which emit radiation of nearly the same frequency,approach
+16,16.0,Transverse are generated in two uniform wires A and B by attaching their free ends to a vibrating source of frequency 600 Hz. The diameter of wire A is one-third that of wire B and tension in the wire A is double that in wire B. What is the ratio of velocities of waves of waves in wire A and B?,(a) √3 : 2,(b) 2 : √3,(c) 3 : √2,(d) √2 : 3,(d) √2 : 3,sound
+17,17.0,"The extension in a string, obeying Hookes law is X. The speed of sound in the stretched string is V. If the extension in the string is increased to 1.5 X, the speed of sound will be",(a) 1.22 V,(b) 0.61 V,(c) 1.50 V,(d) 0.75 V,(a) 1.22 V,double
+18,18.0,String is in fundamental mode of vibration then velocity is directly proportional to _______,(a) Square root of tension,(b) Square root of length,(c) Square of tension,(d) Square root of linear density,(a) Square root of tension,sonometer
+19,19.0,"With the increase in temperature, the frequency of the sound from an organ pipe",(a) Decreases,(b) Increases,(c) Remain unchanged,(d) Changes erratically,(b) Increases,train
+20,,,,,,,,contains
+21,,,,,,,,note
+22,,,,,,,,observer
+23,,,,,,,,demonstrate
+24,,,,,,,,mode
+25,,,,,,,,changes
+26,,,,,,,,hookes
+27,,,,,,,,incident
+28,,,,,,,,decreases
+29,,,,,,,,transverse
+30,,,,,,,,unit
+31,,,,,,,,stationary
+32,,,,,,,,temperature
+33,,,,,,,,siren
+34,,,,,,,,longitudinal
+35,,,,,,,,frequency
+36,,,,,,,,directly
+37,,,,,,,,square
+38,,,,,,,,uniform
+39,,,,,,,,need
+41,,,,,,,,giving
+42,,,,,,,,compression
+43,,,,,,,,whistle
+45,,,,,,,,decrease
+46,,,,,,,,phenomenon
+47,,,,,,,,remain
+48,,,,,,,,diameter
+49,,,,,,,,onethird
+50,,,,,,,,erratically
+51,,,,,,,,vibrating
+52,,,,,,,,air
+55,,,,,,,,law
+56,,,,,,,,organ
+57,,,,,,,,nearly
+58,,,,,,,,resonance
+59,,,,,,,,resonates
+60,,,,,,,,wall
+61,,,,,,,,two
+62,,,,,,,,resonating
+63,,,,,,,,ignoring
+64,,,,,,,,wave
+65,,,,,,,,column
+66,,,,,,,,identical
+67,,,,,,,,reflected
+68,,,,,,,,relationship
+69,,,,,,,,stretched
+70,,,,,,,,electromagnetic
+71,,,,,,,,proportional
+72,,,,,,,,place
+73,,,,,,,,moving
+74,,,,,,,,carried
+75,,,,,,,,attaching
+77,,,,,,,,definite
+78,,,,,,,,tension
+79,,,,,,,,per
+80,,,,,,,,passenger
+81,,,,,,,,unchanged
+82,,,,,,,,following
+83,,,,,,,,increases
+84,,,,,,,,emitting
+85,,,,,,,,traveling
+87,,,,,,,,beat
+89,,,,,,,,rigid
+90,,,,,,,,exactly
+91,,,,,,,,along
+92,,,,,,,,wavelength
+93,,,,,,,,progressive
+94,,,,,,,,cannot
+95,,,,,,,,box
+96,,,,,,,,produced
+97,,,,,,,,increase
+98,,,,,,,,string
+99,,,,,,,,platfrom
+100,,,,,,,,linear
+101,,,,,,,,root
+102,,,,,,,,placed
+103,,,,,,,,radiation
+104,,,,,,,,another
+105,,,,,,,,correction
+106,,,,,,,,end
+107,,,,,,,,journey
+108,,,,,,,,standing
+109,,,,,,,,ratio
+110,,,,,,,,wire
+111,,,,,,,,railway
+112,,,,,,,,material
+113,,,,,,,,generated
+114,,,,,,,,phase
+115,,,,,,,,apparent
+116,,,,,,,,cgs
+118,,,,,,,,plucking
+119,,,,,,,,fundamental
+120,,,,,,,,given
+121,,,,,,,,different
+122,,,,,,,,none
+123,,,,,,,,emit
+124,,,,,,,,change
+125,,,,,,,,khz
+126,,,,,,,,equation
+127,,,,,,,,density
+128,,,,,,,,amplitude
+129,,,,,,,,towards
+130,,,,,,,,heard
+131,,,,,,,,return
+132,,,,,,,,source
+133,,,,,,,,extension
+134,,,,,,,,tuning
+135,,,,,,,,record

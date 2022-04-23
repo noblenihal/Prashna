@@ -1,85 +1,112 @@
-,index,0;1;2;3;4;Answer,Words
-0,0.0,A body of M.I. 3 kg m² rotating with an angular velocity 2 rad/s has the same K.E. as a mass of 12 kg moving with a velocity of;(a) 1 m/s;(b) 2 m/s;(c) 4 m/s;(d) 8 m/s;(a) 1 m/s,moves
-1,1.0,Moment of inertia depends on;(a) Distribution of particles;(b) Mass;(c) Position of axis of rotation;(d) All of these;(d) All of these,determined
-2,2.0,A particle moves on a circular path with decreasing speed. Choose the correct statement.;(a) Angular momentum remains constant.;(b) Acceleration is towards the centre.;(c) Particle moves on a spiral path with decreasing radius.;(d) The direction of angular momentum remains constant.;(d) The direction of angular momentum remains constant.,dancer
-3,3.0,The M.I. of uniform circular disc about a diameter is I. its M.I. about an axis perpendicular to its plane passing through a point on its rim will be;(a) 4 I;(b) 6 I;(c) 8 I;(d) 9 I;(b) 6 I,momentum
-4,4.0,Which is the wrong relation from the following?;(a) t = I a;(b) F = ma;(c) L = I w;(d) I = t a;(d) I = t a,body
-5,5.0,A particle moves on a circular path with decreasing speed. Choose the correct statement.;(a) Angular momentum remains constant.;(b) Acceleration is towards the centre.;(c) Particle moves on a spiral path with decreasing radius.;(d) The direction of angular momentum remains constant.;(d) The direction of angular momentum remains constant.,ice
-6,6.0,A body of M.I. 3 kg m² rotating with an angular velocity 2 rad/s has the same K.E. as a mass of 12 kg moving with a velocity of;(a) 1 m/s;(b) 2 m/s;(c) 4 m/s;(d) 8 m/s;(a) 1 m/s,rotation
-7,7.0,A hollow cylinder and a solid cylinder having different mass diameter are released from rest simultaneously from the of an inclined plane. Which will reach the bottom first?;(a) solid cylinder;(b) cant be determined without knowing their masses;(c) hollow cylinder;(d) cant be determined without knowing their diameters;(a) solid cylinder,uniform
-8,8.0,Which is the wrong relation from the following?;(a) t = I a;(b) F = ma;(c) L = I w;(d) I = t a;(d) I = t a,decreases
-9,9.0,A dancer on ice spins faster when she folds here arms. This is due to;(a) Increases in energy and increase in angular momentum;(b) Decrease in friction at the skates;(c) Constant angular momentum and increase in kinetic energy;(d) Increase in energy an decreases in angular momentum;(c) Constant angular momentum and increase in kinetic energy,simultaneously
-10,10.0,The moment of inertia of a uniform semicircular disc of mass M and radius about a line perpendicular to the plane of the disc through the centre is;(a) (2/5) Mr²;(b) (1/4) Mr power 2;(c) (1/2) Mr²;(d) Mr²;(c) (1/2) Mr²,due
-11,11.0,A particle moves for 20 s with velocity 3 m/s and then moves with velocity 4 m/s for another 20 s and finally moves with velocity 5 m/s for next 20 s. what is the average velocity of the particle?;(a) 3 m/s;(b) 4 m/s;(c) 5 m/s;(d) Zero;(b) 4 m/s,axis
-12,,,rads
-13,,,statement
-14,,,knowing
-15,,,choose
-16,,,radius
-17,,,decreasing
-18,,,friction
-19,,,passing
-20,,,energy
-21,,,different
-22,,,zero
-23,,,diameters
-24,,,path
-25,,,masses
-27,,,particle
-28,,,moving
-29,,,rotating
-31,,,reach
-32,,,direction
-33,,,relation
-34,,,folds
-35,,,correct
-36,,,rim
-37,,,released
-38,,,increases
-39,,,faster
-40,,,position
-43,,,skates
-44,,,diameter
-45,,,finally
-46,,,remains
-47,,,distribution
-48,,,angular
-49,,,perpendicular
-50,,,first
-51,,,hollow
-52,,,cant
-53,,,plane
-54,,,mass
-55,,,solid
-58,,,constant
-59,,,acceleration
-60,,,semicircular
-61,,,depends
-62,,,average
-63,,,spins
-64,,,power
-65,,,wrong
-66,,,centre
-67,,,bottom
-68,,,next
-69,,,particles
-70,,,moment
-71,,,spiral
-72,,,inclined
-73,,,kinetic
-74,,,circular
-75,,,inertia
-78,,,without
-79,,,disc
-80,,,cylinder
-81,,,another
-82,,,following
-83,,,line
-84,,,decrease
-85,,,speed
-86,,,increase
-87,,,towards
-88,,,rest
-89,,,velocity
-90,,,point
-91,,,arms
+,index,0,1,2,3,4,Answer,Words
+0,0.0,A body of M.I. 3 kg m² rotating with an angular velocity 2 rad/s has the same K.E. as a mass of 12 kg moving with a velocity of,(a) 1 m/s,(b) 2 m/s,(c) 4 m/s,(d) 8 m/s,(a) 1 m/s,zero
+1,1.0,"A particle performing uniform circular motion has angular momentum L. If its angular frequency is doubled and its kinetic energy halved, then the new angular momentum is",(a) L/2,(b) L/4,(c) 2 L,(d) 4 L,(b) L/4,mass
+2,2.0,"A thin uniform, circular ring is rolling down an inclined plane of inclination 300 without slipping. Its linear acceleration along the inclined plane will be",(a) g/2,(b) g/3,(c) g/4,(d) 2g/3,(a) g/2,keeping
+3,3.0,Moment of inertia depends on,(a) Distribution of particles,(b) Mass,(c) Position of axis of rotation,(d) All of these,(d) All of these,semicircular
+4,4.0,"Calculate the M.I. of a thin uniform ring about an axis tangent to the ring and in a plane of the ring, if its M.I. about an axis passing through the centre and perpendicular to plane is 4 kg m².",(a) 12 kg m²,(b) 3 kg m²,(c) 6 kg m²,(d) 9 kg m²,(c) 6 kg m²,fold
+5,5.0,"If a body is rotating about an axis, passing through its centre of mass then its angular momentum is directed along its",(a) Radius,(b) Tangent,(c) Circumference,(d) Axis of rotation,(d) Axis of rotation,choose
+6,6.0,"A solid cylinder of mass 20 kg, has length 1 metre and radius 0.5m. then its momentum of inertia in kg m² about its geometrical axis is",(a) 2.5,(b) 5,(c) 1.5,(d) 3,(a) 2.5,direction
+7,7.0,A particle moves on a circular path with decreasing speed. Choose the correct statement.,(a) Angular momentum remains constant.,(b) Acceleration is towards the centre.,(c) Particle moves on a spiral path with decreasing radius.,(d) The direction of angular momentum remains constant.,(d) The direction of angular momentum remains constant.,metre
+8,8.0,The M.I. of uniform circular disc about a diameter is I. its M.I. about an axis perpendicular to its plane passing through a point on its rim will be,(a) 4 I,(b) 6 I,(c) 8 I,(d) 9 I,(b) 6 I,without
+9,9.0,Which is the wrong relation from the following?,(a) t = I a,(b) F = ma,(c) L = I w,(d) I = t a,(d) I = t a,determined
+10,10.0,"A solid sphere is rotating in free space. If the radius of the sphere is increased keeping mass same, which one of the following will not be affected?",(a) Moment of inertia,(b) Angular momentum,(c) Angular velocity,(d) Rotational kinetic energy,(b) Angular momentum,disc
+11,11.0,A particle moves on a circular path with decreasing speed. Choose the correct statement.,(a) Angular momentum remains constant.,(b) Acceleration is towards the centre.,(c) Particle moves on a spiral path with decreasing radius.,(d) The direction of angular momentum remains constant.,(d) The direction of angular momentum remains constant.,new
+12,12.0,A body of M.I. 3 kg m² rotating with an angular velocity 2 rad/s has the same K.E. as a mass of 12 kg moving with a velocity of,(a) 1 m/s,(b) 2 m/s,(c) 4 m/s,(d) 8 m/s,(a) 1 m/s,tangent
+13,13.0,A hollow cylinder and a solid cylinder having different mass diameter are released from rest simultaneously from the of an inclined plane. Which will reach the bottom first?,(a) solid cylinder,(b) cant be determined without knowing their masses,(c) hollow cylinder,(d) cant be determined without knowing their diameters,(a) solid cylinder,length
+14,14.0,Which is the wrong relation from the following?,(a) t = I a,(b) F = ma,(c) L = I w,(d) I = t a,(d) I = t a,free
+15,15.0,"If I, a and t are the moment of inertia, angular acceleration and torque respectively of a body rotating about any axis with angular velocity w, then",(a) t = Ia,(b) t = Iw,(c) I = tw,(d) a = Iw,(a) t = Ia,velocity
+16,16.0,A dancer on ice spins faster when she folds here arms. This is due to,(a) Increases in energy and increase in angular momentum,(b) Decrease in friction at the skates,(c) Constant angular momentum and increase in kinetic energy,(d) Increase in energy an decreases in angular momentum,(c) Constant angular momentum and increase in kinetic energy,performing
+17,17.0,The moment of inertia of a uniform semicircular disc of mass M and radius about a line perpendicular to the plane of the disc through the centre is,(a) (2/5) Mr²,(b) (1/4) Mr power 2,(c) (1/2) Mr²,(d) Mr²,(c) (1/2) Mr²,angular
+18,18.0,A particle moves for 20 s with velocity 3 m/s and then moves with velocity 4 m/s for another 20 s and finally moves with velocity 5 m/s for next 20 s. what is the average velocity of the particle?,(a) 3 m/s,(b) 4 m/s,(c) 5 m/s,(d) Zero,(b) 4 m/s,inertia
+19,19.0,"For increasing the angular velocity of an object by 10%, the kinetic energy has to be increased by",(a) 40%,(b) 20%,(c) 10%,(d) 21%,(d) 21%,rolling
+20,,,,,,,,remains
+21,,,,,,,,increased
+22,,,,,,,,speed
+23,,,,,,,,wrong
+25,,,,,,,,one
+26,,,,,,,,centre
+27,,,,,,,,passing
+28,,,,,,,,distribution
+29,,,,,,,,directed
+30,,,,,,,,affected
+31,,,,,,,,momentum
+32,,,,,,,,frequency
+33,,,,,,,,uniform
+34,,,,,,,,perpendicular
+35,,,,,,,,friction
+37,,,,,,,,acceleration
+38,,,,,,,,knowing
+39,,,,,,,,doubled
+40,,,,,,,,radius
+41,,,,,,,,skate
+42,,,,,,,,inclination
+43,,,,,,,,plane
+44,,,,,,,,decrease
+45,,,,,,,,simultaneously
+47,,,,,,,,increasing
+49,,,,,,,,halved
+50,,,,,,,,path
+51,,,,,,,,finally
+52,,,,,,,,moment
+53,,,,,,,,released
+54,,,,,,,,average
+55,,,,,,,,geometrical
+57,,,,,,,,relation
+58,,,,,,,,moving
+59,,,,,,,,space
+60,,,,,,,,next
+62,,,,,,,,torque
+63,,,,,,,,rad
+64,,,,,,,,reach
+65,,,,,,,,following
+66,,,,,,,,rest
+68,,,,,,,,point
+69,,,,,,,,particle
+70,,,,,,,,increases
+71,,,,,,,,circular
+73,,,,,,,,correct
+74,,,,,,,,inclined
+75,,,,,,,,spin
+76,,,,,,,,along
+77,,,,,,,,rotational
+78,,,,,,,,dancer
+79,,,,,,,,bottom
+80,,,,,,,,cant
+81,,,,,,,,slipping
+82,,,,,,,,spiral
+84,,,,,,,,cylinder
+85,,,,,,,,energy
+86,,,,,,,,statement
+87,,,,,,,,motion
+88,,,,,,,,increase
+89,,,,,,,,rotating
+90,,,,,,,,linear
+91,,,,,,,,object
+92,,,,,,,,line
+94,,,,,,,,kinetic
+95,,,,,,,,respectively
+96,,,,,,,,another
+97,,,,,,,,body
+98,,,,,,,,power
+99,,,,,,,,rim
+100,,,,,,,,circumference
+101,,,,,,,,different
+102,,,,,,,,rotation
+103,,,,,,,,constant
+105,,,,,,,,ice
+106,,,,,,,,sphere
+107,,,,,,,,solid
+108,,,,,,,,first
+109,,,,,,,,thin
+110,,,,,,,,axis
+111,,,,,,,,ring
+112,,,,,,,,towards
+113,,,,,,,,due
+114,,,,,,,,decreasing
+115,,,,,,,,move
+116,,,,,,,,faster
+117,,,,,,,,hollow
+119,,,,,,,,position
+120,,,,,,,,arm
+121,,,,,,,,diameter
+122,,,,,,,,depends

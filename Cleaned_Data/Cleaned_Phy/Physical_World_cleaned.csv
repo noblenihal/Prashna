@@ -1,92 +1,118 @@
-,index,0;1;2;3;4;Answer,Words
-0,0.0,The word Science originates from the Latin verb Scientia meaning;(a) to know;(b) to see;(c) to experience;(d) to observe;(a) to know,could
-1,1.0,Atomic and molecular phenomena are dealt with by;(a) Newtonian Mechanics;(b) fluid Mechanics;(c) applied Mechanics;(d) Quantum Mechanics;(d) Quantum Mechanics,earth
-2,2.0,Wave picture of light failed to explain.;(a) the photoelectric effect;(b) polarization of light;(c) diffraction of light;(d) interference of light;(a) the photoelectric effect,wave
-3,3.0,Heliocentric theory proposed by Nicolas Copernicus was;(a) replaced by circular orbits to fit the data better;(b) replaced by elliptical orbits to fit the data better;(c) replaced by elliptical orbits to fit the taste of new rulers of Italy;(d) replaced by parabolic orbits to fit the data better;(b) replaced by elliptical orbits to fit the data better,fashion
-4,4.0,A scientific theory;(a) cannot be changed but can be reformulated;(b) is fixed once and for all because it is logical;(c) is changed to suit new fashion among scientists;(d) can be revised if required to fit new phenomenon or data;(d) can be revised if required to fit new phenomenon or data,failed
-5,5.0,Which of the following is a possible first step in applying the scientific method;(a) Conducting tests;(b) Formulating a hypothesis;(c) Formulation of a question;(d) Building a theory;(c) Formulation of a question,rockets
-6,6.0,Which of the following is a possible final step in applying the scientific method;(a) Formulating a hypothesis;(b) Building a theory;(c) Analysis of test results;(d) Formulation of a question;(c) Analysis of test results,latin
-7,7.0,Physics is a;(a) Applied Science;(b) Mathematical Science;(c) Engineering Science;(d) Natural Science;(d) Natural Science,meaning
-8,8.0,Newtonian mechanics could not explain;(a) fall of bodies on earth;(b) Some of the most basic features of atomic phenomena.;(c) movement of planets;(d) flight of rockets;(b) Some of the most basic features of atomic phenomena.,see
-9,,,quantum
-10,,,formulation
-11,,,analysis
-12,,,conducting
-13,,,rulers
-14,,,fall
-15,,,possible
-16,,,better
-17,,,logical
-18,,,heliocentric
-19,,,required
-20,,,light
-21,,,data
-22,,,method
-23,,,proposed
-24,,,polarization
-25,,,step
-26,,,test
-27,,,fixed
-28,,,question
-29,,,phenomenon
-30,,,experience
-31,,,changed
-32,,,effect
-33,,,bodies
-34,,,italy
-35,,,explain
-36,,,replaced
-37,,,observe
-38,,,phenomena
-39,,,interference
-40,,,newtonian
-41,,,orbits
-42,,,photoelectric
-43,,,verb
-44,,,fluid
-45,,,mechanics
-46,,,know
-47,,,science
-48,,,atomic
-49,,,tests
-50,,,final
-51,,,features
-52,,,natural
-53,,,cannot
-54,,,mathematical
-55,,,new
-56,,,picture
-57,,,scientific
-58,,,first
-59,,,dealt
-60,,,taste
-61,,,results
-62,,,movement
-63,,,planets
-64,,,among
-65,,,molecular
-66,,,diffraction
-67,,,suit
-68,,,scientia
-69,,,building
-70,,,applied
-71,,,circular
-72,,,basic
-73,,,elliptical
-74,,,hypothesis
-75,,,revised
-76,,,following
-77,,,physics
-78,,,copernicus
-79,,,originates
-80,,,fit
-81,,,flight
-82,,,nicolas
-83,,,formulating
-84,,,word
-85,,,scientists
-86,,,parabolic
-87,,,reformulated
-88,,,engineering
-89,,,applying
-90,,,theory
+,index,0,1,2,3,4,Answer,Words
+0,0.0,The word Science originates from the Latin verb Scientia meaning,(a) to know,(b) to see,(c) to experience,(d) to observe,(a) to know,engineering
+1,1.0,Atomic and molecular phenomena are dealt with by,(a) Newtonian Mechanics,(b) fluid Mechanics,(c) applied Mechanics,(d) Quantum Mechanics,(d) Quantum Mechanics,alternative
+2,2.0,Wave picture of light failed to explain.,(a) the photoelectric effect,(b) polarization of light,(c) diffraction of light,(d) interference of light,(a) the photoelectric effect,fit
+3,3.0,Heliocentric theory proposed by Nicolas Copernicus was,(a) replaced by circular orbits to fit the data better,(b) replaced by elliptical orbits to fit the data better,(c) replaced by elliptical orbits to fit the taste of new rulers of Italy,(d) replaced by parabolic orbits to fit the data better,(b) replaced by elliptical orbits to fit the data better,davisson
+4,4.0,"Just as a new experiment may suggest an alternative theoretical model, a theoretical advance may suggest what to look for in some for in some experiments. Which of the following experiments can be considered to support this claim?",(a) Davisson and Germer Experiment,(b) experimental discovery of positron,(c) scattering of alpha particle or the gold foil experiment,(d) Michelson Morley experiment,(b) experimental discovery of positron,proposed
+5,5.0,The scientific method is,"(a) a prescribed method for investigating phenomena, acquiring new knowledge…",(b) A procedure for proposing new hypothesis,"(c) a body of techniques for investigating phenomena, acquiring new knowledge…",(d) A method for proposing new theories.,"(c) a body of techniques for investigating phenomena, acquiring new knowledge…",data
+6,6.0,A scientific theory,(a) cannot be changed but can be reformulated,(b) is fixed once and for all because it is logical,(c) is changed to suit new fashion among scientists,(d) can be revised if required to fit new phenomenon or data,(d) can be revised if required to fit new phenomenon or data,reformulated
+7,7.0,Which of the following is a possible first step in applying the scientific method,(a) Conducting tests,(b) Formulating a hypothesis,(c) Formulation of a question,(d) Building a theory,(c) Formulation of a question,look
+8,8.0,Which of the following is a possible final step in applying the scientific method,(a) Formulating a hypothesis,(b) Building a theory,(c) Analysis of test results,(d) Formulation of a question,(c) Analysis of test results,scientist
+9,9.0,Physics is a,(a) Applied Science,(b) Mathematical Science,(c) Engineering Science,(d) Natural Science,(d) Natural Science,new
+10,10.0,Newtonian mechanics could not explain,(a) fall of bodies on earth,(b) Some of the most basic features of atomic phenomena.,(c) movement of planets,(d) flight of rockets,(b) Some of the most basic features of atomic phenomena.,knowledge
+11,,,,,,,,prescribed
+12,,,,,,,,ruler
+13,,,,,,,,acquiring
+14,,,,,,,,word
+15,,,,,,,,effect
+16,,,,,,,,logical
+17,,,,,,,,required
+18,,,,,,,,latin
+19,,,,,,,,rocket
+20,,,,,,,,michelson
+21,,,,,,,,science
+22,,,,,,,,procedure
+23,,,,,,,,technique
+24,,,,,,,,building
+25,,,,,,,,claim
+26,,,,,,,,germer
+27,,,,,,,,fashion
+28,,,,,,,,fluid
+29,,,,,,,,experience
+30,,,,,,,,changed
+31,,,,,,,,applying
+32,,,,,,,,elliptical
+33,,,,,,,,phenomenon
+34,,,,,,,,alpha
+35,,,,,,,,formulating
+36,,,,,,,,method
+37,,,,,,,,positron
+38,,,,,,,,orbit
+39,,,,,,,,possible
+40,,,,,,,,dealt
+41,,,,,,,,photoelectric
+42,,,,,,,,foil
+43,,,,,,,,fixed
+44,,,,,,,,mechanic
+45,,,,,,,,picture
+46,,,,,,,,suggest
+47,,,,,,,,fall
+48,,,,,,,,natural
+49,,,,,,,,scattering
+50,,,,,,,,polarization
+51,,,,,,,,diffraction
+52,,,,,,,,experimental
+53,,,,,,,,explain
+54,,,,,,,,discovery
+55,,,,,,,,step
+56,,,,,,,,movement
+57,,,,,,,,experiment
+58,,,,,,,,among
+59,,,,,,,,know
+60,,,,,,,,following
+61,,,,,,,,morley
+62,,,,,,,,flight
+63,,,,,,,,light
+64,,,,,,,,particle
+65,,,,,,,,question
+66,,,,,,,,planet
+67,,,,,,,,circular
+68,,,,,,,,investigating
+69,,,,,,,,parabolic
+70,,,,,,,,observe
+71,,,,,,,,analysis
+72,,,,,,,,verb
+73,,,,,,,,meaning
+74,,,,,,,,earth
+75,,,,,,,,taste
+76,,,,,,,,cannot
+77,,,,,,,,theory
+78,,,,,,,,formulation
+79,,,,,,,,final
+80,,,,,,,,mechanics
+81,,,,,,,,atomic
+82,,,,,,,,considered
+83,,,,,,,,failed
+84,,,,,,,,revised
+85,,,,,,,,support
+86,,,,,,,,replaced
+87,,,,,,,,feature
+88,,,,,,,,result
+89,,,,,,,,hypothesis
+90,,,,,,,,molecular
+91,,,,,,,,model
+92,,,,,,,,proposing
+93,,,,,,,,originates
+94,,,,,,,,body
+95,,,,,,,,see
+96,,,,,,,,interference
+97,,,,,,,,advance
+98,,,,,,,,mathematical
+99,,,,,,,,test
+100,,,,,,,,copernicus
+101,,,,,,,,newtonian
+102,,,,,,,,theoretical
+103,,,,,,,,quantum
+104,,,,,,,,first
+105,,,,,,,,nicolas
+106,,,,,,,,scientific
+107,,,,,,,,basic
+108,,,,,,,,italy
+109,,,,,,,,could
+110,,,,,,,,gold
+111,,,,,,,,conducting
+112,,,,,,,,suit
+113,,,,,,,,applied
+114,,,,,,,,better
+115,,,,,,,,may
+116,,,,,,,,scientia

@@ -1,99 +1,116 @@
-,index,0;1;2;3;4;Answer,Words
-0,0.0,A man of 60 kg weight is standing at rest on a platform. He jumps up vertically a distance of 1 m and the platform at the same instant moves horizontally forward with the result that the man lands 1 meter behind the point on the platfrom from where the took the jump the total work done by the man at the instant he lands is;(a) 300 J;(b) 150 J;(c) 600 J;(d) zero;(c) 600 J,moves
-1,1.0,A uniform chain of length 2 m is kept on a table such that a length of 60 cm hangs freely from the edge of the table. The total mass of the chain is 4 kg. What is the work done in pulling the entire chain on the table?;(a) 7.2 J;(b) 3.6 J;(c) 120 J;(d) 1200 J;(b) 3.6 J,done
-2,2.0,A body of mass 20 kg is initially at a height of 3 m above the ground . It is lifted to a height of 2 m from that position. Its increase in potential energy is;(a) 100 J;(b) 392 J;(c) 60 J;(d) -100 J;(b) 392 J,magnitudes
-3,3.0,A body of mass 10 kg is travelling with uniform speed of 5 m/s. Its kinetic energy is;(a) 25 J;(b) 125 J;(c) 1250 J;(d) 1000 J;(b) 125 J,days
-4,4.0,A quantity of work of 1000 J is done in 2 seconds. The power utilised is;(a) 998 W;(b) 1002 W;(c) 2000 W;(d) 500 W;(d) 500 W,body
-5,5.0,A solid cylinder of length 1 m and diameter of cross section y 100 cms is first placed with its axis vertical its then slowly inclined till its axis is horizontal. The loss in its potential energy if the mass of the cylinder is 10 kg is;(a) 5g J;(b) 10g J;(c) Zero;(d) g J;(c) Zero,platfrom
-6,6.0,Two masses 1 g and 4 g are moving with equal kinetic energies. The ratio of the magnitudes of their linear momenta is;(a) 4 : 1;(b) 1 : 2;(c) 0 : 1;(d) 1 : 6;(b) 1 : 2,uniform
-7,7.0,A body of mass 10 kg is initially at a height of 20 m above the ground. It falls to a height of 5 m above the ground. Its potential energy in the new position is;(a) 490 J;(b) 50 J;(c) 100 J;(d) 300 J;(a) 490 J,quantity
-8,8.0,A man of 60 kg weight is standing at rest on a platform. He jumps up vertically a distance of 1 m and the platform at the same instant moves horizontally forward with the result that the man lands 1 meter behind the point on the platfrom from where the took the jump the total work done by the man at the instant he lands is;(a) 300 J;(b) 150 J;(c) 600 J;(d) zero;(c) 600 J,percentage
-9,9.0,A marble moving with some velocity collides perfectly elastically head-on with another marble at rest having mass 1.5 times the mass of the colliding marble. The percentage of kinetic energy by the colliding marble after the collision is;(a) 4;(b) 25;(c) 44;(d) 67;(a) 4,edge
-10,10.0,A body of mass 100 kg falls from a height of 10 m. Its increase in kinetic energy is;(a) 9800 J;(b) 1000 J;(c) 5000 J;(d) 3000 J;(a) 9800 J,meter
-11,11.0,A uniform chain of length 2 m is kept on a table such that a length of 60 cm hangs freely from the edge of the table. The total mass of the chain is 4 kg. What is the work done in pulling the entire chain on the table?;(a) 7.2 J;(b) 3.6 J;(c) 120 J;(d) 1200 J;(b) 3.6 J,ground
-12,12.0,A body of mass 20 kg is initially at a height of 3 m above the ground. It is lifted to a height of 2 m from that position. Its increase in potential energy is;(a) 100 J;(b) 392 J;(c) 60 J;(d) -100 J;(b) 392 J,linear
-13,13.0,An electric heater of rating 1000 W is used for 5 hrs per day for 20 days. The electrical energy utilised is;(a) 150 kWh;(b) 200 kWh;(c) 100 kWh;(d) 300 kWh;(c) 100 kWh,collides
-14,,,axis
-15,,,weight
-16,,,perfectly
-18,,,chain
-19,,,pulling
-20,,,potential
-21,,,jump
-22,,,headon
-23,,,height
-24,,,platform
-25,,,initially
-26,,,loss
-27,,,slowly
-28,,,horizontally
-29,,,zero
-30,,,result
-31,,,energy
-32,,,freely
-33,,,travelling
-34,,,masses
-36,,,moving
-37,,,electrical
-38,,,colliding
-39,,,standing
-40,,,marble
-41,,,vertical
-43,,,distance
-44,,,lands
-45,,,entire
-46,,,forward
-47,,,hangs
-48,,,work
-49,,,day
-50,,,position
-51,,,times
-53,,,length
-55,,,horizontal
-56,,,till
-57,,,diameter
-58,,,two
-59,,,cross
-60,,,new
-61,,,rating
-62,,,cms
-63,,,first
-64,,,mass
-65,,,solid
-66,,,lifted
-67,,,man
-68,,,elastically
-69,,,seconds
-70,,,placed
-71,,,hrs
-72,,,took
-73,,,collision
-74,,,table
-75,,,behind
-76,,,power
-77,,,heater
-78,,,inclined
-79,,,kinetic
-80,,,kwh
-81,,,momenta
-82,,,utilised
-83,,,energies
-85,,,jumps
-86,,,electric
-87,,,per
-88,,,cylinder
-89,,,equal
-90,,,another
-91,,,total
-92,,,speed
-93,,,instant
-94,,,kept
-95,,,increase
-96,,,ratio
-97,,,rest
-98,,,velocity
-99,,,vertically
-100,,,used
-101,,,falls
-102,,,point
-103,,,section
+,index,0,1,2,3,4,Answer,Words
+0,0.0,A man of 60 kg weight is standing at rest on a platform. He jumps up vertically a distance of 1 m and the platform at the same instant moves horizontally forward with the result that the man lands 1 meter behind the point on the platfrom from where the took the jump the total work done by the man at the instant he lands is,(a) 300 J,(b) 150 J,(c) 600 J,(d) zero,(c) 600 J,zero
+1,1.0,A uniform chain of length 2 m is kept on a table such that a length of 60 cm hangs freely from the edge of the table. The total mass of the chain is 4 kg. What is the work done in pulling the entire chain on the table?,(a) 7.2 J,(b) 3.6 J,(c) 120 J,(d) 1200 J,(b) 3.6 J,meter
+2,2.0,A body of mass 20 kg is initially at a height of 3 m above the ground . It is lifted to a height of 2 m from that position. Its increase in potential energy is,(a) 100 J,(b) 392 J,(c) 60 J,(d) -100 J,(b) 392 J,mass
+3,3.0,A body of mass 10 kg is travelling with uniform speed of 5 m/s. Its kinetic energy is,(a) 25 J,(b) 125 J,(c) 1250 J,(d) 1000 J,(b) 125 J,perfectly
+4,4.0,"A ball is dropped from a height of 1 m. If the coeffcient of restitution between the surface and ball is 0.6, the ball rebounds to a height of",(a) 0.6 m,(b) 0.4 m,(c) 1 m,(d) 0.36 m,(d) 0.36 m,kept
+5,5.0,A quantity of work of 1000 J is done in 2 seconds. The power utilised is,(a) 998 W,(b) 1002 W,(c) 2000 W,(d) 500 W,(d) 500 W,horizontal
+6,6.0,"When the linear momentum of a particle is increased by 1% its kinetic energy increases by x%. When the kinetic energy of the particle is increased by 300%, its linear momentum increases by y%. The ratio of y to x is",(a) 300,(b) 150,(c) 100,(d) 50,(d) 50,new
+7,7.0,A solid cylinder of length 1 m and diameter of cross section y 100 cms is first placed with its axis vertical its then slowly inclined till its axis is horizontal. The loss in its potential energy if the mass of the cylinder is 10 kg is,(a) 5g J,(b) 10g J,(c) Zero,(d) g J,(c) Zero,length
+8,8.0,"A body of mass 10 kg moving at a height of 2 m, with uniform speed of 2 m/s. Its total energy is",(a) 316 J,(b) 216 J,(c) 116 J,(d) 392 J,(b) 216 J,velocity
+9,9.0,Two masses 1 g and 4 g are moving with equal kinetic energies. The ratio of the magnitudes of their linear momenta is,(a) 4 : 1,(b) 1 : 2,(c) 0 : 1,(d) 1 : 6,(b) 1 : 2,collides
+10,10.0,A body of mass 10 kg is initially at a height of 20 m above the ground. It falls to a height of 5 m above the ground. Its potential energy in the new position is,(a) 490 J,(b) 50 J,(c) 100 J,(d) 300 J,(a) 490 J,cross
+11,11.0,A man of 60 kg weight is standing at rest on a platform. He jumps up vertically a distance of 1 m and the platform at the same instant moves horizontally forward with the result that the man lands 1 meter behind the point on the platfrom from where the took the jump the total work done by the man at the instant he lands is,(a) 300 J,(b) 150 J,(c) 600 J,(d) zero,(c) 600 J,increased
+12,12.0,A marble moving with some velocity collides perfectly elastically head-on with another marble at rest having mass 1.5 times the mass of the colliding marble. The percentage of kinetic energy by the colliding marble after the collision is,(a) 4,(b) 25,(c) 44,(d) 67,(a) 4,used
+13,13.0,A body of mass 100 kg falls from a height of 10 m. Its increase in kinetic energy is,(a) 9800 J,(b) 1000 J,(c) 5000 J,(d) 3000 J,(a) 9800 J,speed
+14,14.0,"An isolated particle of mass m is moving in a horizontal plane (x-y), along the x-axis, at a certain height above the ground. It suddenly explodes into two fragments of masses m/4 and 3m/4 . An instant later, the smaller fragment is at y = + 15 cm. The larger fragment at this instant is at",(a) y = -5 cm,(b) y = +20 cm,(c) y = +5 cm,(d) y = -20 cm,(a) y = -5 cm,horizontally
+15,15.0,A uniform chain of length 2 m is kept on a table such that a length of 60 cm hangs freely from the edge of the table. The total mass of the chain is 4 kg. What is the work done in pulling the entire chain on the table?,(a) 7.2 J,(b) 3.6 J,(c) 120 J,(d) 1200 J,(b) 3.6 J,slowly
+16,16.0,A body of mass 20 kg is initially at a height of 3 m above the ground. It is lifted to a height of 2 m from that position. Its increase in potential energy is,(a) 100 J,(b) 392 J,(c) 60 J,(d) -100 J,(b) 392 J,restitution
+17,17.0,"A body of mass 10 kg is moved parallel to the ground, through a distance of 2 m. The work done against gravitational force is",(a) 196 J,(b) -196 J,(c) 20 J,(d) zero,(d) zero,lifted
+18,18.0,"A ball is dropped from a height of 1 m. If the coeffcient of restitution between the surface and ball is 0.6, the ball rebounds to a height of",(a) 0.6 m,(b) 0.4 m,(c) 1 m,(d) 0.36 m,(d) 0.36 m,till
+19,19.0,An electric heater of rating 1000 W is used for 5 hrs per day for 20 days. The electrical energy utilised is,(a) 150 kWh,(b) 200 kWh,(c) 100 kWh,(d) 300 kWh,(c) 100 kWh,coeffcient
+20,,,,,,,,entire
+21,,,,,,,,moved
+22,,,,,,,,initially
+23,,,,,,,,electrical
+24,,,,,,,,later
+25,,,,,,,,forward
+26,,,,,,,,momentum
+27,,,,,,,,table
+28,,,,,,,,suddenly
+29,,,,,,,,pulling
+30,,,,,,,,uniform
+31,,,,,,,,land
+33,,,,,,,,loss
+34,,,,,,,,work
+35,,,,,,,,second
+36,,,,,,,,plane
+37,,,,,,,,ball
+38,,,,,,,,surface
+42,,,,,,,,distance
+43,,,,,,,,kwh
+44,,,,,,,,heater
+45,,,,,,,,edge
+46,,,,,,,,two
+47,,,,,,,,instant
+48,,,,,,,,travelling
+49,,,,,,,,jump
+50,,,,,,,,colliding
+51,,,,,,,,fall
+52,,,,,,,,ground
+53,,,,,,,,certain
+54,,,,,,,,moving
+55,,,,,,,,height
+57,,,,,,,,section
+58,,,,,,,,time
+59,,,,,,,,per
+60,,,,,,,,equal
+61,,,,,,,,collision
+62,,,,,,,,rest
+63,,,,,,,,day
+64,,,,,,,,point
+65,,,,,,,,particle
+66,,,,,,,,quantity
+67,,,,,,,,man
+68,,,,,,,,inclined
+69,,,,,,,,along
+70,,,,,,,,potential
+71,,,,,,,,vertical
+72,,,,,,,,smaller
+73,,,,,,,,electric
+74,,,,,,,,magnitude
+75,,,,,,,,cylinder
+76,,,,,,,,behind
+77,,,,,,,,energy
+78,,,,,,,,hang
+79,,,,,,,,isolated
+80,,,,,,,,increase
+81,,,,,,,,force
+82,,,,,,,,platfrom
+83,,,,,,,,linear
+84,,,,,,,,parallel
+85,,,,,,,,placed
+86,,,,,,,,done
+87,,,,,,,,result
+88,,,,,,,,platform
+89,,,,,,,,kinetic
+90,,,,,,,,another
+91,,,,,,,,utilised
+92,,,,,,,,headon
+93,,,,,,,,standing
+94,,,,,,,,body
+95,,,,,,,,ratio
+96,,,,,,,,rebound
+97,,,,,,,,power
+98,,,,,,,,chain
+99,,,,,,,,marble
+100,,,,,,,,percentage
+101,,,,,,,,elastically
+103,,,,,,,,larger
+104,,,,,,,,explodes
+105,,,,,,,,took
+106,,,,,,,,fragment
+107,,,,,,,,solid
+108,,,,,,,,vertically
+109,,,,,,,,first
+110,,,,,,,,weight
+111,,,,,,,,total
+113,,,,,,,,axis
+114,,,,,,,,dropped
+115,,,,,,,,xaxis
+117,,,,,,,,move
+118,,,,,,,,rating
+120,,,,,,,,position
+121,,,,,,,,gravitational
+122,,,,,,,,diameter
+123,,,,,,,,freely

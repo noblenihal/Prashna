@@ -1,179 +1,215 @@
-,index,0;1;2;3;4;Answer,Words
-0,0.0,Which of-the following is not a property of light?;(a) It can travel through vacuum;(b) It has a finite speed;(c) It requires a material medium for its propagation;(d) It involve transportation energy;(c) It requires a material medium for its propagation,surface
-1,1.0,Two points P and q are situated at the same distance from a source of light but on opposite sides. The plane difference between the light waves passing through P and q will be:;(a) n;(b) 2n;(c) \(\frac{π}{2}\);(d) zero;(d) zero,certain
-2,2.0,The phase difference between the electric and the magnetic field vectors in electromagnetic waves is;(a) \(\frac{π}{4}\);(b) \(\frac{π}{2}\);(c) π;(d) zero;(d) zero,determined
-3,3.0,A ray of light travelling in air is incident of a glass slab. The ray gets partly reflected and partly refracted. The phase difference between the reflected and the refracted waves is :;(a) \(\frac{π}{2}\);(b) \(\frac{π}{4}\);(c) π;(d) zero;(c) π,transportation
-4,4.0,Which of the following cannot be polarised?;(a) radiowaves;(b) transverse waves;(c) sound waves;(d) X-rays;(c) sound waves,physical
-5,5.0,Light year is the unit of:;(a) distance;(b) time;(c) intensity of light;(d) None of these;(a) distance,equivalent
-6,6.0,The refractive indices (R.I.) of glass and water with respect to air are 3/2 and 4/3 respectively. The R.I. of glass w.r. to w ater is:;(a) 8/9;(b) 9/8;(c) 7/6;(d) 2;(b) 9/8,glass
-7,7.0,The angle of minimum deviation for an equilateral glass prism is 30°. Refractive index of the prism is:;(a) \(\frac{1}{√3}\);(b) √2;(c) 1;(d) can’t be determined;(b) √2,reflection
-8,8.0,A beam of light is incident at 60° to a plane surface. The reflected and refracted rays are perpendicular to each other. What is the R.I. of the surface:;(a) \(\frac{1}{√3}\);(b) √3;(c) \(\frac{1}{3}\);(d) 3;(b) √3,
-9,9.0,A concave mirror of focal length f produces an image n times the size of the object. If the image is real then the distance of the object is:;(a) (n – 1) f;(b) (n + 1) f;(c) (\(\frac{n+1}{n}\))f;(d) (\(\frac{n-1}{n}\))f;(c) (\(\frac{n+1}{n}\))f,optics
-10,10.0,A convergent lens will become less convergent in :;(a) oil;(b) water;(c) both of (a) and (b);(d) none of these;(b) water,formation
-11,11.0,A thin glass (RI = \(\frac{3}{2}\)) lens has optical power of – 5D in air. Its optical power in a liquid medium with RI = 1.6 will be:;(a) -2.5 D;(b) 25 D;(c) -ID;(d) 0.625 D;(d) 0.625 D,less
-12,12.0,The branch of optics dealing with the formation of images using the concept of straight line propagation of light is called:;(a) geometrical optics;(b) physical optics;(c) corpuscular optics;(d) quantum optics;(d) quantum optics,contact
-13,13.0,Two lens of power -15 D and +5 D are placed in contact co-axially. The focal length of equivalent lens is:;(a) -10 cm;(b) -20 cm;(c) +10 cm;(d) None;(a) -10 cm,gets
-14,14.0,The air bubble inside water shine due to:;(a) Reflection;(b) Refraction;(c) T.l.R.;(d) None of these;(c) T.l.R.,diopter
-15,15.0,Radio waves from an antenna travel with the velocity of:;(a) light;(b) sound;(c) ultrasonics;(d) supersonics;(a) light,produces
-16,16.0,A point object is placed at the centre of a glass sphere of radius 6 cm 3 and RI = \(\frac{3}{2}\). The distance of virtual image from the surface of the sphere is :;(a) 2 cm;(b) 4 cm;(c) 6 cm;(d) 12 cm;(b) 4 cm,concept
-17,17.0,The velocity of light in vacuum is 3 × 1010 cms-1. The velocity of light in a medium (µ = 1.5) is:;(a) 2 × 1010cms-1;(b) 4.5 × 1010cms-1;(c) 1.5 × 1010cms-1;(d) None of these;(a) 2 × 1010cms-1,points
-18,18.0,Which of the following is not essential for the formation of a pure spectrum?;(a) parallel beam of light;(b) narrow beam of light;(c) screen;(d) prism in the minimum deviation position;(c) screen,air
-19,19.0,A certain far-sighted person cannot see objects closer to the eye than 100 cm. The power of the lens which will enable him to read at a distance of 25 cm will be?;(a) 3D;(b) 1D;(c) 4D;(d) 2D;(a) 3D,situated
-20,20.0,Which produces additional luminiscence in a fluorescent tube?;(a) infra red rays;(b) ultraviolet rays;(c) micro waves;(d) radio waves;(b) ultraviolet rays,corpuscular
-21,21.0,ar point of a myopic eye is 40 cm. The dioptic power of a corrective lens is:;(a) 40 D;(b) -4 D;(c) -2.5 D;(d) -0.25 diopter;(c) -2.5 D,ultraviolet
-22,22.0,Two thin lenses of focal lengths 20 cm and 25 cm are placed in contact. The effective power of the combination is:;(a) 45 D;(b) 9 D;(c) \(\frac{1}{9}\) D;(d) 6 D;(b) 9 D,refracted
-23,23.0,A blue cross on the white background is illuminated with white light and is observed through red filter. What is seen?;(a) A red cross on a black background;(b) A blue cross on a red background;(c) A red cross on a blue background;(d) A black cross on a red background;(d) A black cross on a red background,opposite
-24,24.0,The angle of deviation for a prism is greatest for:;(a) violet;(b) red;(c) orange;(d) yellow;(a) violet,property
-25,25.0,A double convex air bubble in water behaves as:;(a) Convergent lens;(b) divergent lens;(c) plane slab;(d) concave mirror;(b) divergent lens,image
-26,,,real
-27,,,tube
-28,,,shine
-29,,,illuminated
-30,,,optical
-31,,,due
-32,,,virtual
-34,,,quantum
-35,,,sphere
-36,,,ofthe
-37,,,refraction
-38,,,see
-39,,,polarised
-40,,,ater
-41,,,lenses
-42,,,using
-43,,,minimum
-44,,,deviation
-45,,,partly
-46,,,finite
-47,,,farsighted
-48,,,filter
-49,,,micro
-50,,,involve
-52,,,enable
-53,,,spectrum
-54,,,infra
-55,,,reflected
-56,,,beam
-57,,,none
-58,,,person
-59,,,light
-60,,,radius
-61,,,index
-62,,,black
-63,,,straight
-64,,,liquid
-65,,,convex
-66,,,yellow
-67,,,fracnnf
-69,,,magnetic
-70,,,energy
-71,,,passing
-72,,,zero
-73,,,essential
-74,,,corrective
-75,,,coaxially
-76,,,size
-77,,,respect
-78,,,narrow
-79,,,background
-80,,,object
-81,,,screen
-82,,,travelling
-83,,,phase
-84,,,orange
-85,,,thin
-87,,,closer
-88,,,slab
-89,,,requires
-90,,,distance
-91,,,time
-93,,,propagation
-94,,,tlr
-95,,,year
-96,,,pure
-97,,,intensity
-98,,,divergent
-99,,,fluorescent
-100,,,sides
-101,,,red
-102,,,waves
-103,,,concave
-104,,,refractive
-105,,,times
-106,,,position
-107,,,greatest
-108,,,vectors
-110,,,length
-111,,,transverse
-112,,,two
-113,,,cross
-114,,,cannot
-115,,,additional
-116,,,field
-117,,,eye
-119,,,indices
-121,,,white
-122,,,supersonics
-123,,,oil
-124,,,cms
-125,,,luminiscence
-126,,,perpendicular
-127,,,antenna
-128,,,material
-129,,,lengths
-130,,,behaves
-131,,,plane
-132,,,cant
-133,,,respectively
-134,,,combination
-135,,,dioptic
-136,,,violet
-137,,,rays
-138,,,travel
-139,,,lens
-140,,,objects
-141,,,observed
-142,,,mirror
-143,,,placed
-144,,,double
-145,,,dealing
-146,,,xrays
-147,,,prism
-148,,,power
-149,,,called
-150,,,centre
-151,,,effective
-152,,,become
-153,,,source
-154,,,medium
-155,,,equilateral
-156,,,parallel
-157,,,ultrasonics
-158,,,ray
-159,,,convergent
-160,,,sound
-161,,,focal
-162,,,myopic
-163,,,electric
-164,,,difference
-165,,,following
-166,,,images
-168,,,line
-169,,,point
-170,,,blue
-171,,,vacuum
-172,,,branch
-173,,,speed
-174,,,unit
-175,,,incident
-176,,,water
-177,,,radio
-178,,,radiowaves
-179,,,electromagnetic
-180,,,velocity
-181,,,geometrical
-182,,,read
-183,,,seen
-184,,,angle
-185,,,inside
-186,,,bubble
+,index,0,1,2,3,4,Answer,Words
+0,0.0,Which of-the following is not a property of light?,(a) It can travel through vacuum,(b) It has a finite speed,(c) It requires a material medium for its propagation,(d) It involve transportation energy,(c) It requires a material medium for its propagation,zero
+1,1.0,Two points P and q are situated at the same distance from a source of light but on opposite sides. The plane difference between the light waves passing through P and q will be:,(a) n,(b) 2n,(c) \(\frac{π}{2}\),(d) zero,(d) zero,approaching
+2,2.0,The phase difference between the electric and the magnetic field vectors in electromagnetic waves is,(a) \(\frac{π}{4}\),(b) \(\frac{π}{2}\),(c) π,(d) zero,(d) zero,tlr
+3,3.0,A ray of light travelling in air is incident of a glass slab. The ray gets partly reflected and partly refracted. The phase difference between the reflected and the refracted waves is :,(a) \(\frac{π}{2}\),(b) \(\frac{π}{4}\),(c) π,(d) zero,(c) π,optic
+4,4.0,Which of the following cannot be polarised?,(a) radiowaves,(b) transverse waves,(c) sound waves,(d) X-rays,(c) sound waves,effective
+5,5.0,Light year is the unit of:,(a) distance,(b) time,(c) intensity of light,(d) None of these,(a) distance,resolved
+6,6.0,"If a mirror is approaching you at a speed of 10 ms^1, the speed with which your image approach you is:",(a) 10 ms-1,(b) 5 ms-1,(c) 20 ms-1,(d) 15 ms-1,(c) 20 ms-1,liquid
+7,7.0,The refractive indices (R.I.) of glass and water with respect to air are 3/2 and 4/3 respectively. The R.I. of glass w.r. to w ater is:,(a) 8/9,(b) 9/8,(c) 7/6,(d) 2,(b) 9/8,propagation
+8,8.0,The angle of minimum deviation for an equilateral glass prism is 30°. Refractive index of the prism is:,(a) \(\frac{1}{√3}\),(b) √2,(c) 1,(d) can’t be determined,(b) √2,enters
+9,9.0,A beam of light is incident at 60° to a plane surface. The reflected and refracted rays are perpendicular to each other. What is the R.I. of the surface:,(a) \(\frac{1}{√3}\),(b) √3,(c) \(\frac{1}{3}\),(d) 3,(b) √3,undergoes
+10,10.0,A concave mirror of focal length f produces an image n times the size of the object. If the image is real then the distance of the object is:,(a) (n – 1) f,(b) (n + 1) f,(c) (\(\frac{n+1}{n}\))f,(d) (\(\frac{n-1}{n}\))f,(c) (\(\frac{n+1}{n}\))f,prism
+11,11.0,A convergent lens will become less convergent in :,(a) oil,(b) water,(c) both of (a) and (b),(d) none of these,(b) water,essential
+12,12.0,A thin glass (RI = \(\frac{3}{2}\)) lens has optical power of – 5D in air. Its optical power in a liquid medium with RI = 1.6 will be:,(a) -2.5 D,(b) 25 D,(c) -ID,(d) 0.625 D,(d) 0.625 D,micro
+13,13.0,"On reflection from a denser medium, a light wave suffers a phase difference of:",(a) π,(b) \(\frac{π}{2}\),(c) \(\frac{π}{4}\),(d) 2π,(a) π,determined
+14,14.0,The branch of optics dealing with the formation of images using the concept of straight line propagation of light is called:,(a) geometrical optics,(b) physical optics,(c) corpuscular optics,(d) quantum optics,(d) quantum optics,transportation
+15,15.0,"When light travels from one medium to another, which of the following does not change?",(a) frequency,(b) refractive index,(c) velocity,(d) wavelength,(a) frequency,telescope
+16,16.0,Two lens of power -15 D and +5 D are placed in contact co-axially. The focal length of equivalent lens is:,(a) -10 cm,(b) -20 cm,(c) +10 cm,(d) None,(a) -10 cm,requires
+17,17.0,"Refractive index of water and glass are \(\frac{4}{3}\) and \(\frac{5}{3}\). A light ray is going to water from glass. Then, its critical angle will be:",(a) sin-1\(\frac{4}{5}\),(b) sin-1\(\frac{5}{6}\),(c) sin-1\(\frac{1}{2}\),(d) sin-1(\(\frac{2}{1}\)),(b) sin-1\(\frac{5}{6}\),fracnnf
+18,18.0,The air bubble inside water shine due to:,(a) Reflection,(b) Refraction,(c) T.l.R.,(d) None of these,(c) T.l.R.,travel
+19,19.0,"When a ray of light (white) enters a lens, undergoes a change is:",(a) wavelength,(b) velocity,(c) frequency,(d) both velocity and wavelength,(d) both velocity and wavelength,refracting
+20,20.0,Radio waves from an antenna travel with the velocity of:,(a) light,(b) sound,(c) ultrasonics,(d) supersonics,(a) light,length
+21,21.0,A point object is placed at the centre of a glass sphere of radius 6 cm 3 and RI = \(\frac{3}{2}\). The distance of virtual image from the surface of the sphere is :,(a) 2 cm,(b) 4 cm,(c) 6 cm,(d) 12 cm,(b) 4 cm,velocity
+22,22.0,"The RI. of the material of a prism is √2 and its refracting angle is 30°. One of the refracting surface of the prism is made a mirror. A beam of monochromatic light entering the prism from the other face retraces its path, after reflection from mirror surface. The angle of incidence on prism is:",(a) 0°,(b) 30°,(c) 45°,(d) 60°,(c) 45°,opposite
+23,23.0,"A telescope has an objective lens of 10 cm diameter and is situated at a distance of 1 km from two objects. The minimum distance between these two objects, which can be resolved by the telescope, when seen in the light of mean λ = 5000 A is of the order of:",(a) 5 mm,(b) 5 cm,(c) 0.5 m,(d) 5 m,(a) 5 mm,longer
+24,24.0,"When a beam of light is used to determine the position of an object, the maximum accuracy is achieved if the light is :",(a) polarized,(b) of longer λ,(c) of shorter λ,(d) of high intensity,(c) of shorter λ,property
+25,25.0,"A convex lens is dipped in a liquid, whose R.I. is equal to that of R.I. of material of the lens. Then its focal length will:",(a) become zero,(b) become infinite,(c) reduce,(d) increase,(b) become infinite,blue
+26,26.0,The velocity of light in vacuum is 3 × 1010 cms-1. The velocity of light in a medium (µ = 1.5) is:,(a) 2 × 1010cms-1,(b) 4.5 × 1010cms-1,(c) 1.5 × 1010cms-1,(d) None of these,(a) 2 × 1010cms-1,concept
+27,27.0,Which of the following is not essential for the formation of a pure spectrum?,(a) parallel beam of light,(b) narrow beam of light,(c) screen,(d) prism in the minimum deviation position,(c) screen,
+28,28.0,A certain far-sighted person cannot see objects closer to the eye than 100 cm. The power of the lens which will enable him to read at a distance of 25 cm will be?,(a) 3D,(b) 1D,(c) 4D,(d) 2D,(a) 3D,cross
+29,29.0,Which produces additional luminiscence in a fluorescent tube?,(a) infra red rays,(b) ultraviolet rays,(c) micro waves,(d) radio waves,(b) ultraviolet rays,eye
+30,30.0,"For achromatic combination of lenses, if we use two lenses of focal length f’ and f1 dipersive power to ω and ω’ respectively, then","(a) ω = ω0, ω’= 2ω0, f’ = 2f","(b) ω = ω0, ω’ = 2ω0, f’ = -2f","(c) ω = ω0, ω’ = 2ω0, f’ = f/2","(d) ω = ω0, ω’ = 2ω0, f’ = -f/2","(d) ω = ω0, ω’ = 2ω0, f’ = -f/2",incidence
+31,31.0,ar point of a myopic eye is 40 cm. The dioptic power of a corrective lens is:,(a) 40 D,(b) -4 D,(c) -2.5 D,(d) -0.25 diopter,(c) -2.5 D,used
+32,32.0,Two thin lenses of focal lengths 20 cm and 25 cm are placed in contact. The effective power of the combination is:,(a) 45 D,(b) 9 D,(c) \(\frac{1}{9}\) D,(d) 6 D,(b) 9 D,narrow
+33,33.0,A blue cross on the white background is illuminated with white light and is observed through red filter. What is seen?,(a) A red cross on a black background,(b) A blue cross on a red background,(c) A red cross on a blue background,(d) A black cross on a red background,(d) A black cross on a red background,speed
+34,34.0,The angle of deviation for a prism is greatest for:,(a) violet,(b) red,(c) orange,(d) yellow,(a) violet,infinite
+35,35.0,A double convex air bubble in water behaves as:,(a) Convergent lens,(b) divergent lens,(c) plane slab,(d) concave mirror,(b) divergent lens,use
+36,,,,,,,,one
+37,,,,,,,,black
+38,,,,,,,,approach
+39,,,,,,,,high
+40,,,,,,,,sound
+41,,,,,,,,centre
+42,,,,,,,,double
+43,,,,,,,,whose
+44,,,,,,,,convergent
+45,,,,,,,,passing
+46,,,,,,,,critical
+47,,,,,,,,reduce
+48,,,,,,,,xrays
+49,,,,,,,,achromatic
+50,,,,,,,,size
+51,,,,,,,,denser
+52,,,,,,,,equilateral
+53,,,,,,,,sinfrac
+54,,,,,,,,corpuscular
+55,,,,,,,,oil
+56,,,,,,,,incident
+57,,,,,,,,illuminated
+58,,,,,,,,transverse
+59,,,,,,,,unit
+60,,,,,,,,filter
+61,,,,,,,,dioptic
+62,,,,,,,,dipersive
+63,,,,,,,,frequency
+64,,,,,,,,perpendicular
+65,,,,,,,,achieved
+66,,,,,,,,water
+67,,,,,,,,real
+68,,,,,,,,ater
+69,,,,,,,,produce
+70,,,,,,,,mean
+71,,,,,,,,maximum
+72,,,,,,,,additional
+73,,,,,,,,determine
+75,,,,,,,,vacuum
+76,,,,,,,,respect
+77,,,,,,,,face
+79,,,,,,,,corrective
+80,,,,,,,,radius
+81,,,,,,,,side
+82,,,,,,,,plane
+83,,,,,,,,formation
+84,,,,,,,,closer
+85,,,,,,,,surface
+86,,,,,,,,going
+88,,,,,,,,air
+89,,,,,,,,coaxially
+91,,,,,,,,partly
+92,,,,,,,,distance
+93,,,,,,,,path
+94,,,,,,,,divergent
+95,,,,,,,,minimum
+96,,,,,,,,virtual
+97,,,,,,,,read
+98,,,,,,,,intensity
+99,,,,,,,,supersonics
+100,,,,,,,,difference
+101,,,,,,,,two
+102,,,,,,,,orange
+103,,,,,,,,ray
+104,,,,,,,,concave
+106,,,,,,,,wave
+107,,,,,,,,get
+108,,,,,,,,geometrical
+109,,,,,,,,radio
+110,,,,,,,,travelling
+111,,,,,,,,behaves
+112,,,,,,,,reflected
+113,,,,,,,,equivalent
+115,,,,,,,,spectrum
+117,,,,,,,,electromagnetic
+118,,,,,,,,fluorescent
+119,,,,,,,,certain
+120,,,,,,,,called
+121,,,,,,,,slab
+122,,,,,,,,accuracy
+123,,,,,,,,ofthe
+124,,,,,,,,beam
+125,,,,,,,,time
+127,,,,,,,,yellow
+128,,,,,,,,shorter
+129,,,,,,,,infra
+130,,,,,,,,seen
+131,,,,,,,,physical
+132,,,,,,,,retraces
+133,,,,,,,,refractive
+134,,,,,,,,medium
+135,,,,,,,,equal
+136,,,,,,,,radiowaves
+137,,,,,,,,following
+138,,,,,,,,finite
+139,,,,,,,,light
+140,,,,,,,,point
+141,,,,,,,,reflection
+142,,,,,,,,deviation
+143,,,,,,,,glass
+144,,,,,,,,situated
+145,,,,,,,,refracted
+146,,,,,,,,optical
+147,,,,,,,,refraction
+148,,,,,,,,order
+149,,,,,,,,ultrasonics
+150,,,,,,,,antenna
+151,,,,,,,,using
+152,,,,,,,,branch
+153,,,,,,,,wavelength
+154,,,,,,,,field
+155,,,,,,,,tube
+156,,,,,,,,cant
+157,,,,,,,,monochromatic
+158,,,,,,,,dipped
+159,,,,,,,,cannot
+160,,,,,,,,electric
+161,,,,,,,,made
+162,,,,,,,,vector
+163,,,,,,,,energy
+164,,,,,,,,contact
+165,,,,,,,,polarized
+166,,,,,,,,white
+167,,,,,,,,screen
+168,,,,,,,,increase
+169,,,,,,,,bubble
+170,,,,,,,,object
+171,,,,,,,,dealing
+172,,,,,,,,placed
+173,,,,,,,,line
+174,,,,,,,,parallel
+175,,,,,,,,ultraviolet
+176,,,,,,,,angle
+177,,,,,,,,magnetic
+178,,,,,,,,mirror
+179,,,,,,,,respectively
+180,,,,,,,,another
+182,,,,,,,,lens
+183,,,,,,,,become
+184,,,,,,,,entering
+185,,,,,,,,suffers
+186,,,,,,,,see
+187,,,,,,,,enable
+188,,,,,,,,material
+189,,,,,,,,power
+190,,,,,,,,phase
+191,,,,,,,,involve
+192,,,,,,,,red
+193,,,,,,,,image
+195,,,,,,,,observed
+196,,,,,,,,farsighted
+197,,,,,,,,none
+198,,,,,,,,diopter
+199,,,,,,,,sphere
+200,,,,,,,,change
+201,,,,,,,,pure
+202,,,,,,,,greatest
+203,,,,,,,,quantum
+204,,,,,,,,index
+205,,,,,,,,luminiscence
+206,,,,,,,,polarised
+207,,,,,,,,objective
+208,,,,,,,,thin
+209,,,,,,,,person
+210,,,,,,,,inside
+211,,,,,,,,myopic
+212,,,,,,,,due
+213,,,,,,,,focal
+215,,,,,,,,background
+216,,,,,,,,year
+218,,,,,,,,source
+219,,,,,,,,violet
+220,,,,,,,,combination
+221,,,,,,,,straight
+222,,,,,,,,convex
+223,,,,,,,,position
+224,,,,,,,,diameter
+225,,,,,,,,shine

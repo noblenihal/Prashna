@@ -1,140 +1,180 @@
-,index,0;1;2;3;4;Answer,Words
-0,0.0,S.I. unit of flux is :;(a) Ohm;(b) Weber;(c) Tesla;(d) None;(b) Weber,
-1,1.0,What is the angle of dip at a place where the horizontal component of earth’s magnetic field is equal to the vertical component?;(a) 0°;(b) 30°;(c) 45°;(d) 90°;(c) 45°,higher
-2,2.0,Which of the following has a low value in ferrites?;(a) Conductivity;(b) Permeability;(c) Magnetic susceptibility;(d) All the above;(a) Conductivity,presence
-3,3.0,The dimensional representation of magnetic flux density is :;(a) [MLT-2];(b) [MLT-2A-1];(c) [MLT-2A-2];(d) [MT-2A-1];(d) [MT-2A-1],dipole
-4,4.0,Tangent law is applicable only when:;(a) two uniform and mutually perpendicular magnetic fields exist;(b) two magnetic fields exist;(c) horizontal component of earth’s magnetic field is present;(d) uniform magnetic field are used;(a) two uniform and mutually perpendicular magnetic fields exist,west
-5,5.0,Ferrites may be:;(a) ant. ferromagnetic;(b) ferromagnetic;(c) ferrimagnetic;(d) None of the above;(b) ferromagnetic,earth
-6,6.0,The magnetic lines of force inside a bar magnet:;(a) do not exist;(b) depends on area of cross-section of bar magnet;(c) are from N-pole to S-pole of the magnet;(d) are from S-pole to N-pole of the magnet.;(d) are from S-pole to N-pole of the magnet.,
-7,7.0,A magnetic dipole moment is a vector quantity directed from:;(a) S to N;(b) N to S;(c) E to W;(d) W to E;(a) S to N,gimbals
-8,8.0,A current carrying power line carries current from west to east. What will be direction of magnetic field 1 meter above it?;(a) N to S;(b) S to N;(c) E to W;(d) W to E;(a) N to S,tangent
-9,9.0,The dimensional representation of \(\sqrt{l/MB}\) is similar to that of:;(a) frequency;(b) time;(c) distance;(d) speed;(b) time,less
-10,10.0,The magnetic field strength due to a short bar magnet directed along its axial line at a distance r is B. What is its value at the same distance along the equatorial line?;(a) B;(b) 2B;(c) \(\frac{B}{2}\);(d) \(\frac{B}{4}\);(c) \(\frac{B}{2}\),
-11,11.0,The neutral point in the magnetic field of a horizontally placed bar magnet is a point where the magnetic field due to that bar magnet is:;(a) zero;(b) more than that of earth;(c) less than that of earth;(d) equal to that of earth;(d) equal to that of earth,momentum
-12,12.0,The force acting per unit length of a semi circular wire of radius R carrying a current I is:;(a) \(\frac{µ_0l^2}{4R}\);(b) \(\frac{µ_0l^2}{2R}\);(c) \(\frac{µ_0l^2}{R}\);(d) \(\frac{2µ_0l^2}{R}\);(a) \(\frac{µ_0l^2}{4R}\),carries
-13,13.0,Which of the following has higher magnetic susceptibility?;(a) diamagnetic;(b) paramagnetic;(c) ferromagnetic;(d) None of these;(c) ferromagnetic,proportional
-14,14.0,The magnetic field of earth is due to:;(a) induction effect of the sun;(b) the presence of a large magnet at the centre of the earth;(c) interaction of cosmic rays with the current of earth;(d) motion and distribution of some material in an outside the earth;(d) motion and distribution of some material in an outside the earth,ferrimagnetic
-15,15.0,The Mariner’s compass is provided with Gimbals arrangement so as to :;(a) keep the needle always horizontal;(b) give a direct reading of declination;(c) give the direct value of dip;(d) all of the above;(c) give the direct value of dip,uniform
-16,16.0,A wire of length I has a magnetic moment M. It is then bent into a semi-circular arc. The neyv magnetic moment is :;(a) M;(b) M.l.;(c) \(\frac{2M}{π}\);(d) \(\frac{M}{π}\);(c) \(\frac{2M}{π}\),quantity
-17,17.0,"The relation between geometric length (L) and magnetic length (Lm) is:;(a) Lm = \(\frac{5}{6}\) Lg;(b) Lm = \(\frac{6}{5}\) Lg;(c) (a) Lm = Lg;""(d) Lm = 2RY;UL Lg"";(a) Lm = \(\frac{5}{6}\) Lg",weber
-18,18.0,The radius of curvature of the path of charged particle in a uniform magnetic file is directly proportional to the;(a) charge on fie particle;(b) Momentum of particle;(c) energy of particle;(d) Strength of field;(b) Momentum of particle,meter
-19,,,along
-20,,,permeability
-21,,,due
-22,,,component
-23,,,interaction
-24,,,motion
-25,,,provided
-26,,,representation
-27,,,bar
-28,,,magnet
-29,,,geometric
-31,,,frequency
-33,,,axial
-34,,,none
-35,,,radius
-36,,,equatorial
-37,,,dimensional
-38,,,bent
-39,,,directed
-40,,,acting
-41,,,declination
-42,,,magnetic
-43,,,east
-44,,,horizontally
-45,,,zero
-46,,,paramagnetic
-47,,,curvature
-48,,,energy
-49,,,path
-50,,,particle
-51,,,always
-52,,,induction
-53,,,arrangement
-54,,,carrying
-55,,,effect
-56,,,spole
-57,,,value
-58,,,force
-59,,,vertical
-60,,,compass
-61,,,distance
-62,,,present
-63,,,time
-64,,,direction
-65,,,relation
-66,,,earths
-67,,,ferromagnetic
-68,,,applicable
-69,,,place
-70,,,wire
-71,,,similar
-73,,,mutually
-74,,,mariners
-75,,,outside
-76,,,horizontal
-78,,,length
-79,,,two
-80,,,field
-81,,,ant
-82,,,density
-84,,,distribution
-85,,,give
-86,,,law
-87,,,perpendicular
-88,,,ohm
-89,,,file
-90,,,material
-91,,,fields
-92,,,fie
-93,,,cosmic
-94,,,needle
-95,,,large
-96,,,short
-97,,,rays
-98,,,charged
-99,,,ryul
-100,,,placed
-101,,,semicircular
-102,,,depends
-103,,,strength
-104,,,lines
-105,,,semi
-106,,,susceptibility
-107,,,power
-108,,,centre
-109,,,arc
-110,,,moment
-111,,,neyv
-112,,,tesla
-113,,,neutral
-114,,,circular
-115,,,flux
-116,,,per
-117,,,diamagnetic
-118,,,equal
-119,,,vector
-120,,,following
-121,,,keep
-122,,,line
-123,,,point
-124,,,speed
-125,,,exist
-126,,,unit
-128,,,low
-129,,,crosssection
-130,,,direct
-131,,,charge
-132,,,may
-133,,,ferrites
-134,,,area
-135,,,npole
-136,,,dip
-137,,,conductivity
-138,,,current
-139,,,directly
-140,,,reading
-141,,,sun
-142,,,angle
-143,,,used
-144,,,inside
+,index,0,1,2,3,4,Answer,Words
+0,0.0,S.I. unit of flux is :,(a) Ohm,(b) Weber,(c) Tesla,(d) None,(b) Weber,zero
+1,1.0,What is the angle of dip at a place where the horizontal component of earth’s magnetic field is equal to the vertical component?,(a) 0°,(b) 30°,(c) 45°,(d) 90°,(c) 45°,meter
+2,2.0,Which of the following has a low value in ferrites?,(a) Conductivity,(b) Permeability,(c) Magnetic susceptibility,(d) All the above,(a) Conductivity,keeping
+3,3.0,The dimensional representation of magnetic flux density is :,(a) [MLT-2],(b) [MLT-2A-1],(c) [MLT-2A-2],(d) [MT-2A-1],(d) [MT-2A-1],semi
+4,4.0,Tangent law is applicable only when:,(a) two uniform and mutually perpendicular magnetic fields exist,(b) two magnetic fields exist,(c) horizontal component of earth’s magnetic field is present,(d) uniform magnetic field are used,(a) two uniform and mutually perpendicular magnetic fields exist,pole
+5,5.0,Ferrites may be:,(a) ant. ferromagnetic,(b) ferromagnetic,(c) ferrimagnetic,(d) None of the above,(b) ferromagnetic,semicircular
+6,6.0,"A magnetic bar of M magnetic moment is placed m the field of magnetic strength B, the torque acting on it is :",(a) \(\vec{M} \).\(\vec{B} \),(b) –\(\vec{M} \).\(\vec{B} \),(c) \(\vec{M} \) × \(\vec{B} \).,(d) \(\vec{B} \) × \(\vec{M} \),(c) \(\vec{M} \) × \(\vec{B} \).,give
+7,7.0,The magnetic lines of force inside a bar magnet:,(a) do not exist,(b) depends on area of cross-section of bar magnet,(c) are from N-pole to S-pole of the magnet,(d) are from S-pole to N-pole of the magnet.,(d) are from S-pole to N-pole of the magnet.,file
+8,8.0,A magnetic dipole moment is a vector quantity directed from:,(a) S to N,(b) N to S,(c) E to W,(d) W to E,(a) S to N,direction
+9,9.0,"What is the magnetic field in the empty space enclosed by the toroidal solenoid of radius ‘R’? ,",(a) Infinity,(b) \(\frac{µ_0}{4π}\).\(\frac{2πl}{R}\),(c) \(\frac{µ_0}{4π}\).(\(\frac{πl}{R}\)),(d) zero,(d) zero,ant
+10,10.0,A current carrying power line carries current from west to east. What will be direction of magnetic field 1 meter above it?,(a) N to S,(b) S to N,(c) E to W,(d) W to E,(a) N to S,horizontal
+11,11.0,The dimensional representation of \(\sqrt{l/MB}\) is similar to that of:,(a) frequency,(b) time,(c) distance,(d) speed,(b) time,axial
+12,12.0,"On quadrupling the moment of inertia of a magnet, its frequency of oscillation will become:",(a) half,(b) double,(c) four times,(d) one-fourth,(a) half,induction
+13,13.0,The magnetic field strength due to a short bar magnet directed along its axial line at a distance r is B. What is its value at the same distance along the equatorial line?,(a) B,(b) 2B,(c) \(\frac{B}{2}\),(d) \(\frac{B}{4}\),(c) \(\frac{B}{2}\),flux
+14,14.0,The neutral point in the magnetic field of a horizontally placed bar magnet is a point where the magnetic field due to that bar magnet is:,(a) zero,(b) more than that of earth,(c) less than that of earth,(d) equal to that of earth,(d) equal to that of earth,length
+15,15.0,"In a moving coil galvanometer, we use a radial magnetic field so that the galvanometer scale is :",(a) exponential,(b) linear,(c) algebraic,(d) logarithmic,(b) linear,arrangement
+16,16.0,"The force between two parallel wire 2 × 10-7 Nm-1, placed 1 m apart to each other in vacuum. The electric current flowing through the wires is:",(a) 1 A,(b) zero,(c) 5 × 106 A,(d) 2 × 10-7 A,(a) 1 A,charge
+17,17.0,The force acting per unit length of a semi circular wire of radius R carrying a current I is:,(a) \(\frac{µ_0l^2}{4R}\),(b) \(\frac{µ_0l^2}{2R}\),(c) \(\frac{µ_0l^2}{R}\),(d) \(\frac{2µ_0l^2}{R}\),(a) \(\frac{µ_0l^2}{4R}\),curvature
+18,18.0,Which of the following has higher magnetic susceptibility?,(a) diamagnetic,(b) paramagnetic,(c) ferromagnetic,(d) None of these,(c) ferromagnetic,carrying
+19,19.0,The magnetic field of earth is due to:,(a) induction effect of the sun,(b) the presence of a large magnet at the centre of the earth,(c) interaction of cosmic rays with the current of earth,(d) motion and distribution of some material in an outside the earth,(d) motion and distribution of some material in an outside the earth,dimensional
+20,20.0,"In a bar magnet, magnetic lines of force z :",(a) are produced only at north pole like rays of light from a bulb,(b) starts from north pole and ends at the south pole,(c) emerge in circular paths from the middle of the bar,(d) run continuously through the bar and outside,(b) starts from north pole and ends at the south pole,inertia
+21,21.0,The Mariner’s compass is provided with Gimbals arrangement so as to :,(a) keep the needle always horizontal,(b) give a direct reading of declination,(c) give the direct value of dip,(d) all of the above,(c) give the direct value of dip,used
+22,22.0,A wire of length I has a magnetic moment M. It is then bent into a semi-circular arc. The neyv magnetic moment is :,(a) M,(b) M.l.,(c) \(\frac{2M}{π}\),(d) \(\frac{M}{π}\),(c) \(\frac{2M}{π}\),solenoid
+23,23.0,The relation between geometric length (L) and magnetic length (Lm) is:,(a) Lm = \(\frac{5}{6}\) Lg,(b) Lm = \(\frac{6}{5}\) Lg,(c) (a) Lm = Lg,(d) Lm = 2RY;UL Lg,(a) Lm = \(\frac{5}{6}\) Lg,effect
+24,24.0,The radius of curvature of the path of charged particle in a uniform magnetic file is directly proportional to the,(a) charge on fie particle,(b) Momentum of particle,(c) energy of particle,(d) Strength of field,(b) Momentum of particle,speed
+25,25.0,"The magnetic field at the centre of a current carrying circular loop is B. If the radius of the loop is doubled keeping the current unchanged, the magnetic field at the centre of loop will become:",(a) \(\frac{B}{2}\),(b) \(\frac{B}{4}\),(c) 2B,(d) 4B,(b) \(\frac{B}{4}\),horizontally
+26,,,,,,,,use
+27,,,,,,,,compass
+28,,,,,,,,permeability
+29,,,,,,,,carry
+30,,,,,,,,large
+31,,,,,,,,centre
+32,,,,,,,,double
+33,,,,,,,,provided
+34,,,,,,,,charged
+35,,,,,,,,logarithmic
+36,,,,,,,,onefourth
+37,,,,,,,,geometric
+38,,,,,,,,npole
+39,,,,,,,,outside
+40,,,,,,,,interaction
+41,,,,,,,,distribution
+42,,,,,,,,oscillation
+43,,,,,,,,directed
+44,,,,,,,,scale
+45,,,,,,,,middle
+46,,,,,,,,unit
+47,,,,,,,,momentum
+48,,,,,,,,like
+49,,,,,,,,frequency
+50,,,,,,,,directly
+51,,,,,,,,uniform
+52,,,,,,,,perpendicular
+53,,,,,,,,direct
+54,,,,,,,,ferromagnetic
+55,,,,,,,,sun
+56,,,,,,,,apart
+58,,,,,,,,bulb
+59,,,,,,,,paramagnetic
+60,,,,,,,,bent
+61,,,,,,,,doubled
+62,,,,,,,,vacuum
+63,,,,,,,,emerge
+64,,,,,,,,magnet
+65,,,,,,,,fie
+66,,,,,,,,current
+67,,,,,,,,radius
+68,,,,,,,,ferrite
+69,,,,,,,,susceptibility
+70,,,,,,,,half
+71,,,,,,,,four
+73,,,,,,,,declination
+74,,,,,,,,ferrimagnetic
+76,,,,,,,,law
+77,,,,,,,,empty
+78,,,,,,,,distance
+79,,,,,,,,north
+80,,,,,,,,conductivity
+81,,,,,,,,moment
+82,,,,,,,,path
+83,,,,,,,,mariners
+84,,,,,,,,mutually
+85,,,,,,,,arc
+86,,,,,,,,present
+87,,,,,,,,applicable
+88,,,,,,,,two
+89,,,,,,,,ray
+90,,,,,,,,area
+91,,,,,,,,bar
+94,,,,,,,,relation
+95,,,,,,,,proportional
+96,,,,,,,,place
+97,,,,,,,,galvanometer
+98,,,,,,,,acting
+99,,,,,,,,coil
+100,,,,,,,,space
+101,,,,,,,,equatorial
+102,,,,,,,,moving
+103,,,,,,,,exist
+104,,,,,,,,enclosed
+105,,,,,,,,time
+106,,,,,,,,torque
+107,,,,,,,,needle
+108,,,,,,,,dipole
+109,,,,,,,,dip
+110,,,,,,,,neutral
+111,,,,,,,,per
+112,,,,,,,,neyv
+113,,,,,,,,equal
+114,,,,,,,,infinity
+115,,,,,,,,gimbals
+116,,,,,,,,unchanged
+117,,,,,,,,following
+118,,,,,,,,quadrupling
+119,,,,,,,,light
+120,,,,,,,,point
+121,,,,,,,,loop
+122,,,,,,,,particle
+123,,,,,,,,quantity
+124,,,,,,,,algebraic
+125,,,,,,,,circular
+126,,,,,,,,keep
+127,,,,,,,,start
+128,,,,,,,,along
+129,,,,,,,,field
+131,,,,,,,,ryul
+132,,,,,,,,earth
+133,,,,,,,,vertical
+134,,,,,,,,electric
+135,,,,,,,,vector
+136,,,,,,,,spole
+137,,,,,,,,always
+139,,,,,,,,energy
+140,,,,,,,,south
+141,,,,,,,,produced
+142,,,,,,,,motion
+143,,,,,,,,force
+144,,,,,,,,linear
+145,,,,,,,,parallel
+146,,,,,,,,placed
+147,,,,,,,,line
+149,,,,,,,,angle
+150,,,,,,,,magnetic
+151,,,,,,,,reading
+152,,,,,,,,value
+153,,,,,,,,flowing
+154,,,,,,,,become
+155,,,,,,,,end
+156,,,,,,,,run
+157,,,,,,,,ohm
+158,,,,,,,,presence
+159,,,,,,,,east
+161,,,,,,,,exponential
+162,,,,,,,,similar
+163,,,,,,,,power
+164,,,,,,,,wire
+165,,,,,,,,material
+166,,,,,,,,crosssection
+167,,,,,,,,radial
+168,,,,,,,,component
+169,,,,,,,,continuously
+170,,,,,,,,none
+171,,,,,,,,vecm
+173,,,,,,,,representation
+174,,,,,,,,higher
+175,,,,,,,,density
+176,,,,,,,,tesla
+177,,,,,,,,short
+178,,,,,,,,inside
+179,,,,,,,,weber
+180,,,,,,,,low
+181,,,,,,,,toroidal
+182,,,,,,,,due
+183,,,,,,,,west
+185,,,,,,,,diamagnetic
+186,,,,,,,,cosmic
+187,,,,,,,,strength
+188,,,,,,,,depends
+189,,,,,,,,may
