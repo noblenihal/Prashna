@@ -1,0 +1,365 @@
+,index,0,1,2,3,4,Answer,Words
+0,0.0,The solubility of Ca3​(PO4​​)2​ in water is y mol/L. Its solubility product is:,(a) 6y²,(b) 36 y4,(c) 64 y5,(d) 108 y5,"(d) 108 y5
+Explanation:
+
+= (3y)³ × (2y)²
+= 27 y³ × 4y²
+= 108 y5",radicalsna
+1,1.0,A physician wishes to prepare a buffer solution at pH = 3.85 that efficiently resists changes in pH yet contains only small concentration of the buffering agents. Which of the following weak acids together with its sodium salt would be best to use?,"(a) 2, 5-Dihydroxy benzoic acid (pKa = 2.97)",(b) Acetoacetic acid (pKa = 3.58),(c) m-Chlorobenzoic acid (pKa = 3.98),(d) p-Chlorocinnamic acid (pKa = 4.41),"(b) Acetoacetic acid (pKa = 3.58)
+Explanation:
+For small concentration of buffering agent and for maximum buffer capacity
+[Salt]/ [Acid] ≈ 1
+i.e., pH = pKa",hydrolysis
+2,2.0,Which of the following aqueous solutions will have highest pH?,(a) NaCl,(b) CH3COONa,(c) Na2CO3,(d) NH4Cl,"(c) Na2CO3
+Explanation:
+NaCl is salt of strong acid and strong base so it has pH of about 7.
+NH4Cl is salt of strong acid and weak base so it has pH is much less than 7.
+CH3​COONH4 is salt of weak acid and weak base so it has pH of about 7.
+Na2​CO3 is salt of weak acid and strong base so it has pH is much greater than 7.",every
+3,3.0,"What is the pH of a 0.10 M solution of barium hydroxide, Ba (OH)2?",(a) 11.31,(b) 11.7,(c) 13.30,(d) None of these,"(c) 13.30
+Explanation:
+pH = 13.30
+Barium hydroxide is a strong base for both stages of dissociation:
+Ba (OH)2(s) → Ba2+ + 2OH–
+So the solution will have 0.20 M hydroxide ions. Now use the auto dissociation product for water:
+[H+][OH–] = 1.0 × 10-14M
+[OH–] = 2.0 × 10-1M
+[H+] = 5.0 × 10-14M
+And then pH = −log10 ([H+] = 5.0 × 10-14)
+= 13.30.",option
+4,4.0,Which of the following oxides is not expected to react with sodium hydroxide?,(a) CaO,(b) SiO2,(c) BeO,(d) B2O3,"(a) CaO
+Explanation:
+CaO being a basic oxide does not react with NaOH, however SiO2 (acidic oxide), BeO (amphoteric oxide) and Br2O3 (acidic oxide) react with NaOH.",used
+5,5.0,The pH of a 10-10 M NaOH solution is nearest to,(a) 10,(b) 7,(c) 4,(d) -10,"(c) 4
+Explanation:
+pOH= −log [OH–]
+= −log 10-10
+= 10 log 10
+= 10pH + pOH
+= 14pH
+= 14−pOH
+= 14−10
+= 4",nhohexcess
+6,6.0,A weak acid HX has the dissociation constant 1 × 10-5 M. It forms a salt NaX on reaction with alkali. The degree of hydrolysis of 0.1 M solution of NaX is,(a) 0.0001%,(b) 0.01%,(c) 0.1%,(d) 0.15%,"(b) 0.01%
+Explanation:
+NaX: Salt of weak acid, strong base.
+⇒ α = (√Kh/c)
+= √ (Kw)/ (KaC)
+= (10-14)/(10-5×0.1)
+= 10-4
+⇒ % hydrolysis = 0.01%",conjugate
+7,7.0,"When equal volumes of 0.1 M NaOH and 0.01 M HCl are mixed, the hydroxide ion concentration is",(a) 7.0,(b) 1.04,(c) 12.65,(d) 2.0,"(c) 12.65
+Explanation:
+When equal volumes of 0.1 M NaOH and 0.01 M HCl are mixed, the hydroxide ion concentration is
+(0.1 – 0.01)/(2)
+​= 0.045 M
+The pOH of the solution is pOH = −log [OH–]
+= −log 0.045
+= 1.35
+The pH of the solution is pH = 14 − pOH
+= 14 − 1.35
+= 12.65",mnthe
+8,8.0,Concentration of the Ag+ ions in a saturated solution of Ag2C2O4 is 2.2 x 10-4 mol L-1. Solubility product of Ag2C2O42 is,(a) 2.66 × 10-12,(b) 4.5 × 10-11,(c) 5.3 × 10-12,(d) 2.42 × 10-8,"(c) 5.3 × 10-12
+Explanation:
+[Ag+] = 2.2 × 10-4 mol L-1
+[C2​O42-] = 0.5[Ag+] = 0.5 × 2.2 × 10-4 mol L-1 = 1.1 × 10-4 mol L-1
+Ksp ​=[Ag+]² [C2O42-​]Ksp
+= (2.2 × 10-4 mol L-1)² × 1.1 × 10-4 mol L-1
+Ksp = 5.3 × 10-12",kwnkb
+9,9.0,"In a reversible chemical reaction at equilibrium, if the concentration of any one of the reactants is doubled, then the equilibrium constant will",(a) Also be Doubled,(b) Be Halved,(c) Remain the Same,(d) Become One-Fourth,"(c) Remain the Same
+Explanation:
+Equilibrium constants are not changed if you change the concentrations of things present in the equilibrium. The only thing that changes an equilibrium constant is a change of temperature.",reactant
+10,10.0,"When a neutral atom undergoes oxidation, the atoms oxidation state",(a) Decreases as it gains electrons,(b) Decreases as it loses electrons,(c) Increases as it gains electrons,(d) Increases as it loses electrons,"(d) Increases as it loses electrons
+Explanation:
+The acronym “OILRIG” can be used to remember this: Oxidation is Losing electrons, Reduction is Gaining electrons. Therefore, when an atom undergoes oxidation, it loses electrons. This makes its net charge more positive, so its oxidation state increases.",dissociationnba
+11,11.0,Concentration of the Ag-4 ions in a saturated solution of Ag2C2O4 is 2.2 × (a) 10-4 mol L-1. Solubility product of Ag2C2O4 is,(b) 2.66 × 10-12,(c) 4.5 × 10-11,(d) 5.3 × 10-12,2.42 × 10-8,"(c) 4.5 × 10-11
+Explanation:
+[Ag+] = 2.2 × 10-4 mol L-1
+[C2​O42-] = 0.5[Ag+] = 0.5 × 2.2 × 10-4 mol L-1 =1.1×10-4 mol L-1
+Ksp ​= [Ag+]² [C2​O42-​] Ksp
+= (2.2 × 10-4 mol L-1)² × 1.1 × 10-4 mol L-1
+Ksp = 5.3 × 10-12",similarly
+12,12.0,Among the following the weakest Bronsted base is,(a) F–,(b) Cl–,(c) Br–,(d) I–,"(d) I–
+Explanation:
+According to this theory, an acid is a proton donor and a base is a proton acceptor. Every strong Bronsted acid has a weak conjugate base and every strong base has a weak conjugate acid. The acidity increases in halogen group atoms,
+HF < HCl < HBr < HI.
+So, HI is highly acidic and their conjugate bases decrease in order F– > Cl– > Br– > I–.",
+13,13.0,A certain buffer solution contains equal concentration of X– and HX. The ka for HX is 10-8. The pH of the buffer is,(a) 3,(b) 8,(c) 11,(d) 14,"(b) 8
+Explanation:
+ka kb = kw
+kb = 10-8
+ka × 10-8 = 10-14
+ka = 10-6 = [H+]
+pH = −log [H+]
+pH = −log 10-6
+= 6pH + pOH
+= 14 pOH
+= 14−6
+= 8",waternhoh
+14,14.0,"What is the pH of a 0.10 M solution of barium hydroxide, Ba (OH)2?",(a) 11.31,(b) 11.7,(c) 13.30,(d) None of these,"(c) 13.30
+Explanation:
+pH =13.30
+Barium hydroxide is a strong base for both stages of dissociation:
+Ba (OH)2(s) → Ba2+ + 2OH–
+So the solution will have 0.20 M hydroxide ions. Now use the auto dissociation product for water:
+[H+][OH–] = 1.0×10-14M
+[OH–] = 2.0 × 10-1M
+[H+] = 5.0 × 10-14M
+And then pH = −log10 ([H+] = 5.0 × 10-14)
+= 13.30.",naoh
+15,15.0,Solubility of M2S salt is 3.5 × 10-6 then find out solubility product.,(a) 1.7 × 10-6,(b) 1.7 × 10-16,(c) 1.7 × 10-18,(d) 1.7 × 10-12,"(b) 1.7 × 10-16
+Explanation:
+Let ”s“ be the solubility of salt M2​S which undergoes dissociation as follows :-
+M2​S ⇌ 2M+ +S-2
+Initial concentration 1 0 0
+Concentration at equilibrium 1-s 2s s
+Hence, the solubility product (Ksp) = (s) × (2s)²
+Therefore, Ksp = 4 × s³
+Or Ksp​​ = 4× (3.5×10-6)³
+⇒ Ksp​
+= 1.7 × 10-16",aqueous
+16,16.0,"Among the following hydroxides, the one which has the lowest value of Ksp at ordinary temperature (about 25°C ) is",(a) Mg (OH)2,(b) Ca(OH)2,(c) Ba(OH)2,(d) Be(OH)2,"(d) Be(OH)2
+Explanation:
+Be(OH)2 ​has the lowest value of Ksp at ordinary temperature because Be2+ ion is smaller than the other metal ions in the group, which results in a tighter bond with the 0H– ions, thus much lower solubility.",become
+17,17.0,Which of the following mixtures in aqueous solution of equimolar concentration acts as a buffer solution?,(a) HNO3 and NaOH,(b) H2SO4 and KOH,(c) NH4OH(excess) + HCl,(d) CH3COOH and NaOH(excess),"(c) NH4OH(excess) + HCl
+Explanation:
+A mixture of ammonium hydroxide and HCl react to form ammonium chloride. This also contains unreacted ammonium hydroxide.
+NH4​ OH + HCl → NH4Cl + H2O
+Thus, the resulting mixture of (NH4OH+NH4Cl) is a basic buffer solution. It contains a mixture of weak base ammonium hydroxide and its salt (ammonium chloride) with strong acid (HCl).
+It is used in a qualitative analysis of group III radicals.
+A mixture of HNO3 and NaOH is a mixture of strong acid and strong base similarly a mixture of
+H2​SO4 and KOH is also a mixture of strong acid and strong base, thus they do not form buffer solution.
+Similarly, in option 4 mixture will form a strong base and salt of strong base weak acid hence it will not form a buffer solution.",remember
+18,18.0,Which of the following aqueous solutions will have highest pH?,(a) NaCl,(b) CH3COONa,(c) Na2CO3,(d) NH4Cl,"(c) Na2CO3
+Explanation:
+NaCl is salt of strong acid and strong base so it has pH of about 7.
+NH4​Cl is salt of strong acid and weak base so it has pH is much less than 7.
+CH3COONH4 is salt of weak acid and weak base so it has pH of about 7.
+Na2​CO3 is salt of weak acid and strong base so it has pH is much greater than 7.",group
+19,19.0,Amines behave as,(a) Lewis Acids,(b) Lewis Base,(c) Aprotic Acid,(d) Neutral Compound,"(b) Lewis Base
+Explanation:
+R−NH2 (Amines) behaves as a Lewis base because it is capable of donating a lone pair of electron.",nchcoonh
+20,,,,,,,,basenexplanationnrnh
+21,,,,,,,,salt
+22,,,,,,,,halogen
+23,,,,,,,,snor
+24,,,,,,,,unreacted
+25,,,,,,,,inexplanationnaccording
+26,,,,,,,,undergoes
+27,,,,,,,,beo
+28,,,,,,,,neutral
+29,,,,,,,,pka
+31,,,,,,,,donor
+32,,,,,,,,samenexplanationnequilibrium
+33,,,,,,,,ordinary
+34,,,,,,,,capable
+35,,,,,,,,donating
+36,,,,,,,,log
+37,,,,,,,,water
+38,,,,,,,,solubility
+39,,,,,,,,wish
+40,,,,,,,,onefourth
+41,,,,,,,,find
+42,,,,,,,,follows
+43,,,,,,,,also
+44,,,,,,,,hno
+45,,,,,,,,nmubs
+46,,,,,,,,chloride
+47,,,,,,,,value
+48,,,,,,,,certain
+49,,,,,,,,net
+50,,,,,,,,resulting
+51,,,,,,,,iii
+52,,,,,,,,mnoh
+53,,,,,,,,would
+55,,,,,,,,nhcl
+56,,,,,,,,nbarium
+57,,,,,,,,mchlorobenzoic
+58,,,,,,,,use
+59,,,,,,,,however
+60,,,,,,,,remain
+61,,,,,,,,compound
+63,,,,,,,,nax
+64,,,,,,,,yet
+65,,,,,,,,decrease
+66,,,,,,,,charge
+67,,,,,,,,acid
+68,,,,,,,,doubled
+69,,,,,,,,resists
+70,,,,,,,,solution
+71,,,,,,,,physician
+72,,,,,,,,thus
+73,,,,,,,,mnand
+74,,,,,,,,equimolar
+75,,,,,,,,hence
+78,,,,,,,,bond
+79,,,,,,,,reduction
+80,,,,,,,,act
+81,,,,,,,,react
+83,,,,,,,,efficiently
+84,,,,,,,,base
+86,,,,,,,,caoh
+87,,,,,,,,ohnso
+88,,,,,,,,metal
+89,,,,,,,,auto
+90,,,,,,,,nie
+91,,,,,,,,mubs
+92,,,,,,,,buffer
+93,,,,,,,,acetoacetic
+94,,,,,,,,maximum
+95,,,,,,,,kacn
+96,,,,,,,,poh
+97,,,,,,,,oilrig
+98,,,,,,,,kspubn
+99,,,,,,,,none
+100,,,,,,,,strong
+101,,,,,,,,ynexplanationnn
+102,,,,,,,,gain
+103,,,,,,,,together
+104,,,,,,,,reaction
+105,,,,,,,,decreases
+106,,,,,,,,order
+107,,,,,,,,pohn
+108,,,,,,,,hso
+109,,,,,,,,atomsnhf
+110,,,,,,,,loses
+112,,,,,,,,sninitial
+113,,,,,,,,therefore
+114,,,,,,,,chcoona
+115,,,,,,,,ksp
+116,,,,,,,,behaves
+117,,,,,,,,mixed
+118,,,,,,,,highly
+119,,,,,,,,electronsnexplanationnthe
+120,,,,,,,,agco
+121,,,,,,,,acids
+123,,,,,,,,acidic
+125,,,,,,,,constant
+126,,,,,,,,sio
+127,,,,,,,,nexplanationnnax
+128,,,,,,,,halved
+129,,,,,,,,temperature
+130,,,,,,,,baoh
+131,,,,,,,,amphoteric
+133,,,,,,,,nchubcoonh
+134,,,,,,,,smaller
+135,,,,,,,,benzoic
+136,,,,,,,,reversible
+137,,,,,,,,bronsted
+138,,,,,,,,product
+139,,,,,,,,kspn
+140,,,,,,,,hydroxide
+141,,,,,,,,kspubub
+143,,,,,,,,tighter
+144,,,,,,,,hclnexplanationna
+145,,,,,,,,nub
+146,,,,,,,,oxide
+147,,,,,,,,naco
+148,,,,,,,,oxidation
+149,,,,,,,,proton
+150,,,,,,,,hbr
+151,,,,,,,,aprotic
+152,,,,,,,,nnhubcl
+153,,,,,,,,koh
+154,,,,,,,,weakest
+156,,,,,,,,nexplanationnlet
+157,,,,,,,,mol
+158,,,,,,,,electron
+159,,,,,,,,atom
+160,,,,,,,,hydroxidennhub
+161,,,,,,,,behave
+162,,,,,,,,lewis
+163,,,,,,,,nhohnhcl
+164,,,,,,,,buffering
+166,,,,,,,,sntherefore
+167,,,,,,,,solutionnsimilarly
+168,,,,,,,,beohnexplanationnbeoh
+169,,,,,,,,present
+170,,,,,,,,lnksp
+171,,,,,,,,nexplanationnka
+172,,,,,,,,weak
+173,,,,,,,,capacitynsalt
+174,,,,,,,,phn
+175,,,,,,,,sodium
+176,,,,,,,,prepare
+177,,,,,,,,hcl
+178,,,,,,,,equilibrium
+179,,,,,,,,caubpoububub
+180,,,,,,,,nka
+181,,,,,,,,ammonium
+182,,,,,,,,barium
+183,,,,,,,,lone
+184,,,,,,,,pair
+185,,,,,,,,naconexplanationnnacl
+186,,,,,,,,stage
+187,,,,,,,,equal
+188,,,,,,,,agent
+189,,,,,,,,change
+190,,,,,,,,one
+191,,,,,,,,acceptor
+192,,,,,,,,nexplanationnph
+193,,,,,,,,nearest
+194,,,,,,,,ofnhubso
+195,,,,,,,,amines
+197,,,,,,,,dissociation
+198,,,,,,,,alkali
+199,,,,,,,,much
+200,,,,,,,,volume
+201,,,,,,,,mnh
+202,,,,,,,,bro
+203,,,,,,,,hinso
+204,,,,,,,,nconcentration
+205,,,,,,,,lowest
+207,,,,,,,,pchlorocinnamic
+208,,,,,,,,greater
+209,,,,,,,,moll
+210,,,,,,,,changed
+211,,,,,,,,contains
+212,,,,,,,,losing
+213,,,,,,,,make
+214,,,,,,,,thing
+215,,,,,,,,positive
+217,,,,,,,,acidity
+218,,,,,,,,nacl
+219,,,,,,,,best
+220,,,,,,,,nexplanationnwhen
+221,,,,,,,,saturated
+222,,,,,,,,caonexplanationncao
+223,,,,,,,,nnhcl
+224,,,,,,,,form
+225,,,,,,,,basic
+226,,,,,,,,basen
+227,,,,,,,,nthe
+228,,,,,,,,highest
+229,,,,,,,,beoh
+232,,,,,,,,chemical
+233,,,,,,,,increases
+234,,,,,,,,lower
+235,,,,,,,,analysis
+236,,,,,,,,nexplanationnag
+238,,,,,,,,state
+239,,,,,,,,degree
+240,,,,,,,,small
+241,,,,,,,,ion
+242,,,,,,,,lncubo
+243,,,,,,,,acronym
+244,,,,,,,,gaining
+245,,,,,,,,cao
+246,,,,,,,,theory
+247,,,,,,,,expected
+248,,,,,,,,dihydroxy
+249,,,,,,,,snhence
+250,,,,,,,,increase
+251,,,,,,,,mixture
+252,,,,,,,,chcooh
+253,,,,,,,,qualitative
+254,,,,,,,,nexplanationnpoh
+255,,,,,,,,honthus
+256,,,,,,,,nnaubco
+257,,,,,,,,naohexcess
+258,,,,,,,,nexplanationnfor
+259,,,,,,,,hclnit
+260,,,,,,,,concentration
+261,,,,,,,,khcn
+262,,,,,,,,following
+263,,,,,,,,result

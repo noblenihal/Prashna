@@ -1,0 +1,104 @@
+0;1;2;3;4;Answer
+Third law of thermodynamics provides a method to evaluate which property?;(a) Absolute Energy;(b) Absolute Enthalpy;(c) Absolute Entropy;(d) Absolute Free Energy;"(c) Absolute Entropy
+Explanation:
+The Third Law of Thermodynamics is concerned with the limiting behavior of systems as the temperature approaches absolute zero. Most thermodynamics calculations use only entropy differences, so the zero point of the entropy scale is often not important. However, the Third Law tells us about the completeness as it describes the condition of zero entropy."
+One mole of which of the following has the highest entropy?;(a) Liquid Nitrogen;(b) Hydrogen Gas;(c) Mercury;(d) Diamond;"(b) Hydrogen Gas
+Explanation:
+The measure of randomness of a substance is called entropy. Greater the randomness of molecules of a substance greater is the entropy. Here hydrogen gas has more entropy as it shows more randomness/disorderliness due to less molar mass than all the given substances and also in the gas phase."
+The enthalpy of vaporisation of a substance is 8400 J mol-1 and its boiling point is –173°C. The entropy change for vaporisation is :;(a) 84 J mol-1K-1;(b) 21 J mol-1K-1;(c) 49 J mol-1K-1;(d) 12 J mol-1K-1;"(a) 84 J mol-1K-1
+Explanation:
+∆S = (qrev)/ (T)
+= (\(\frac {8400}{100}\))
+= 84 J mol-1K-1"
+The species which by definition has ZERO standard molar enthalpy of formation at 298 K is;(a) Br2(g);(b) Cl2(g);(c) H2O(g);(d) CH4(g);"(b) Cl2(g)
+Explanation:
+This is possible only for elements, chlorine is a gas at this temperature, but bromine is a liquid, so it is possible only for chlorine."
+In a reversible process the system absorbs 600 kJ heat and performs 250 kJ work on the surroundings. What is the increase in the internal energy of the system?;(a) 850 kJ;(b) 600 kJ;(c) 350 kJ;(d) 250 kJ;"(c) 350 kJ
+Explanation:
+∆E = q + w
+= (600 – 250)
+∆E = 350 J"
+Which of the following is true for the reaction? H2O (l) ↔ H2O (g) at 100° C and 1 atm pressure;(a) ∆S = 0;(b) ∆H = T ∆S;(c) ∆H = ∆U;(d) ∆H = 0;"(a) ∆S = 0
+Explanation:
+Equilibrium
+Therefore, ∆ G = 0 = ∆ H – T ∆ S
+Or T∆ S = ∆H"
+Calculate the heat required to make 6.4 Kg CaC2 from CaO(s) and C(s) from the reaction: CaO(s) + 3 C(s) → CaC2(s) + CO (g) given that ∆f Ho (CaC2) = -14.2 kcal. ∆f H° (CO) = -26.4 kcal.;(a) 5624 kca;(b) 1.11 × 104 kcal;(c) 86.24 × 10³;(d) 1100 kcal;"(b) 1.11 × 104 kcal
+Explanation:
+n = (Mass)/ (Molecular weight)
+= (6.4 × 10³)/ (64)
+= 100
+For 1 mole of CaC2
+∆ H = ∆Hf (CaC) + Hf (CO) – Hf (CaO)
+= -14.2 – 26.4 + 151.6 = 111.1 kcal
+For 100 moles, ∆H = 1.11 × 104 Kcal"
+In a system where ∆E = -51.0 kJ, a piston expanded against a pext of 1.2 atm giving a change in volume of 32.0 L. What was the change in heat of this system?;(a) -36 kJ;(b) -13 kJ;(c) -47 kJ;(d) 24 kJ;"(c) -47 kJ
+Explanation:
+w = -1.2 (32) × 101.3
+= – 3.89 KJ
+= -4 (approx.)
+= ∆ E = – 51.0 KJ
+Therefore, E = q + w
+– 51 = q – 4
+Therefore, q = – 47 KJ"
+A system absorb 10 kJ of heat at constant volume and its temperature rises from 270 C to 370 C. The value of ∆ U is;(a) 100 kJ;(b) 10 kJ;(c) 0 kJ;(d) 1 kJ;"(b) 10 kJ
+Explanation:
+At constant volume w = 0
+Therefore, ∆ U = q = 10 kJ"
+In which of the following process, a maximum increase in entropy is observed?;(a) Dissolution of Salt in Water;(b) Condensation of Water;(c) Sublimation of Naphthalene;(d) Melting of Ice;"(c) 5P1V1
+Explanation:
+Work done = Area under P-V graph = (\(\frac {1}{2}\)) (5P1) (2V1) = 5P1 V1"
+The bond energy (in kcal mol-1) of a C-C single bond is approximately;(a) 1;(b) 10;(c) 83-85;(d) 1000;"(c) 83-85
+Explanation:
+C–C bond 83–85 kcal/mol"
+Which thermodynamic function accounts automatically for enthalpy and entropy both?;(a) Helmholtz Free Energy (A);(b) Internal Energy (E);(c) Work Function;(d) Gibbs Free Energy;"(d) Gibbs Free Energy
+Explanation:
+Gibbs free energy combines the effect of both enthalpy and entropy. The change in free energy (ΔG) is equal to the sum of the change of enthalpy (∆H) minus the product of the temperature and the change of entropy (∆S) of the system.
+∆G = ∆H – T∆S
+ΔG predicts the direction in which a chemical reaction will go under two conditions: (1) constant temperature and (2) constant pressure.
+If ΔG is positive, then the reaction is not spontaneous (it requires the input of external energy to occur) and if it is negative, then it is spontaneous (occurs without the input of any external energy)."
+The enthalpies of combustion of carbon and carbon monoxide are -393.5 and -283.0 kJ mol-1 respectively. The enthalpy of formation of carbon monoxide is:;(a) -676 kJ;(b) 110.5 kJ;(c) -110.5 kJ;(d) 676.5 kJ;"(c) -110.5 kJ
+Explanation:
+C(s) + O2 à CO2 ∆H1 = -393.5
+CO + (\(\frac {1}{2}\)) O2 à CO2 ∆H2 = -283.0
+C(s) + (\(\frac {1}{2}\)) O2 à CO ∆H = ∆H1 – ∆H2
+= -393.5 + 283 = -110.5 KJ"
+The amount of the heat released when 20 ml 0.5 M NaOH is mixed with 100 ml 0.1 M HCl is x kJ. The heat of neutralization is;(a) -100 × kJ/mol;(b) -50 × kJ/mol;(c) 100 × KJ/mol;(d) 50 × kJ/mol;"(a) -100 × kJ/mol
+Explanation:
+Normality of NaOH = Molarity × acidity
+= 0.5 × 1 = 0.5 N
+Total heat q produced = x kJ
+Heat of neutralisation
+= [(q)/ (Volume of acid or base)] ×1000× (1/normality of acid or base)
+= (\(\frac {x}{20}\)) × 1000 × (\(\frac {1}{0.5}\))
+= 100 x kJmol-1
+Since heat is liberated, heat of neutralisation = −100 x kJmol-1"
+Based on the first law of thermodynamics, which one of the following is correct?;(a) For an isothermal process, q = +w;(b) For an isochoric process, ΔU = -q;(c) For an adiabatic process, ΔU = -w;(d) For a cyclic process, q = -w;"(d) For a cyclic process, q = -w
+Explanation:
+(1) ΔU = q + w. For an isochoric process, w = −PΔV = 0. Hence, ΔU = qv
+(2) For an adiabatic process, q = 0. Hence, ΔU = w
+(3 ) For an isothermal process, ΔU = 0 Hence, q = −w
+(4) For a cyclic process , ΔU = 0. Hence, q = −w"
+A system absorb 10 kJ of heat at constant volume and its temperature rises from 270°C to 370°C. The value of ∆ U is;(a) 100 kJ;(b) 10 kJ;(c) 0 kJ;(d) 1 kJ;"(b) 10 kJ
+Explanation:
+At constant volume w = 0
+Therefore, ∆ U = q = 10 kJ"
+The temperature of the system decreases in an ______.;(a) Adiabatic Compression;(b) Isothermal Expansion;(c) Isothermal Compression;(d) Adiabatic Expansion;"(d) Adiabatic Expansion
+Explanation:
+In adiabatic process heat is neither added nor removed from system. So the work done by the system (expansion) in adiabatic process will result in decrease of internal energy of that system (from first law).
+As internal energy is directly proportional to the change in temperature there will be temperature drop in an adiabatic process."
+Which of the following salts will have maximum cooling effect when 0.5 mole of the salt is dissolved in same amount of water. Integral heat of solution at 298 K is given for each salt?;(a) KNO3 (∆H = 35.4 kJ mol-1);(b) NaCl (∆H = 5.35 kJ mol-1);(c) HBr (∆H = -83.3 kJ mol-1);(d) KOH ( ∆H = -55.6 kJ mol-1);"(a) KNO3 (∆H = 35.4 kJ mol-1)
+Explanation:
+More the heat absorbed, more will be the cooling effect. Hence, more the positive value of ∆ H, more the cooling effect."
+Standard enthalpy of vapourisation ΔHvap for water at 100oC is 40.66 kJmol-1. The internal energy of vapourisation of water at 100°C (in kJmol-1) is (Assume water vapour to behave like an ideal gas);(a) 43.76;(b) 40.66;(c) 37.56;(d) -43.76;"(c) 37.56
+Explanation:
+For gaseous reactants and products, we have a relation between standard enthalpy of vaporization (ΔHvap) and standard internal energy (ΔE) as-
+ΔHvap = ΔE+ Δng​ RT whereas,
+Δng = n2​ − n1, i.e., difference between no. of moles of reactant and product.
+For vaporization of water,
+H2O (l) → H2O(g)
+​Therefore, Δng = 1 − 0 = 1
+Therefore, ΔHvap = ΔE+ Δng RT
+⇒ ΔE = ΔHvap − Δng
+​RT = 40.63 − (1×8.314×10-3 × 373) = 37.53 KJ/mol
+Hence the value ΔE for this process will be 37.53KJ/mol."

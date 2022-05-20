@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -21,3 +22,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+=======
+ml_nlp/.ipynb_checkpoints
+ml_nlp/test.py
+ml_nlp/scrap
+>>>>>>> ff1e6511b948c9c0a1fa65103bead1f93c38845a

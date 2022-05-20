@@ -1,0 +1,133 @@
+,index,0,1,2,3,4,Answer,Words
+0,0.0,Physical quantities are,"(a) quantities such as degrees, radians and steradians","(b) quantities such as length, mass, time, electric current, thermodynamic temperature, amount of substance, and luminous intensity","(c) quantities such as pounds, dollars and rupees","(d) quantities such as kilos, pounds and gallons","(b) quantities such as length, mass, time, electric current, thermodynamic temperature, amount of substance, and luminous intensity",smallest
+1,1.0,Which of the following pairs has the same dimensions?,(a) specific heat and latent heat,(b) lmpulse and momentum,(c) surface tension and force,(d) moment of lnertia and torque,(b) lmpulse and momentum,meter
+2,2.0,The dimensions of kinetic energy is,(a) [M 2L2T],(b) [ML 2T],(c) [ML 2T-2],(d) [ML 2T-1],(c) [ML 2T-2],mass
+3,3.0,"A force F is given by F = at + bt², where t is time. What are the dimensions of a and b?",(a) MLT-1 and MLT0,(b) MLT-3 and ML2T4,(c) MLT-4 and MLT1,(d) MLT-3 and MLT-4,(d) MLT-3 and MLT-4,wbm
+4,4.0,The atmospheric pressure is 106 dyne/cm². What is its value in SI unit?,(a) 105 newton/m²,(b) 106 newton/m²,(c) 104 newton/m²,(d) 103 newton/m²,(a) 105 newton/m²,mta
+5,5.0,"In a system of units if force (F), acceleration (A) and time (T) are taken as fundamentals units then the dimensional formula of energy is",(a) FA2T,(b) FAT2,(c) FA2T,(d) FAT,(b) FAT2,individual
+6,6.0,"If force (F), work (W) and velocity (v) are taken as fundamental quantities. What is the dimensional formula of time (T)?",(a) [WFv],(b) [WFv-1],(c) [W-1F -1v],(d) [WF-1v -1],(d) [WF-1v -1],youngs
+7,7.0,The dimensions of kinetic energy is same as that of,(a) force,(b) pressure,(c) work,(d) momentum,(c) work,error
+8,8.0,Which of the following groups have different dimensions?,"(a) Potential difference, EMF, voltage","(b) Pressure, stress, Youngs modulus","(c) Heat, energy, work done","(d) Dipole moment, electric flux, electric field","(d) Dipole moment, electric flux, electric field",induction
+9,9.0,ML-1T -2 is the dimensional formula of,(a) magnetic induction,(b) self-inductance,(c) electric potential,(d) electric field,(a) magnetic induction,flux
+10,10.0,What is the dimensional formula of magnetic field?,(a) MT-2A-1,(b) MT-1A-2,(c) M-1L-2TA-1,(d) M-1LTA-2,(a) MT-2A-1,length
+11,11.0,Electron volt is a unit of,(a) charge,(b) potential difference,(c) energy,(d) magnetic force,(c) energy,modulus
+12,12.0,The volume of a cube in m³ is equal to the surface area of the cube in m². The volume of the cube is,(a) 64 m³,(b) 216 m³,(c) 512 m³,(d) 196 m³,(b) 216 m³,velocity
+13,13.0,In SI system the fundamental units are,"(a) meter, kilogram, second, ampere, Kelvin, mole and candela","(b) meter, kilogram, second, coulomb, Kelvin, mole and candela","(c) meter, Newton, second, ampere, Kelvin, mole and candela","(d) meter, kilogram, second, ampere, Kelvin, mole and lux","(b) meter, kilogram, second, coulomb, Kelvin, mole and candela",charge
+14,14.0,Which one of the following represents the correct dimensions of the coefficient of viscosity?,(a) [ML-1T-2],(b) [MLT-1],(c) [ML-1T-1],(d) [ML-2T-2],(c) [ML-1T-1],dimensional
+15,15.0,"A particle starting from the origin (0, 0) moves in a straight line in the (x, y) plane. Its coordinates at a later time are the path of the particle makes with the x-axis an angle of",(a) 300,(b) 450,(c) 600,(d) 0,(c) 600,mlt
+16,16.0,Resolution is,(a) a measure of the bias in the instrument,(b) None of these,(c) the smallest amount of input signal change that the instrument can detect reliably,(d) a measure of the systematic errors,(d) a measure of the systematic errors,one
+17,17.0,Absolute error of the measurement is,(a) the difference between the individual measurement and the true value of the quantity cubed.,(b) the difference between the individual measurement and the true value of the quantity squared.,(c) the difference between two individual measurements and their mean,(d) the difference between the individual measurement and the true value of the quantity,(a) the difference between the individual measurement and the true value of the quantity cubed.,true
+18,18.0,"Which of the following units denotes the dimensions [ML2/Q2], where Q represents the electric charge?",(a) Wb/m²,(b) Henry(H),(c) H/m²,(d) Weber(Wb),(b) Henry(H),represents
+19,19.0,Light year is a unit of,(a) time,(b) distance,(c) sunlight intensity,(d) mass,(b) distance,
+20,,,,,,,,luminous
+21,,,,,,,,origin
+22,,,,,,,,dynecm
+23,,,,,,,,specific
+24,,,,,,,,later
+25,,,,,,,,measurement
+26,,,,,,,,selfinductance
+27,,,,,,,,kelvin
+28,,,,,,,,unit
+29,,,,,,,,temperature
+30,,,,,,,,momentum
+31,,,,,,,,dimension
+32,,,,,,,,weberwb
+33,,,,,,,,rupee
+34,,,,,,,,substance
+35,,,,,,,,acceleration
+36,,,,,,,,newtonm
+37,,,,,,,,mean
+38,,,,,,,,ampere
+39,,,,,,,,work
+40,,,,,,,,atmospheric
+41,,,,,,,,current
+42,,,,,,,,amount
+43,,,,,,,,second
+44,,,,,,,,plane
+45,,,,,,,,lux
+46,,,,,,,,surface
+47,,,,,,,,candela
+48,,,,,,,,gallon
+49,,,,,,,,radian
+51,,,,,,,,system
+52,,,,,,,,distance
+53,,,,,,,,path
+54,,,,,,,,moment
+55,,,,,,,,intensity
+56,,,,,,,,cube
+57,,,,,,,,difference
+58,,,,,,,,two
+59,,,,,,,,taken
+61,,,,,,,,area
+62,,,,,,,,make
+63,,,,,,,,denotes
+64,,,,,,,,coordinate
+66,,,,,,,,time
+68,,,,,,,,thermodynamic
+69,,,,,,,,torque
+70,,,,,,,,bias
+71,,,,,,,,tension
+72,,,,,,,,dipole
+73,,,,,,,,cubed
+74,,,,,,,,measure
+75,,,,,,,,volume
+76,,,,,,,,equal
+77,,,,,,,,volt
+78,,,,,,,,following
+79,,,,,,,,systematic
+80,,,,,,,,particle
+81,,,,,,,,quantity
+82,,,,,,,,henry
+83,,,,,,,,pressure
+85,,,,,,,,correct
+86,,,,,,,,steradian
+87,,,,,,,,field
+88,,,,,,,,potential
+89,,,,,,,,detect
+90,,,,,,,,electric
+91,,,,,,,,energy
+92,,,,,,,,newton
+93,,,,,,,,lmpulse
+94,,,,,,,,force
+95,,,,,,,,mlta
+96,,,,,,,,squared
+97,,,,,,,,line
+98,,,,,,,,done
+99,,,,,,,,group
+100,,,,,,,,angle
+101,,,,,,,,magnetic
+102,,,,,,,,kinetic
+103,,,,,,,,value
+104,,,,,,,,stress
+105,,,,,,,,signal
+106,,,,,,,,kilogram
+107,,,,,,,,instrument
+108,,,,,,,,lnertia
+109,,,,,,,,pair
+110,,,,,,,,heat
+111,,,,,,,,sunlight
+112,,,,,,,,coefficient
+113,,,,,,,,voltage
+114,,,,,,,,reliably
+115,,,,,,,,fundamental
+116,,,,,,,,emf
+117,,,,,,,,given
+118,,,,,,,,different
+119,,,,,,,,none
+120,,,,,,,,formula
+121,,,,,,,,degree
+122,,,,,,,,change
+124,,,,,,,,mole
+126,,,,,,,,pound
+128,,,,,,,,xaxis
+129,,,,,,,,move
+130,,,,,,,,viscosity
+131,,,,,,,,input
+132,,,,,,,,starting
+133,,,,,,,,year
+134,,,,,,,,coulomb
+135,,,,,,,,straight
+136,,,,,,,,dollar
+137,,,,,,,,kilo
+138,,,,,,,,fat
+139,,,,,,,,latent

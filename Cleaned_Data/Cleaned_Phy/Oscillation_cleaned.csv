@@ -1,0 +1,150 @@
+,index,0,1,2,3,4,Answer,Words
+0,0.0,In damped oscilation the directions of the restoring force and the resistive force,(a) are the same,(b) are opposite,(c) may be same or opposite,(d) have no relation with each other,(c) may be same or opposite,zero
+1,1.0,The displacement y of a particle executing periodic motion is given by y = 4 cos² (t/2) sin (1000t). This expression may be considered to be a result of superposition of the following number of harmonic motions.,(a) two,(b) three,(c) four,(d) five,(b) three,pendulum
+2,2.0,Spring is pulled down by 2 cm. What is amplitude of motion?,(a) 0 cm,(b) 6 cm,(c) 2 cm,(d) cm,(c) 2 cm,observation
+3,3.0,"One of the two clocks on the earth is controlled by a pendulum and other by a spring. If both the clocks are taken to the moon, then which clock will have the same time – period of the earth?",(a) spring clock,(b) pendulum clock,(c) both,(d) none,(a) spring clock,damping
+4,4.0,"When a particle performing uniform circular motion of radius 10 cm undergoes the SHM, what will be its amplitude?",(a) 10 cm,(b) 5 cm,(c) 2.5 cm,(d) 20 cm,(a) 10 cm,undergoes
+5,5.0,"For a magnet of time period T magnetic moment is M, if the magnetic moment becomes one fourth of the initial value, then the time period of oscillation becomes.",(a) Half of initial value,(b) One fourth of initial value,(c) Double of initial value,(d) Four time initial value,(c) Double of initial value,direction
+6,6.0,"Time period of simple pendulum of length l and a place where acceleration due to gravity is g is T. what is the period of a simple pendulum of the same length at a place where the acceleration due to gravity is 1.029 is,",(a) T,(b) 1.02 T,(c) 0.99 T,(d) 1.01 T,(c) 0.99 T,metre
+7,7.0,"In the case of forced oscillations, which of the following statements is not true?",(a) frequency equals that of external periodic force,(b) amplitude depends upon the damping coefficient,(c) amplitude tends to infinity at resonance,"(d) higher the damping coefficient, lower is the amplitude at resonance",(c) amplitude tends to infinity at resonance,pulled
+8,8.0,"The motion of a particle executing simple harmonic motion is given by X = 0.01 sin 100p (t + 0.05), where X is in metres ant t in second. The time period in second is",(a) 0.001,(b) 0.02,(c) 0.1,(d) 0.2,(b) 0.02,ant
+9,9.0,"In damped oscilation, the angular frequency of the oscillator",(a) keeps on decreasing,(b) keeps on increasing,(c) emains the same,(d) fluctuates,(c) emains the same,fluctuates
+10,10.0,The acceleration of particle executing S.H.M. when it is at mean position is,(a) Infinite,(b) Varies,(c) Maximum,(d) Zero,(d) Zero,upon
+11,11.0,"In SHM, graph of which of the following is a straight line?",(a) T.E. against displacement,(b) P.E. against displacement,(c) Acceleration against time,(d) Velocity against displacement,(a) T.E. against displacement,superposition
+12,12.0,The period of thin magnet is 4 sec. if it is divided into two equal halves then the time period of each part will be,(a) 4 sec,(b) 1 sec,(c) 2 sec,(d) 8 sec,(c) 2 sec,near
+13,13.0,"If the length of seconds pendulum is increased by 2%, how may seconds it will lose per day?",(a) 3427 sec,(b) 3727 sec,(c) 3927 sec,(d) 864 sec,(d) 864 sec,lower
+14,14.0,Length of a simple pendulum executing simple harmonic motion is increased by 21%. The percentage increase in the time – period of the pendulum of increased length is,(a) 10%,(b) 1%,(c) 21%,(d) 42%,(a) 10%,shm
+15,15.0,"If a simple harmonic oscillator has got a displacement of 0.02 m and acceleration equal to 2.0 ms-2 at any time, the angular frequency of the oscillator is equal to",(a) 10 rad s-1,(b) 1 rad s-1,(c) 100 rad s-1,(d) 1 rad s-1,(a) 10 rad s-1,length
+16,16.0,"The bob of a simple pendulum is a spherical hollow ball filled with water. A plugged hall near the bottom of the oscillating bob gets suddenly unplugged. During observation, till water is coming out, the time -period of the oscillation would",(a) first decrease and then increase to the original value,(b) first increase and then decrease to the original value,(c) increase towards a saturation value,(d) remain unchanged,(b) first increase and then decrease to the original value,performing
+17,17.0,The maximum velocity for particle in SHM is 0.16 m/s and maximum acceleration is 0.64 m/s2. The amplitude is,(a) 4 × 10-2 m,(b) 4 × 10-1 m,(c) 4 × 10 m,(d) 4 × 100 m,(a) 4 × 10-2 m,opposite
+18,18.0,The period of a simple harmonic oscillator is 2 sec. The ratio of its maximum velocity and maximum acceleration is,(a) ∏,(b) 1/∏,(c) 2∏,(d) 4,(b) 1/∏,becomes
+19,19.0,If a hole is bored along the diameter of the earth and a stone is dropped into the hole,(a) The stone reaches the centre of the earth and stops there,(b) The stone reaches the other side of the earth and stops there,(c) The stone executes simple harmonic motion about the centre of the earth,(d) The stone reaches the other side of the earth and escapes into space,(c) The stone executes simple harmonic motion about the centre of the earth,oscilation
+20,,,,,,,,velocity
+21,,,,,,,,angular
+22,,,,,,,,graph
+23,,,,,,,,increased
+24,,,,,,,,damped
+25,,,,,,,,restoring
+26,,,,,,,,infinite
+27,,,,,,,,one
+28,,,,,,,,periodic
+29,,,,,,,,displacement
+30,,,,,,,,true
+31,,,,,,,,till
+32,,,,,,,,double
+33,,,,,,,,initial
+34,,,,,,,,centre
+35,,,,,,,,filled
+36,,,,,,,,forced
+37,,,,,,,,oscillation
+38,,,,,,,,frequency
+39,,,,,,,,suddenly
+40,,,,,,,,uniform
+42,,,,,,,,case
+44,,,,,,,,acceleration
+45,,,,,,,,water
+46,,,,,,,,mean
+47,,,,,,,,maximum
+48,,,,,,,,bob
+50,,,,,,,,gravity
+51,,,,,,,,escape
+52,,,,,,,,magnet
+53,,,,,,,,radius
+54,,,,,,,,decrease
+55,,,,,,,,second
+56,,,,,,,,stop
+57,,,,,,,,side
+58,,,,,,,,ball
+59,,,,,,,,half
+60,,,,,,,,four
+61,,,,,,,,increasing
+63,,,,,,,,unplugged
+64,,,,,,,,moment
+65,,,,,,,,executing
+66,,,,,,,,lose
+67,,,,,,,,three
+68,,,,,,,,resonance
+69,,,,,,,,would
+70,,,,,,,,oscillator
+71,,,,,,,,five
+72,,,,,,,,two
+73,,,,,,,,taken
+74,,,,,,,,oscillating
+75,,,,,,,,get
+76,,,,,,,,sin
+77,,,,,,,,relation
+78,,,,,,,,place
+79,,,,,,,,coming
+80,,,,,,,,hall
+81,,,,,,,,space
+83,,,,,,,,time
+84,,,,,,,,rad
+85,,,,,,,,executes
+86,,,,,,,,period
+87,,,,,,,,per
+88,,,,,,,,reach
+89,,,,,,,,equal
+90,,,,,,,,infinity
+92,,,,,,,,unchanged
+93,,,,,,,,expression
+94,,,,,,,,following
+95,,,,,,,,day
+97,,,,,,,,particle
+98,,,,,,,,hole
+99,,,,,,,,original
+100,,,,,,,,circular
+101,,,,,,,,keep
+102,,,,,,,,tends
+103,,,,,,,,along
+104,,,,,,,,bottom
+105,,,,,,,,earth
+106,,,,,,,,saturation
+107,,,,,,,,simple
+108,,,,,,,,moon
+109,,,,,,,,statement
+110,,,,,,,,spherical
+111,,,,,,,,motion
+112,,,,,,,,considered
+113,,,,,,,,controlled
+114,,,,,,,,force
+115,,,,,,,,varies
+116,,,,,,,,increase
+117,,,,,,,,got
+118,,,,,,,,line
+119,,,,,,,,part
+121,,,,,,,,result
+122,,,,,,,,magnetic
+123,,,,,,,,resistive
+124,,,,,,,,value
+125,,,,,,,,harmonic
+126,,,,,,,,plugged
+127,,,,,,,,stone
+128,,,,,,,,ratio
+129,,,,,,,,fourth
+130,,,,,,,,coefficient
+131,,,,,,,,percentage
+133,,,,,,,,number
+134,,,,,,,,spring
+135,,,,,,,,given
+136,,,,,,,,none
+137,,,,,,,,sec
+138,,,,,,,,emains
+139,,,,,,,,clock
+140,,,,,,,,higher
+141,,,,,,,,first
+142,,,,,,,,external
+143,,,,,,,,thin
+144,,,,,,,,amplitude
+145,,,,,,,,towards
+146,,,,,,,,due
+147,,,,,,,,dropped
+148,,,,,,,,decreasing
+149,,,,,,,,straight
+150,,,,,,,,hollow
+151,,,,,,,,position
+152,,,,,,,,diameter
+153,,,,,,,,depends
+154,,,,,,,,bored
+155,,,,,,,,remain
+156,,,,,,,,divided
+157,,,,,,,,may

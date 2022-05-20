@@ -1,0 +1,149 @@
+,index,0,1,2,3,4,Answer,Words
+0,0.0,The coupling co-efficient of the perfectly coupled coils is:,(a) Zero,(b) 1,(c) slightly more than 1,(d) infinite,(b) 1,zero
+1,1.0,1 henry is equal to :,(a) \(\frac{weber}{ampere}\),(b) \(\frac{weber}{Volt}\),(c) weber ampere,(d) None of these,(a) \(\frac{weber}{ampere}\),secondcoulomb
+2,2.0,"The magnetic field is parallel to a surface, then the magnetic flux through the surface is :",(a) zero,(b) small but not zero,(c) infinite,(d) large but not infinite,(b) small but not zero,effective
+3,3.0,"In the expression e = –\(\frac{d∅}{dt}\), the -ve sign signifies:",(a) The induced emf is produced only when magnetic flux decreases,(b) The induced emf opposes the change in the magnetic flux,(c) The induced emf is opposite to the direction of the flux,(d) None of these,(b) The induced emf opposes the change in the magnetic flux,direction
+4,4.0,An e– and a p– are moving parallel to each other in a magnetic field. The magnetic force acting on the p+ is:,(a) 1840 times that on e–,(b) less than that of e–,(c) same as that of e–,(d) slightly more than that of e–,(c) same as that of e–,purely
+5,5.0,Which of the following is not equal to a henry?,(a) \(\frac{Volt second}{ampere}\),(b) \(\frac{Volt second^2}{Coulomb}\),(c) \(\frac{Volt^2 second}{Coulomb}\),(d) \(\frac{Jole second}{Coulomb^2}\),(c) \(\frac{Volt^2 second}{Coulomb}\),rusting
+6,6.0,A transformer is used to light 100 W and 110 V lamp from a 220 V mains. If the main current is 0.5 A. Then the efficiency of the transformer is:,(a) 11%,(b) 50%,(c) 80%,(d) 90%,(d) 90%,mil
+7,7.0,The magnetic flux (∅) linked with a coil is related to the number of turns (N) ofthe coil as:,(a) f ∝ N,(b) f ∝ N-1,(c) f ∝ N2,(d) f ∝ N-2,(a) f ∝ N,perfectly
+8,8.0,The magnetic flux (∅) lined with a coil is related to its area (s) as:,(a) ∅ ∝ s,(b) ∅ ∝ s²,(c) ∅ ∝ s1/2,(d) ∅ ∝ s-1/2,(a) ∅ ∝ s,developed
+9,9.0,"If the magnetic flux linked with a coil through which a current off ampere is set up is ∅, then the coefficient of self-inductance of the coil is:",(a) \(\frac{l}{∅}\),(b) \(\frac{∅}{l}\),(c) ∅l,(d) None of these,(b) \(\frac{∅}{l}\),neither
+10,10.0,"In a uniform magnetic field B, a wire in the form of a semicircle of radius r rotated about the diameter of the circle with angular frequency ‘ω’. The axis of rotation is perpendicular to the field. If the total resistance of the circuit is R the mean power generated per period of rotation is :",(a) \(\frac{Bπr^2ω}{2R}\),(b) \(\frac{(Bπr^2ω)^2}{8R}\),(c) \(\frac{(Bπrω)^2}{2R}\),(d) \(\frac{(Bπrω^2)^2}{8R}\),(b) \(\frac{(Bπr^2ω)^2}{8R}\),secondary
+11,11.0,The role of inductance is equivalent to:,(a) inertia,(b) force,(c) energy,(d) momentum,(a) inertia,together
+12,12.0,"A metal conductor of length 1 m rotates vertically about one of its ends at angular velocity 5 rad s-1 . If the horizontal component of earth’s magnetism is 2 × 10-5 T, then e.m.f. developed between the two ends of the conductor is:",(a) 5 µV,(b) 50 µV,(c) 5 mV,(d) 50 mV,(a) 5 µV,horizontal
+13,13.0,coil of L = 8.4 mH and R = 6 Ω is connected to a 12 V battery. The current in the coil is 1.0 A at approx’time of:,(a) 500 s,(b) 20 s,(c) 35 ms,(d) 1 ms,(d) 1 ms,flux
+14,14.0,"If I current is flowing inductance L, then the dimension of \(\frac{3}{2}\) LI² is equivalent to:",(a) charge,(b) force,(c) momentum,(d) energy,(c) momentum,length
+15,15.0,The phase difference between the flux linkage and the emf in a rotating coil in a uniform magnetic field is:,(a) zero,(b) \(\frac{π}{2}\),(c) \(\frac{π}{4}\),(d) π,(c) \(\frac{π}{4}\),velocity
+16,16.0,A choke is used as a resistance in :,(a) dc circuits,(b) ac circuits,(c) both ac and dc circuits,(d) neither (a) nor (b),(b) ac circuits,opposite
+17,17.0,The SI unit of magnetic flux is:,(a) T,(b) Tn-2,(c) Wb,(d) Wb m-2,(c) Wb,charge
+18,18.0,"For purely capacitive circuits, power factor is:",(a) 0,(b) -1,(c) 1,(d) infinity,(a) 0,slightly
+19,19.0,The magnetic flux linked with a coil is inversely proportional to the?,(a) magnetic field,(b) area of cross section,(c) number of turns,(d) none of these,(a) magnetic field,angular
+20,20.0,"When the magnetic field is parallel to a surface, then the magnetic flux through the surface is:",(a) infinite,(b) zero,(c) small but not zero,(d) large but not infinite.,(b) zero,cross
+21,21.0,The energy stored in a 50 mH inductor carrying a current of 4 A is:,(a) 0.1 J,(b) 0.4 J,(c) 0.04 J,(d) 0.01 J,(b) 0.4 J,inertia
+22,22.0,The flux linked with a coif at any instant t is given by ∅ = 10t² – 50t + 250. The induced emf at t = 35 is:,(a) 10 V,(b) 190 V,(c) -190 V,(d) -10 V,(d) -10 V,carrying
+23,23.0,Two coils of self inductance 2 mil and 8 mil are placed so close together that the effective flux in one coil is completely linked with other. The mutual inductance between these coils is :,(a) 4 mH,(b) 16 mH,(c) 10 mH,(d) 6 mH,(c) 10 mH,increased
+24,24.0,The core of a transformer is laminated because:,(a) rusting of core may be prevented,(b) ratio of voltage in primary and secondary may be increased.,(c) energy losses due to eddy current may be minimised,(d) The weight of transformer may be reduced,(c) energy losses due to eddy current may be minimised,used
+25,,,,,,,,infinite
+26,,,,,,,,one
+27,,,,,,,,inductor
+28,,,,,,,,large
+29,,,,,,,,mutual
+30,,,,,,,,sign
+31,,,,,,,,secondampere
+32,,,,,,,,lined
+34,,,,,,,,set
+36,,,,,,,,factor
+38,,,,,,,,core
+39,,,,,,,,circle
+40,,,,,,,,metal
+42,,,,,,,,selfinductance
+43,,,,,,,,unit
+44,,,,,,,,laminated
+45,,,,,,,,momentum
+46,,,,,,,,dimension
+47,,,,,,,,close
+48,,,,,,,,transformer
+49,,,,,,,,frequency
+50,,,,,,,,uniform
+51,,,,,,,,perpendicular
+52,,,,,,,,linked
+53,,,,,,,,turn
+54,,,,,,,,mean
+55,,,,,,,,ampere
+56,,,,,,,,approxtime
+57,,,,,,,,magnetism
+58,,,,,,,,loss
+60,,,,,,,,current
+61,,,,,,,,radius
+62,,,,,,,,small
+63,,,,,,,,decrease
+64,,,,,,,,surface
+65,,,,,,,,stored
+69,,,,,,,,coupled
+70,,,,,,,,capacitive
+71,,,,,,,,efficiency
+72,,,,,,,,circuit
+73,,,,,,,,resistance
+74,,,,,,,,difference
+75,,,,,,,,two
+76,,,,,,,,instant
+77,,,,,,,,rotated
+78,,,,,,,,area
+81,,,,,,,,equivalent
+82,,,,,,,,self
+83,,,,,,,,proportional
+84,,,,,,,,acting
+85,,,,,,,,coil
+86,,,,,,,,moving
+87,,,,,,,,ofthe
+88,,,,,,,,section
+89,,,,,,,,time
+91,,,,,,,,induced
+92,,,,,,,,rad
+93,,,,,,,,period
+94,,,,,,,,rotates
+96,,,,,,,,coif
+97,,,,,,,,per
+98,,,,,,,,equal
+99,,,,,,,,infinity
+100,,,,,,,,expression
+101,,,,,,,,following
+102,,,,,,,,main
+103,,,,,,,,light
+105,,,,,,,,henry
+106,,,,,,,,connected
+107,,,,,,,,battery
+109,,,,,,,,lamp
+110,,,,,,,,conductor
+111,,,,,,,,field
+112,,,,,,,,reduced
+113,,,,,,,,earth
+114,,,,,,,,inductance
+116,,,,,,,,form
+117,,,,,,,,energy
+118,,,,,,,,produced
+120,,,,,,,,force
+121,,,,,,,,rotating
+122,,,,,,,,parallel
+123,,,,,,,,placed
+124,,,,,,,,magnetic
+125,,,,,,,,primary
+126,,,,,,,,flowing
+127,,,,,,,,end
+128,,,,,,,,prevented
+129,,,,,,,,ratio
+130,,,,,,,,wire
+131,,,,,,,,power
+132,,,,,,,,generated
+133,,,,,,,,phase
+134,,,,,,,,minimised
+135,,,,,,,,coefficient
+136,,,,,,,,voltage
+137,,,,,,,,eddy
+138,,,,,,,,number
+139,,,,,,,,emf
+140,,,,,,,,component
+141,,,,,,,,given
+142,,,,,,,,none
+143,,,,,,,,rotation
+144,,,,,,,,choke
+145,,,,,,,,change
+146,,,,,,,,inversely
+147,,,,,,,,vertically
+148,,,,,,,,linkage
+149,,,,,,,,opposes
+150,,,,,,,,signifies
+152,,,,,,,,weight
+153,,,,,,,,semicircle
+154,,,,,,,,total
+155,,,,,,,,coupling
+156,,,,,,,,axis
+157,,,,,,,,fracddt
+158,,,,,,,,role
+159,,,,,,,,weber
+160,,,,,,,,due
+164,,,,,,,,related
+165,,,,,,,,diameter
+166,,,,,,,,completely
+167,,,,,,,,may
