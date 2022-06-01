@@ -1,4 +1,5 @@
 import React, { Component, Fragment } from "react";
+import { NavLink } from "react-router-dom";
 import Avatar from "@mui/material/Avatar";
 import navLogo from "../Assets/Study-Icon.webp";
 import navLogo2 from "../Assets/prashna-logo.png";
@@ -21,39 +22,39 @@ export default function Navbar() {
     <div className="bg-white shadow-sm">
       <div className="h-16 flex justify-between items-center ml-5">
         <div className="h-3/4 ml-6">
-          <a href="/">
+          <NavLink to="/">
             <img
               className="w-12 hover:w-[3.12rem] transition-all ease-in-out delay-100"
               src={navLogo2}
               alt=""
             />
-          </a>
+          </NavLink>
         </div>
         <div className="flex justify-evenly min-w-[50%] font-medium items-center">
-          <a
-            href="/"
+          <NavLink
+            to="/"
             className="text-lg antialiased hover:text-violet-800 hover:text-[1.15em] transition-all ease-in-out delay-100"
           >
             Home
-          </a>
-          <a
-            href="/login"
+          </NavLink>
+          <NavLink
+            to="/login"
             className="text-lg antialiased hover:text-violet-800 hover:text-[1.15em] transition-all ease-in-out delay-100"
           >
             Login
-          </a>
-          <a
-            href="/signup"
+          </NavLink>
+          <NavLink
+            to="/signup"
             className="text-lg antialiased hover:text-violet-800 hover:text-[1.15em] transition-all ease-in-out delay-100"
           >
             Sign Up
-          </a>
-          <a
-            href="/upload"
+          </NavLink>
+          <NavLink
+            to="/upload"
             className="text-lg antialiased hover:text-violet-800 hover:text-[1.15em] transition-all ease-in-out delay-100"
           >
             Contribute
-          </a>
+          </NavLink>
           <Button
             id="basic-button"
             aria-controls={open ? "basic-menu" : undefined}
